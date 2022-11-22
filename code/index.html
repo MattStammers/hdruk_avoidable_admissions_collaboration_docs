@@ -287,20 +287,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#modules.vaccine_thrombo.vaccine_thrombo" class="md-nav__link">
-    modules.vaccine_thrombo.vaccine_thrombo
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#modules.vaccine_thrombo.vaccine_thrombo.thrombocalc" class="md-nav__link">
-    thrombocalc()
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#modules.chest_pain.calculator" class="md-nav__link">
     modules.chest_pain.calculator
   </a>
@@ -382,20 +368,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#modules.vaccine_thrombo.vaccine_thrombo" class="md-nav__link">
-    modules.vaccine_thrombo.vaccine_thrombo
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#modules.vaccine_thrombo.vaccine_thrombo.thrombocalc" class="md-nav__link">
-    thrombocalc()
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#modules.chest_pain.calculator" class="md-nav__link">
     modules.chest_pain.calculator
   </a>
@@ -450,75 +422,9 @@
 <h2 id="code">Code</h2>
 <p>This part of the documentation contains the code-snippets and functions used for data preparation and analysis. It focuses on using as structured an approach as possible using an <strong>information-oriented</strong> approach. Use it as a
 reference for the technical implementation of the
-<code>admission_mapper</code> oject code.</p>
+<code>admission_mapper</code> object code.</p>
 <h2 id="pseudocode-placeholder-demo-modules">Pseudocode placeholder demo modules</h2>
 
-
-<div class="doc doc-object doc-module">
-
-
-<a id="modules.vaccine_thrombo.vaccine_thrombo"></a>
-  <div class="doc doc-contents first">
-  
-      <p>Provide a method for calculating thrombosis</p>
-<p>This module allows the user to make the calculations required to detect thrombosis</p>
-
-<p><strong>Examples:</strong></p>
-    <div class="highlight"><pre><span></span><code><span class="gp">&gt;&gt;&gt; </span><span class="kn">from</span> <span class="nn">thrombocalc</span> <span class="kn">import</span> <span class="n">thrombocalc</span>
-<span class="gp">&gt;&gt;&gt; </span><span class="n">thrombocalc</span><span class="o">.</span><span class="n">calc</span><span class="p">(</span><span class="mi">200</span><span class="p">,</span> <span class="mi">4000</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
-</code></pre></div>
-
-  
-
-  <div class="doc doc-children">
-
-
-
-
-
-
-
-
-
-<div class="doc doc-object doc-function">
-
-
-
-<h2 class="doc doc-heading" id="modules.vaccine_thrombo.vaccine_thrombo.thrombocalc">
-<code class="highlight language-python"><span class="n">thrombocalc</span><span class="p">(</span><span class="n">plts</span><span class="p">,</span> <span class="n">ddimer</span><span class="p">,</span> <span class="n">events</span><span class="p">)</span></code>
-
-</h2>
-
-
-  <div class="doc doc-contents ">
-  
-      <p>Compute and return the results
-...</p>
-
-      <details class="quote">
-        <summary>Source code in <code>modules\vaccine_thrombo\vaccine_thrombo.py</code></summary>
-        <div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">11</span>
-<span class="normal">12</span>
-<span class="normal">13</span>
-<span class="normal">14</span>
-<span class="normal">15</span></pre></div></td><td class="code"><div><pre><span></span><code><span class="k">def</span> <span class="nf">thrombocalc</span><span class="p">(</span><span class="n">plts</span><span class="p">,</span> <span class="n">ddimer</span><span class="p">,</span> <span class="n">events</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">float</span><span class="p">:</span>
-    <span class="sd">&quot;&quot;&quot;Compute and return the results</span>
-<span class="sd">    ...</span>
-<span class="sd">    &quot;&quot;&quot;</span>
-    <span class="k">return</span> <span class="nb">float</span><span class="p">(</span><span class="n">plts</span> <span class="o">*</span> <span class="n">ddimer</span> <span class="o">*</span> <span class="n">events</span><span class="p">)</span>
-</code></pre></div></td></tr></table></div>
-      </details>
-  </div>
-
-</div>
-
-
-
-  </div>
-
-  </div>
-
-</div>
 
 <div class="doc doc-object doc-module">
 
