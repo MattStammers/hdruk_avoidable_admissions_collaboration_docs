@@ -1,0 +1,24 @@
+# mkdocs.yml
+site_name: hdruk_avoidable_admissions_collaboration_docs
+
+theme:
+  name: "material"
+  nav_style: dark
+
+plugins:
+  - search
+  - mkdocstrings
+
+nav:
+  - Index: index.md
+  - Documentation: documentation.md
+  - Guides: guides.md
+  - Code: code.md
+
+markdown_extensions:
+  - footnotes
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/HDR_UK
