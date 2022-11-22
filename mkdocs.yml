@@ -1,5 +1,5 @@
 # mkdocs.yml
-site_name: hdruk_avoidable_admissions_collaboration_docs
+site_name: HDRUK Avoidable Admissions
 
 theme:
   name: "material"

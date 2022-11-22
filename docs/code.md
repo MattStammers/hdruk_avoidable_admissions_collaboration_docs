@@ -1,7 +1,10 @@
-This part of the project documentation focuses on
-an **information-oriented** approach. Use it as a
+## Code
+
+This part of the documentation contains the code-snippets and functions used for data preparation and analysis. It focuses on using as structured an approach as possible using an **information-oriented** approach. Use it as a
 reference for the technical implementation of the
-`calculator` project code.
+`admission_mapper` oject code.
+
+## Pseudocode placeholder demo modules
 
 ::: modules.vaccine_thrombo.vaccine_thrombo
 
