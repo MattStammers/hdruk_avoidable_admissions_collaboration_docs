@@ -22,9 +22,3 @@ def Mapper(icd10, snomed) -> str:
     snomed_mapping = icd10.map(mapper)
     return snomed_mapping
 
-def ASCD(calculator) -> str:
-    """
-    This is the ASCD calculator
-    """
-    return calculator*2
-

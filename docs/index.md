@@ -23,10 +23,11 @@ To understand variation across the country in acute hospital admissions and expl
 5.       Develop methods for identifying patients at high risk of an avoidable admission using 
 
 The criteria for those at high risk of avoidable admission are considered to be:
-- 36 ambulatory care sensitive conditions[^1]. Alternatively this resource can be accessed in the [Directory of Ambulatory
+
+* 36 ambulatory care sensitive conditions[^1]. Alternatively this resource can be accessed in the [Directory of Ambulatory
 Emergency Care for Adults](https://www.ambulatoryemergencycare.org.uk/uploads/files/1/AEC-Directory%206th%20edition%20February%202018.pdf)
-- Length of stay in hospital
-- Where possible, investigation and treatment received
+* Length of stay in hospital
+* Where possible, investigation and treatment received
 
 ### Population of Interest
 
