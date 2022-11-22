@@ -12,6 +12,7 @@ plugins:
 nav:
   - Index: index.md
   - Documentation: documentation.md
+  - Data Models: data_models.md
   - Guides: guides.md
   - Code: code.md
 

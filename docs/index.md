@@ -2,12 +2,13 @@
 
 This is a collection of the docs for the project and code snippets to help us all collaborate and share tools. 
 
-## Sections
+## Site Main Sections
 
 * `index`          - This navigation page
 * `documentation`  - Documentation for the project which can be published open source to encourage sharing
+* `data_models`    - Contains the Details of the Data Models for the project
 * `code`           - Share repository for code snippets and explanation of how various parts of the code work
-* `guides`          - Guides for how to set things up for the project
+* `guides`         - Guides for how to set things up for the project
 
 ### Aim
 
@@ -20,14 +21,15 @@ To understand variation across the country in acute hospital admissions and expl
 3.       Describe outcomes following acute admission including Length of stay, repeat hospital attendance or admission within 7 days of index attendance, death in hospital.
 4.       Where possible explore linkage with primary care data to identify patients with long term conditions who have an avoidable admission
 5.       Develop methods for identifying patients at high risk of an avoidable admission using: 
-* 36 ambulatory care sensitive conditions[^1]. Alternatively this resource can be accessed in the [Directory of Ambulatory
+
+- 36 ambulatory care sensitive conditions[^1]. Alternatively this resource can be accessed in the [Directory of Ambulatory
 Emergency Care for Adults](https://www.ambulatoryemergencycare.org.uk/uploads/files/1/AEC-Directory%206th%20edition%20February%202018.pdf)
-* Length of stay in hospital
-* Where possible, investigation and treatment received
+- Length of stay in hospital
+- Where possible, investigation and treatment received
 
 ### Population of Interest
 
-Time period: 01/08/21 to 31/08/22, all patients attending the ED during the defined period of time.
+* Time period: 01/08/21 to 31/08/22, all patients attending the ED during the defined period of time.
 
 ## Analysis Plan
 

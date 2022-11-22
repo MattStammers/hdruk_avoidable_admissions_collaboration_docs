@@ -32,7 +32,7 @@ This area contains the key documentation elements to aid in the completion of th
 ICD, International Classification of Diseases.a; Directory of Ambulatory Emergency Care for Adults
 [^1]
 
-## Disease codes associated with ambulatory care sensitive conditions (ACSCs) not in common use in the National Health Service (NHS) (n = 17):
+### Disease codes associated with ambulatory care sensitive conditions (ACSCs) not in common use in the National Health Service (NHS) (n = 17):
 
 |ACSCs|ICD10 codes used to define ACSCsg|
 |:----|:----|
