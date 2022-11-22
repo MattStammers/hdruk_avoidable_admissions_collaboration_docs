@@ -6,14 +6,6 @@ reference for the technical implementation of the
 
 ## Pseudocode placeholder demo modules
 
-::: modules.chest_pain.calculator
-    custom_templates: templates
-    default_handler: python
-    handlers:
-      python:
-        options:
-          show_source: false
-
 ::: modules.avoidable_admissions.mapper
     custom_templates: templates
     default_handler: python
