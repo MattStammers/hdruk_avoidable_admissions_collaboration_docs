@@ -247,6 +247,66 @@
     Data Models
   </a>
   
+    <nav class="md-nav" aria-label="Data Models">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#admitted-patient-care-spec" class="md-nav__link">
+    Admitted Patient Care Spec
+  </a>
+  
+    <nav class="md-nav" aria-label="Admitted Patient Care Spec">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#required-variables-for-analyses" class="md-nav__link">
+    Required variables for analyses
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#emergency-care" class="md-nav__link">
+    Emergency Care
+  </a>
+  
+    <nav class="md-nav" aria-label="Emergency Care">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#overview_1" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#required-variables-for-analyses_1" class="md-nav__link">
+    Required variables for analyses
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
     </ul>
@@ -316,6 +376,66 @@
     Data Models
   </a>
   
+    <nav class="md-nav" aria-label="Data Models">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#admitted-patient-care-spec" class="md-nav__link">
+    Admitted Patient Care Spec
+  </a>
+  
+    <nav class="md-nav" aria-label="Admitted Patient Care Spec">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#required-variables-for-analyses" class="md-nav__link">
+    Required variables for analyses
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#emergency-care" class="md-nav__link">
+    Emergency Care
+  </a>
+  
+    <nav class="md-nav" aria-label="Emergency Care">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#overview_1" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#required-variables-for-analyses_1" class="md-nav__link">
+    Required variables for analyses
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
     </ul>
@@ -336,7 +456,1092 @@
   <h1>Data Models</h1>
 
 <h2 id="data-models">Data Models</h2>
-<p>This area contains the key documentation pertaining to the desired data models for the project</p>
+<p>This area contains the key documentation pertaining to the desired data models for the project. There are now two different datasets as part of the spec:</p>
+<ol>
+<li>Admitted Patient Care</li>
+<li>Emergency Care</li>
+</ol>
+<h3 id="admitted-patient-care-spec">Admitted Patient Care Spec</h3>
+<h4 id="overview">Overview</h4>
+<p>Patient records for all acute emergency admissions for adults (18 years + on day of admission) that had an admission date within the specified study period (see above).</p>
+<p>Please check the coding of the variables against those linked to in the ‘Coding/Classification system’ column, this is to ensure data (and therefore analysis) standardisation across sites.</p>
+<h4 id="required-variables-for-analyses">Required variables for analyses</h4>
+<table>
+<thead>
+<tr>
+<th align="left">Variable name</th>
+<th align="left">Description</th>
+<th align="left">Reasoning / Filtering (see Coding / Classification system)</th>
+<th align="left">Format / Coding / Classification system</th>
+<th align="left">Available? (Y/N) / Comments</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">patient_id</td>
+<td align="left">Pseudo individual patient identifier</td>
+<td align="left">To be able to identify different/the same patient across the dataset, and to identify re-admissions. Likely derived from NHS Number / CHI.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">A unique identifier for each individual patient across the dataset</td>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">procodet</td>
+<td align="left">NHS Digital ODS code defining the organisation providing treatment.</td>
+<td align="left">To be able to identify the trust of the admission</td>
+<td align="left">NHS Data Model ORGANISATION CODE (CODE OF PROVIDER)</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">sitetret</td>
+<td align="left">NHS Digital ODS code defining the site on which the patient was treated within an organisation. Contains the first 3 digits of the provider code of treatment (procodet) with the last two digits being the site identifier.</td>
+<td align="left">To be able to identify the site of the admission</td>
+<td align="left">NHS Data Model SITE CODE (OF TREATMENT)</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">townsend_score_decile</td>
+<td align="left">Deprivation measure that covers both England and Scotland. To be derived from patient postcode</td>
+<td align="left">To report on patient demographics.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">https://statistics.ukdataservice.ac.uk/dataset/2011-uk-townsend-deprivation-scores</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Derived from NHS Data Model POSTCODE OF USUAL ADDRESS</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">gender</td>
+<td align="left">Defines the sex of the patient</td>
+<td align="left">To report on patient demographics.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model PERSON GENDER CODE</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">ethnos</td>
+<td align="left">The ethnicity of the patient, as specified by the patient. Groups as defined in the 2001 census.</td>
+<td align="left">To report on patient demographics.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model ETHNIC CATEGORY</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">admimeth</td>
+<td align="left">Identifies how the patient was admitted to hospital</td>
+<td align="left">Used to select only acute (emergency) admissions.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">admimeth in (21, 22,  23,  24,  25,  2A,  2B,  2C,  2D,  28)</td>
+<td align="left">NHS Data Model ADMISSION METHOD CODE (HOSPITAL PROVIDER SPELL)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">admisorc</td>
+<td align="left">Identifies where the patient was immediately prior to admission</td>
+<td align="left">Used to identify possible care home admissions.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model SOURCE OF ADMISSION CODE (HOSPITAL PROVIDER SPELL)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">admidate</td>
+<td align="left">The date the patient was admitted to hospital at the start of a hospital spell.</td>
+<td align="left">Start date of hospital spell, to limit the time period of interest.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">admidate on or after 2021-10-01 and also</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">on or before 2022-09-30</td>
+<td align="left">NHS Data Model START DATE (HOSPITAL PROVIDER SPELL)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left"></td>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">admitime</td>
+<td align="left">The time the patient was admitted to hospital at the start of a hospital spell. hh:mm:ss format</td>
+<td align="left">Start time of hospital spell.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model START TIME (HOSPITAL PROVIDER SPELL)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">disdest</td>
+<td align="left">Identifies where the patient was due to go on leaving hospital</td>
+<td align="left">Can be used to identify discharge to care homes.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model DISCHARGE DESTINATION CODE (HOSPITAL PROVIDER SPELL</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">dismeth</td>
+<td align="left">Indicates the circumstances under which a patient left hospital</td>
+<td align="left">Used to identify deaths.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model DISCHARGE METHOD CODE (HOSPITAL PROVIDER SPELL)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">length_of_stay</td>
+<td align="left">The length of stay of the patient admission. Calculated as the time between a patient's spell start date and spell end date.</td>
+<td align="left">No filtering</td>
+<td align="left">Derived from</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">NHS Data Model START DATE (HOSPITAL PROVIDER SPELL)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">and</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">NHS Data Model DISCHARGE DATE (HOSPITAL PROVIDER SPELL)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">epiorder</td>
+<td align="left">The order of the episode within the current hospital provider spell. 1 indicates the first episode in the hospital provider spell, 2 the second, etc.</td>
+<td align="left">We wish diagnosis and procedure data from only the first episode of a spell (epiorder = 1).</td>
+<td align="left">NHS Data Model EPISODE NUMBER</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">admiage</td>
+<td align="left">Age on admission</td>
+<td align="left">To report on patient demographics and to limit to desired cohort.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">admiage equals or is greater than 18 years old</td>
+<td align="left">NHS Data Model AGE ON ADMISSION</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">diag_01</td>
+<td align="left">The primary diagnosis code recorded for the episode. The classification system in use is ICD-10.</td>
+<td align="left">Used to identify ambulatory care sensitive conditions. See epiorder.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model PRIMARY DIAGNOSIS (ICD)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Code required to be in contemporary ICD-10 coding standard.</td>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">diag_NN</td>
+<td align="left">The secondary diagnosis codes recorded for the episode. The classification system in use is ICD-10.</td>
+<td align="left">Used to identify ambulatory care sensitive conditions.  See epiorder.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">May include up to 19 secondary diagnosis fields, from 02-20.</td>
+<td align="left">NHS Data Model SECONDARY DIAGNOSIS (ICD)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Code required to be in contemporary ICD-10 coding standard.</td>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">opertn_01</td>
+<td align="left">The main operative procedure code recorded for the episode. The classification system in use is OPCS-4.</td>
+<td align="left">See epiorder. No filtering</td>
+<td align="left">NHS Data Model PRIMARY PROCEDURE (OPCS)</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Codes required to be in contemporary OPCS-4 coding standard</td>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">opdate_01</td>
+<td align="left">The date the primary operative procedure took place.</td>
+<td align="left">See epiorder. No filtering</td>
+<td align="left">NHS Data Model PROCEDURE DATE</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left"></td>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">opertn_NN</td>
+<td align="left">Secondary procedure code</td>
+<td align="left">See epiorder. No filtering</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">May include up to 23 secondary procedure fields, from 02-24.</td>
+<td align="left">NHS Data Model PROCEDURE (OPCS)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Codes required to be in contemporary OPCS-4 coding standard</td>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">opdate_NN</td>
+<td align="left">Secondary procedure date</td>
+<td align="left">See epiorder. No filtering</td>
+<td align="left">NHS Data Model PROCEDURE DATE</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left"></td>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+<p>Note: We are aware that the CDS allows for unlimited secondary diagnoses and procedures to be recorded. The first recorded 19 such secondary diagnoses and first 23 such secondary procedures are sufficient for our purposes.</p>
+<h3 id="emergency-care">Emergency Care</h3>
+<h4 id="overview_1">Overview</h4>
+<p>Patient records for all emergency care attendances for adults (18 years + on day of admission) that had an admission date within the specified study period (see above).</p>
+<p>Please check the coding of the variables against those linked to in the ‘Coding/Classification system’ column, this is to ensure data (and therefore analysis) standardisation across sites.</p>
+<h4 id="required-variables-for-analyses_1">Required variables for analyses</h4>
+<table>
+<thead>
+<tr>
+<th align="left">Variable name</th>
+<th align="left">Description</th>
+<th align="left">Reasoning / Filtering (see Coding / Classification system)</th>
+<th align="left">Format / Coding / Classification system</th>
+<th align="left">Available? (Y/N) / Comments</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">patient_id</td>
+<td align="left">Pseudo individual patient identifier</td>
+<td align="left">To be able to identify different/the same patient across the dataset, and to identify re-admissions. Likely derived from NHS Number / CHI.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">A unique identifier for each individual patient across the dataset</td>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">townsend_score_decile</td>
+<td align="left">Deprivation measure that covers both England and Scotland. To be derived from patient postcode</td>
+<td align="left">To report on patient demographics.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">https://statistics.ukdataservice.ac.uk/dataset/2011-uk-townsend-deprivation-scores</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Derived from NHS Data Model POSTCODE OF USUAL ADDRESS</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">gender</td>
+<td align="left">Defines the sex of the patient</td>
+<td align="left">To report on patient demographics.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model PERSON STATED GENDER CODE</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">ethnos</td>
+<td align="left">The ethnicity of the patient, as specified by the patient. Groups as defined in the 2001 census.</td>
+<td align="left">To report on patient demographics.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model ETHNIC CATEGORY</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">AccommodationStatus_SnomedCt</td>
+<td align="left">Accommodation Status.</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">SNOMED code</td>
+<td align="left">Can be used to identify patient who live in residential or nursing homes</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model ACCOMMODATION STATUS (SNOMED CT)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y but will require conversion</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">procodet</td>
+<td align="left">NHS Digital ODS code defining the organisation providing treatment.</td>
+<td align="left">To be able to identify the trust of the admission</td>
+<td align="left">NHS Data Model ORGANISATION IDENTIFIER (CODE OF PROVIDER)</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">edsitecode</td>
+<td align="left">Site code for each Type 1 Emergency Department at the Trust. To be derived from Organisation Site Identifier of Treatment and to include the first 3 digits of the provider code of treatment (procodet)</td>
+<td align="left">To be able to identify the site of the admission</td>
+<td align="left">Derived from NHS Data Model ORGANISATION SITE IDENTIFIER (OF TREATMENT)</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">eddepttype</td>
+<td align="left">The type of Emergency Department</td>
+<td align="left">Used to select attendances at type 1 EDs.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">(eddepttype = 01)</td>
+<td align="left">NHS Data Model EMERGENCY CARE DEPARTMENT TYPE</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">edarrivalmode</td>
+<td align="left">Transport mode by which the patient arrived at the Emergency Department.</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">SNOMED code.</td>
+<td align="left">Used to identify arrival by ambulance, etc</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model EMERGENCY CARE ARRIVAL MODE (SNOMED CT)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">edattendcat</td>
+<td align="left">The category of emergency care attendance</td>
+<td align="left">Used to identify unplanned first emergency care attendance for a new clinical condition (or deterioration of a chronic condition).</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">(edattendcat = 1)</td>
+<td align="left">NHS Data Model EMERGENCY CARE ATTENDANCE CATEGORY</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">edattendsource</td>
+<td align="left">The source of an Emergency Care Attendance</td>
+<td align="left">Used to identify the source of an attendance (e.g. via a GP)</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model EMERGENCY CARE ATTENDANCE SOURCE (SNOMED CT)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">edarrivaldatetime</td>
+<td align="left">Emergency Care Arrival DateTime</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Format YYYY/MM/DD hh:mm:ss TMZ</td>
+<td align="left">Arrival datetime at the emergency department</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">EmergencyCareArrivalDate on or after 2021-10-01 00:00:00 and also</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">on or before 2022-1009-3101 00:00:00</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Timezone will be required to derive time in ED correctly.</td>
+<td align="left">Derived from NHS Data Model EMERGENCY CARE ARRIVAL DATE</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">and</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">NHS Data Model EMERGENCY CARE ARRIVAL TIME</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">activage</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left"></td>
+<td align="left">Age at time of activity</td>
+<td align="left">To report on patient demographics and to limit to desired cohort.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">admiage equals or is greater than 18 years old</td>
+<td align="left">NHS Data Model AGE AT CDS ACTIVITY DATE</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">edacuity</td>
+<td align="left">Acuity of patient’s condition at time of initial assessment.</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">SNOMED code.</td>
+<td align="left">To report on patient demographics.</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model EMERGENCY CARE ACUITY (SNOMED CT)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y. Probably</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">edcheifcomplaint</td>
+<td align="left">Chief complaint as assessed by the care professional first assessing the patient.</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">SNOMED code.</td>
+<td align="left">To report on patient demographics.</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model EMERGENCY CARE CHIEF COMPLAINT (SNOMED CT)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Likely to be poorly recorded (lots of free text) and may not be codified</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">edcomorb_NN</td>
+<td align="left">Comorbidities identified for the patient.</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">SNOMED code.</td>
+<td align="left">Used to identify comorbid conditions</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">May include up to 10 fields, from 01-10</td>
+<td align="left">NHS Data Model COMORBIDITY (SNOMED CT)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y but in ICD10 – will require conversion</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">eddiag_NNEmergencyCareDiagnosis_SnomedCt</td>
+<td align="left">Diagnosis codes recorded for the attendance</td>
+<td align="left">Used to identify Ambulatory Care Sensitive Conditions</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">May include up to 12 fields, from 01-12</td>
+<td align="left">NHS Data Model EMERGENCY CARE DIAGNOSIS (SNOMED CT)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y but in ICD10 – will require conversion</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">edentryseq_NNCodedClinicalEntrySequenceNumber</td>
+<td align="left">Sequence number associated with the diagnosis, giving the position it was recorded by the clinician</td>
+<td align="left">Used to tie diagnosis to the position they were recorded.</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">May include up to 2 fields, from 01-12</td>
+<td align="left">NHS Data Model CODED CLINICAL ENTRY SEQUENCE NUMBER</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">eddiagqual_NNEmergencyCareDiagnosisQualifier_SnomedCt</td>
+<td align="left">Level of certainty of a patient diagnosis.</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">SNOMED code.</td>
+<td align="left">Used to identify the level of certainty of a diagnosis</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">May include up to 12 fields, from 01-12</td>
+<td align="left">NHS Data Model EMERGENCY CARE DIAGNOSIS QUALIFIER (SNOMED CT)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Possibly but may be in free-text</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">edinvest_NN</td>
+<td align="left">Clinical investigations performed while a patient is under the care of an Emergency Department.</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">SNOMED code.</td>
+<td align="left">Identify investigations</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">May include up to 12 fields, from 01-12</td>
+<td align="left">NHS Data Model EMERGENCY CARE CLINICAL INVESTIGATION (SNOMED CT)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Y but in ICD10 – will require conversion</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">edtreat_NN</td>
+<td align="left">Treatments performed while the person is under the care of the emergency department.</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">SNOMED code.</td>
+<td align="left">Identify treatments/procedures</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">May include up to 12 fields, from 01-12</td>
+<td align="left">NHS Data Model EMERGENCY CARE PROCEDURE (SNOMED CT)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Possibly but may be in free-text</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">timeined</td>
+<td align="left">The time a patient spent in ED (in minutes)</td>
+<td align="left">Used to report on time in ED</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">See edarrivaldatetime for filtering.</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Also, timezone will need to be considered to correctly derive field around daylight saving transition (BST/GMT)</td>
+<td align="left">Derived from NHS Data Model EMERGENCY CARE DEPARTURE DATE</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">andNHS Data Model EMERGENCY CARE DEPARTURE TIME</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">and</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">edarrivaldatetime</td>
+<td align="left">Y</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">edattenddispatch</td>
+<td align="left">Intended destination of patient following discharge from the emergency department.</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">SNOMED code.</td>
+<td align="left">Used to identify patients who are discharged, admitted, died, etc.</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model EMERGENCY CARE DISCHARGE DESTINATION (SNOMED CT)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left"></td>
+<td align="left">Y but incomplete and will require conversion</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">edrefservice</td>
+<td align="left">Inpatient service to which the patient was referred for admission or opinion by treating clinician.</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">SNOMED code.</td>
+<td align="left">To describe where admitted patients are referred</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">No filtering</td>
+<td align="left">NHS Data Model REFERRED TO SERVICE (SNOMED CT)</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Quite a lot of missing data but present for &gt;50%</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+<p>Note: We are aware that the CDS allows for unlimited diagnoses, comorbidities, procedures, and treatments to be recorded. The first recorded 12 such diagnoses, procedures, and treatments,  and first 10 such comorbidities are sufficient for our purposes.</p>
 
 
 
