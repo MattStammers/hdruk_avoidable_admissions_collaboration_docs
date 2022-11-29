@@ -1,4 +1,4 @@
-# HDRUK Avoidable Admissions Docs and Datashare
+# HDRUK Avoidable Admissions Docs and Codeshare
 
 Repository for sharing data models and information for the national HDRUK avoidable admissions project
 
