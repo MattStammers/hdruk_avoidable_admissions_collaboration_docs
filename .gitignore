@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Stop mac pollution
+**/.DS_Store
+
+# Reduce the risk of checking in secrets
+**/secrets.py
