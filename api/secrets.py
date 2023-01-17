@@ -1,2 +1,0 @@
-client_id = 'ADD YOUR VALUE'
-client_secret = 'ADD YOUR VALUE'
