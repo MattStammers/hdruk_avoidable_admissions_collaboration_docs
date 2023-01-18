@@ -1,0 +1,900 @@
+,_id,isLeafInferred,isLeafStated,conceptId,defaultTerm,definitionStatus,active,module
+0,63866b23081b3c130f5cb2c8,False,True,274100004,Cerebral hemorrhage (disorder),Fully defined,True,900000000000207008
+1,63866b23081b3c130f5cb37b,True,True,208322000,Closed Galeazzi fracture (disorder),Fully defined,True,900000000000207008
+2,63866b23081b3c130f5cba6a,False,True,40108008,Thalassemia (disorder),Primitive,True,900000000000207008
+3,63866b24081b3c130f5cbc19,False,True,40122008,Pneumoconiosis (disorder),Fully defined,True,900000000000207008
+4,63866b25081b3c130f5cc0ae,False,True,281050002,Livebirth (finding),Primitive,True,900000000000207008
+5,63866b25081b3c130f5cc20c,False,True,210762009,"Traumatic amputation, through hip (disorder)",Fully defined,True,900000000000207008
+6,63866b25081b3c130f5cc59e,False,True,210720002,Degloving injury of foot (disorder),Fully defined,True,900000000000207008
+7,63866b26081b3c130f5cc9a7,False,True,210732003,Degloving injury toe (disorder),Fully defined,True,900000000000207008
+8,63866b27081b3c130f5ccac3,False,True,9468002,Closed fracture of carpal bone (disorder),Fully defined,True,900000000000207008
+9,63866b27081b3c130f5ccdb3,True,True,210703001,"Degloving injury, ankle (disorder)",Fully defined,True,900000000000207008
+10,63866b27081b3c130f5ccdca,True,True,210702006,Degloving injury of lower leg (disorder),Fully defined,True,900000000000207008
+11,63866b28081b3c130f5cd282,False,True,414943006,Open fracture of tibia AND fibula (disorder),Fully defined,True,900000000000207008
+12,63866b28081b3c130f5cd8af,False,True,10087007,Infection caused by Schistosoma (disorder),Fully defined,True,900000000000207008
+13,63866b2a081b3c130f5cddbf,False,True,10050004,Contusion of chest (disorder),Fully defined,True,900000000000207008
+14,63866b2a081b3c130f5ce02b,True,True,210678002,Degloving injury of thigh (disorder),Fully defined,True,900000000000207008
+15,63866b2a081b3c130f5ce218,True,True,210650003,"Traumatic amputation, above elbow (disorder)",Primitive,True,900000000000207008
+16,63866b2a081b3c130f5ce353,False,True,210649003,"Traumatic amputation, through shoulder (disorder)",Fully defined,True,900000000000207008
+17,63866b2a081b3c130f5ce360,False,True,210642007,"Traumatic amputation, below elbow (disorder)",Fully defined,True,900000000000207008
+18,63866b2b081b3c130f5ce660,False,True,210611002,Traumatic amputation of thumb (disorder),Fully defined,True,900000000000207008
+19,63866b2b081b3c130f5ce743,True,True,210604001,Degloving injury of thumb (disorder),Fully defined,True,900000000000207008
+20,63866b2b081b3c130f5ce7e7,True,True,414875008,Nonexudative age-related macular degeneration (disorder),Primitive,True,900000000000207008
+21,63866b2b081b3c130f5ce891,False,True,9389005,Herpes simplex keratitis (disorder),Fully defined,True,900000000000207008
+22,63866b2b081b3c130f5cea78,False,True,4855003,Retinopathy due to diabetes mellitus (disorder),Fully defined,True,900000000000207008
+23,63866b2b081b3c130f5ced23,False,True,4834000,Typhoid fever (disorder),Fully defined,True,900000000000207008
+24,63866b2e081b3c130f5cfa01,False,True,210597009,Degloving injury of finger (disorder),Fully defined,True,900000000000207008
+25,63866b2e081b3c130f5cfbe0,False,True,210571003,Degloving injury of hand (disorder),Fully defined,True,900000000000207008
+26,63866b2e081b3c130f5cfdca,True,True,210553005,"Degloving injury, forearm (disorder)",Fully defined,True,900000000000207008
+27,63866b2f081b3c130f5d0351,False,True,9707006,Intestinal volvulus (disorder),Fully defined,True,900000000000207008
+28,63866b30081b3c130f5d062b,False,True,9713002,Prostatitis (disorder),Fully defined,True,900000000000207008
+29,63866b30081b3c130f5d075d,False,True,210987008,Abrasion of face (disorder),Fully defined,True,900000000000207008
+30,63866b30081b3c130f5d07ac,False,True,210989006,Abrasion of scalp (disorder),Fully defined,True,900000000000207008
+31,63866b31081b3c130f5d0d92,False,True,202882003,Plantar fasciitis (disorder),Fully defined,True,900000000000207008
+32,63866b31081b3c130f5d0f12,False,True,10380004,Crushing injury of finger (disorder),Fully defined,True,900000000000207008
+33,63866b33081b3c130f5d18ac,False,True,31054009,Ureteric stone (disorder),Fully defined,True,900000000000207008
+34,63866b33081b3c130f5d19e2,False,True,309465005,Varicella-zoster virus infection (disorder),Fully defined,True,900000000000207008
+35,63866b33081b3c130f5d1dbf,False,True,419603000,Epidermoid cyst of skin (disorder),Fully defined,True,900000000000207008
+36,63866b33081b3c130f5d1eed,False,True,9631008,Ankylosing spondylitis (disorder),Primitive,True,900000000000207008
+37,63866b34081b3c130f5d20e9,False,True,419639006,Poisoning caused by anti-infective agent (disorder),Fully defined,True,900000000000207008
+38,63866b34081b3c130f5d2156,False,True,427793007,Complication of urinary catheter (disorder),Fully defined,True,900000000000207008
+39,63866b34081b3c130f5d21b4,False,True,9651007,Long QT syndrome (disorder),Primitive,True,900000000000207008
+40,63866b34081b3c130f5d23d0,False,True,448447004,Non-Hodgkin's lymphoma of skin (disorder),Fully defined,True,900000000000207008
+41,63866b35081b3c130f5d2837,True,True,443980004,Neutropenic sepsis (disorder),Fully defined,True,900000000000207008
+42,63866b37081b3c130f5d3a77,False,True,236037000,Incisional hernia (disorder),Fully defined,True,900000000000207008
+43,63866b38081b3c130f5d3cde,False,True,312956001,Central serous chorioretinopathy (disorder),Primitive,True,900000000000207008
+44,63866b38081b3c130f5d3d4e,False,True,312912001,Macular edema due to diabetes mellitus (disorder),Fully defined,True,900000000000207008
+45,63866b38081b3c130f5d3d8a,False,True,236069009,Chronic constipation (disorder),Fully defined,True,900000000000207008
+46,63866b38081b3c130f5d4097,False,True,252246005,Pseudoxanthoma elasticum (disorder),Primitive,True,900000000000207008
+47,63866b39081b3c130f5d465d,False,True,236407003,Immunoglobulin A nephropathy (disorder),Fully defined,True,900000000000207008
+48,63866b39081b3c130f5d48a1,False,True,60168000,Osteomyelitis (disorder),Fully defined,True,900000000000207008
+49,63866b3a081b3c130f5d5036,True,True,231995008,Myopic chorioretinal atrophy (disorder),Primitive,True,900000000000207008
+50,63866b3a081b3c130f5d5095,False,True,396275006,Osteoarthritis (disorder),Fully defined,True,900000000000207008
+51,63866b3a081b3c130f5d5162,False,True,281503004,Dislocation of carpometacarpal joint (disorder),Fully defined,True,900000000000207008
+52,63866b3b081b3c130f5d5590,False,True,419952004,Dermoid cyst (disorder),Fully defined,True,900000000000207008
+53,63866b3b081b3c130f5d55f6,False,True,396230008,Dermatomyositis (disorder),Primitive,True,900000000000207008
+54,63866b3b081b3c130f5d5626,False,True,396234004,Infective arthritis (disorder),Fully defined,True,900000000000207008
+55,63866b3b081b3c130f5d5633,False,True,396232000,Inguinal hernia (disorder),Fully defined,True,900000000000207008
+56,63866b3b081b3c130f5d564f,False,True,60190000,Injury of blood vessels of thorax (disorder),Fully defined,True,900000000000207008
+57,63866b3c081b3c130f5d5749,False,True,52072009,Heat stroke (disorder),Fully defined,True,900000000000207008
+58,63866b3c081b3c130f5d5db7,True,True,15013002,Vitreous floaters (disorder),Primitive,True,900000000000207008
+59,63866b3d081b3c130f5d60f7,False,True,231893002,Bacterial corneal ulcer (disorder),Fully defined,True,900000000000207008
+60,63866b3f081b3c130f5d6b89,False,True,15033003,Peritonsillar abscess (disorder),Fully defined,True,900000000000207008
+61,63866b3f081b3c130f5d6e1c,False,True,367363000,Right ventricular failure (disorder),Fully defined,True,900000000000207008
+62,63866b3f081b3c130f5d717e,False,True,427928003,Disorder related to lung transplantation (disorder),Fully defined,True,900000000000207008
+63,63866b41081b3c130f5d79de,False,True,231866000,Conjunctival foreign body (disorder),Fully defined,True,900000000000207008
+64,63866b41081b3c130f5d7d70,False,True,231857004,Giant papillary conjunctivitis (disorder),Primitive,True,900000000000207008
+65,63866b42081b3c130f5d7eae,False,True,231816006,Laceration of eyelid (disorder),Fully defined,True,900000000000207008
+66,63866b42081b3c130f5d808b,False,True,60046008,Pleural effusion (disorder),Fully defined,True,900000000000207008
+67,63866b44081b3c130f5d91b5,False,True,23056005,Sciatica (disorder),Primitive,True,900000000000207008
+68,63866b46081b3c130f5d9eca,False,True,31541009,Sarcoidosis (disorder),Fully defined,True,900000000000207008
+69,63866b47081b3c130f5da21c,False,True,36083008,Sick sinus syndrome (disorder),Primitive,True,900000000000207008
+70,63866b47081b3c130f5da345,False,True,126485001,Urticaria (disorder),Fully defined,True,900000000000207008
+71,63866b47081b3c130f5da6d8,False,True,367649002,Epiretinal membrane (disorder),Fully defined,True,900000000000207008
+72,63866b48081b3c130f5dada0,False,True,10743008,Irritable bowel syndrome (disorder),Primitive,True,900000000000207008
+73,63866b48081b3c130f5daea3,False,True,23387001,Perforation of esophagus (disorder),Fully defined,True,900000000000207008
+74,63866b49081b3c130f5db3b0,False,True,81060008,Intestinal obstruction (disorder),Fully defined,True,900000000000207008
+75,63866b4a081b3c130f5db71c,False,True,60332004,Trichiasis (disorder),Fully defined,True,900000000000207008
+76,63866b4a081b3c130f5dbbc1,False,True,60380001,Narcolepsy (disorder),Primitive,True,900000000000207008
+77,63866b4b081b3c130f5dbf4c,False,True,52254009,Nephrotic syndrome (disorder),Fully defined,True,900000000000207008
+78,63866b4c081b3c130f5dc4a5,False,True,44054006,Diabetes mellitus type 2 (disorder),Primitive,True,900000000000207008
+79,63866b4c081b3c130f5dc751,False,True,396334002,Infection caused by Dracunculus medinensis (disorder),Fully defined,True,900000000000207008
+80,63866b4c081b3c130f5dc884,False,True,396347007,Umbilical hernia (disorder),Fully defined,True,900000000000207008
+81,63866b4d081b3c130f5dce41,False,True,367527001,Open fracture of foot (disorder),Fully defined,True,900000000000207008
+82,63866b4e081b3c130f5dd082,False,True,81004002,Leprosy (disorder),Fully defined,True,900000000000207008
+83,63866b4e081b3c130f5dd0e0,False,True,105629000,Chlamydial infection (disorder),Fully defined,True,900000000000207008
+84,63866b4e081b3c130f5dd6b6,False,True,31384009,Polymyositis (disorder),Primitive,True,900000000000207008
+85,63866b4e081b3c130f5dd773,False,True,309779001,Meibomianitis (disorder),Fully defined,True,900000000000207008
+86,63866b4f081b3c130f5dd795,False,True,309773000,Complication of gastrostomy (disorder),Fully defined,True,900000000000207008
+87,63866b4f081b3c130f5dd83b,False,True,367403001,Pyloric stenosis (disorder),Fully defined,True,900000000000207008
+88,63866b4f081b3c130f5dda31,False,True,362969004,Disorder of endocrine system (disorder),Fully defined,True,900000000000207008
+89,63866b55081b3c130f5de163,False,True,367498001,Seasonal allergic rhinitis (disorder),Fully defined,True,900000000000207008
+90,63866b55081b3c130f5de29c,False,True,367494004,Premature birth of newborn (finding),Primitive,True,900000000000207008
+91,63866b55081b3c130f5de2e6,False,True,10679007,Infection caused by Giardia lamblia (disorder),Fully defined,True,900000000000207008
+92,63866b57081b3c130f5de824,False,True,126675008,Neoplasm of accessory sinus (disorder),Fully defined,True,900000000000207008
+93,63866b57081b3c130f5de97f,False,True,126680004,Neoplasm of nasopharynx (disorder),Fully defined,True,900000000000207008
+94,63866b58081b3c130f5deb9d,False,True,126669004,Neoplasm of nose (disorder),Fully defined,True,900000000000207008
+95,63866b58081b3c130f5decb4,False,True,44376007,Dissociative disorder (disorder),Primitive,True,900000000000207008
+96,63866b58081b3c130f5deea1,False,True,126632002,Neoplasm of face (disorder),Fully defined,True,900000000000207008
+97,63866b58081b3c130f5deea6,False,True,281900007,No abnormality detected (finding),Primitive,True,900000000000207008
+98,63866b59081b3c130f5def69,False,True,126609001,Neoplasm of soft tissues of thorax (disorder),Fully defined,True,900000000000207008
+99,63866b59081b3c130f5df005,False,True,52486002,Necrotizing fasciitis (disorder),Fully defined,True,900000000000207008
+100,63866b59081b3c130f5df0e7,False,True,126611005,Neoplasm of soft tissues of abdomen (disorder),Fully defined,True,900000000000207008
+101,63866b59081b3c130f5df158,False,True,126616000,Neoplasm of muscle (disorder),Fully defined,True,900000000000207008
+102,63866b59081b3c130f5df4c2,False,True,52448006,Dementia (disorder),Primitive,True,900000000000207008
+103,63866b5a081b3c130f5df8e8,False,True,52405000,Burn of trunk (disorder),Fully defined,True,900000000000207008
+104,63866b5a081b3c130f5df90b,False,True,52404001,Mastoiditis (disorder),Fully defined,True,900000000000207008
+105,63866b5a081b3c130f5dfafd,False,True,44400004,Toxic effect of venom (disorder),Fully defined,True,900000000000207008
+106,63866b5a081b3c130f5dfc54,False,True,60667009,Closed fracture of rib (disorder),Fully defined,True,900000000000207008
+107,63866b5a081b3c130f5dfcbd,False,True,52522001,Degenerative brain disorder (disorder),Fully defined,True,900000000000207008
+108,63866b5a081b3c130f5dfdbe,False,True,73297009,Muscular dystrophy (disorder),Fully defined,True,900000000000207008
+109,63866b5b081b3c130f5dfeda,False,True,57005003,Poisoning caused by caffeine (disorder),Fully defined,True,900000000000207008
+110,63866b5c081b3c130f5e02c5,False,True,711168000,Ulcer of skin of lower extremity (disorder),Fully defined,True,900000000000207008
+111,63866b5c081b3c130f5e05c5,False,True,73221001,Optic papillitis (disorder),Fully defined,True,900000000000207008
+112,63866b5c081b3c130f5e0922,False,True,118599009,Hodgkin's disease (disorder),Fully defined,True,900000000000207008
+113,63866b5c081b3c130f5e09de,True,True,28189009,Mobitz type II atrioventricular block (disorder),Primitive,True,900000000000207008
+114,63866b5c081b3c130f5e0a2f,False,True,23680005,Enthesopathy (disorder),Fully defined,True,900000000000207008
+115,63866b5d081b3c130f5e0c5b,False,True,126692004,Neoplasm of larynx (disorder),Fully defined,True,900000000000207008
+116,63866b5d081b3c130f5e1031,False,True,44264009,Traumatic dislocation of joint of cervical vertebra (disorder),Fully defined,True,900000000000207008
+117,63866b5d081b3c130f5e105b,False,True,44268007,Retinoschisis (disorder),Fully defined,True,900000000000207008
+118,63866b5d081b3c130f5e10be,False,True,126537000,Neoplasm of bone (disorder),Fully defined,True,900000000000207008
+119,63866b5e081b3c130f5e138d,True,True,249389002,Split frenulum of tongue (finding),Primitive,True,900000000000207008
+120,63866b5e081b3c130f5e14a5,False,True,44223004,Premature rupture of membranes (disorder),Primitive,True,900000000000207008
+121,63866b5f081b3c130f5e1a09,False,True,249366005,Bleeding from nose (finding),Fully defined,True,900000000000207008
+122,63866b5f081b3c130f5e1ad5,False,True,1148734002,Poisoning caused by acetylcholine receptor antagonist (disorder),Fully defined,True,900000000000207008
+123,63866b5f081b3c130f5e1ade,False,True,1148733008,Iron and/or iron compound overdose (disorder),Fully defined,True,900000000000207008
+124,63866b60081b3c130f5e23f6,False,True,15474008,Open fracture of pelvis (disorder),Fully defined,True,900000000000207008
+125,63866b61081b3c130f5e296a,False,True,207957008,Closed fracture lumbar vertebra (disorder),Fully defined,True,900000000000207008
+126,63866b62081b3c130f5e2b2b,False,True,207949005,Open fracture thoracic vertebra (disorder),Fully defined,True,900000000000207008
+127,63866b62081b3c130f5e2bfe,False,True,207974008,Closed fracture sacrum (disorder),Fully defined,True,900000000000207008
+128,63866b62081b3c130f5e2c24,False,True,207977001,Open fracture sacrum (disorder),Fully defined,True,900000000000207008
+129,63866b62081b3c130f5e2cf1,False,True,23589004,Injury of spleen (disorder),Fully defined,True,900000000000207008
+130,63866b62081b3c130f5e2d7e,False,True,207965006,Open fracture lumbar vertebra (disorder),Fully defined,True,900000000000207008
+131,63866b62081b3c130f5e2f6a,False,True,23511006,Meningococcal infectious disease (disorder),Fully defined,True,900000000000207008
+132,63866b63081b3c130f5e3240,False,True,31681005,Trigeminal neuralgia (disorder),Primitive,True,900000000000207008
+133,63866b63081b3c130f5e32c7,False,True,207938004,Closed fracture thoracic vertebra (disorder),Fully defined,True,900000000000207008
+134,63866b63081b3c130f5e32d5,False,True,36171008,Glomerulonephritis (disorder),Fully defined,True,900000000000207008
+135,63866b63081b3c130f5e3721,True,True,86014007,Trifascicular block (disorder),Primitive,True,900000000000207008
+136,63866b63081b3c130f5e390d,False,True,81576005,Closed fracture of phalanx of foot (disorder),Fully defined,True,900000000000207008
+137,63866b64081b3c130f5e39cd,False,True,73442001,Stevens-Johnson syndrome (disorder),Primitive,True,900000000000207008
+138,63866b65081b3c130f5e3dee,False,True,126849006,Neoplasm of anus (disorder),Fully defined,True,900000000000207008
+139,63866b65081b3c130f5e3e05,False,True,126847008,Neoplasm of rectum (disorder),Fully defined,True,900000000000207008
+140,63866b65081b3c130f5e3f29,False,True,126859007,Neoplasm of pancreas (disorder),Fully defined,True,900000000000207008
+141,63866b65081b3c130f5e3ff7,False,True,126851005,Neoplasm of liver (disorder),Fully defined,True,900000000000207008
+142,63866b65081b3c130f5e400c,False,True,126853008,Neoplasm of biliary tract (disorder),Fully defined,True,900000000000207008
+143,63866b65081b3c130f5e40d4,False,True,126824007,Neoplasm of stomach (disorder),Fully defined,True,900000000000207008
+144,63866b65081b3c130f5e4119,False,True,126817006,Neoplasm of esophagus (disorder),Fully defined,True,900000000000207008
+145,63866b65081b3c130f5e416f,False,True,126832004,Neoplasm of small intestine (disorder),Fully defined,True,900000000000207008
+146,63866b65081b3c130f5e41e8,False,True,126837005,Neoplasm of large intestine (disorder),Fully defined,True,900000000000207008
+147,63866b65081b3c130f5e42ed,False,True,31996006,Vasculitis (disorder),Fully defined,True,900000000000207008
+148,63866b65081b3c130f5e4395,False,True,126885006,Neoplasm of bladder (disorder),Fully defined,True,900000000000207008
+149,63866b65081b3c130f5e439c,False,True,126882009,Neoplasm of ureter (disorder),Fully defined,True,900000000000207008
+150,63866b65081b3c130f5e43ab,False,True,126883004,Neoplasm of urethra (disorder),Fully defined,True,900000000000207008
+151,63866b65081b3c130f5e44b8,False,True,126896003,Neoplasm of penis (disorder),Fully defined,True,900000000000207008
+152,63866b66081b3c130f5e4652,False,True,126880001,Neoplasm of kidney (disorder),Fully defined,True,900000000000207008
+153,63866b66081b3c130f5e46fa,False,True,278516003,Lobar pneumonia (disorder),Fully defined,True,900000000000207008
+154,63866b66081b3c130f5e47f7,False,True,126916003,Neoplasm of fallopian tube (disorder),Fully defined,True,900000000000207008
+155,63866b66081b3c130f5e488b,False,True,126900000,Neoplasm of testis (disorder),Fully defined,True,900000000000207008
+156,63866b67081b3c130f5e48ca,False,True,126906006,Neoplasm of prostate (disorder),Fully defined,True,900000000000207008
+157,63866b67081b3c130f5e48d9,False,True,126908007,Neoplasm of uterus (disorder),Fully defined,True,900000000000207008
+158,63866b67081b3c130f5e48ee,False,True,126905005,Neoplasm of scrotum (disorder),Fully defined,True,900000000000207008
+159,63866b67081b3c130f5e4ae8,False,True,52767006,Neonatal hypoglycemia (disorder),Fully defined,True,900000000000207008
+160,63866b67081b3c130f5e4c7b,True,True,28438004,Gonococcal conjunctivitis neonatorum (disorder),Fully defined,True,900000000000207008
+161,63866b67081b3c130f5e4c98,False,True,126965008,Neoplasm of meninges (disorder),Fully defined,True,900000000000207008
+162,63866b67081b3c130f5e4c99,False,True,126966009,Neoplasm of cranial nerve (disorder),Fully defined,True,900000000000207008
+163,63866b67081b3c130f5e4cba,False,True,126962006,Neoplasm of spinal cord (disorder),Fully defined,True,900000000000207008
+164,63866b67081b3c130f5e4cd1,False,True,126960003,Neoplasm of cerebellum (disorder),Fully defined,True,900000000000207008
+165,63866b67081b3c130f5e4dca,False,True,126952004,Neoplasm of brain (disorder),Fully defined,True,900000000000207008
+166,63866b67081b3c130f5e4de9,False,True,23919004,Labyrinthitis (disorder),Fully defined,True,900000000000207008
+167,63866b67081b3c130f5e4f81,False,True,126921000,Neoplasm of vagina (disorder),Fully defined,True,900000000000207008
+168,63866b67081b3c130f5e4f87,False,True,126922007,Neoplasm of vulva (disorder),Fully defined,True,900000000000207008
+169,63866b67081b3c130f5e4fab,False,True,126926005,Neoplasm of breast (disorder),Fully defined,True,900000000000207008
+170,63866b68081b3c130f5e525c,False,True,57207003,Bullous keratopathy (disorder),Primitive,True,900000000000207008
+171,63866b68081b3c130f5e550b,False,True,60897004,Contusion of nose (disorder),Fully defined,True,900000000000207008
+172,63866b68081b3c130f5e584f,False,True,65363002,Otitis media (disorder),Fully defined,True,900000000000207008
+173,63866b6a081b3c130f5e5cdb,False,True,126797001,Neoplasm of mouth (disorder),Fully defined,True,900000000000207008
+174,63866b6a081b3c130f5e5dc4,False,True,15628003,Gonorrhea (disorder),Fully defined,True,900000000000207008
+175,63866b6a081b3c130f5e5f6e,False,True,359817006,Closed fracture of hip (disorder),Fully defined,True,900000000000207008
+176,63866b6a081b3c130f5e5f92,True,True,359814004,Monkeypox (disorder),Primitive,True,900000000000207008
+177,63866b6b081b3c130f5e6543,False,True,126705004,Neoplasm of bronchus (disorder),Fully defined,True,900000000000207008
+178,63866b6b081b3c130f5e65ce,False,True,126703006,Neoplasm of trachea (disorder),Fully defined,True,900000000000207008
+179,63866b6b081b3c130f5e66a7,False,True,126713003,Neoplasm of lung (disorder),Fully defined,True,900000000000207008
+180,63866b6b081b3c130f5e66e6,False,True,44465007,Sprain of ankle (disorder),Fully defined,True,900000000000207008
+181,63866b6b081b3c130f5e6710,False,True,126719004,Neoplasm of pleura (disorder),Fully defined,True,900000000000207008
+182,63866b6b081b3c130f5e69d9,False,True,126736007,Neoplasm of blood vessel (disorder),Fully defined,True,900000000000207008
+183,63866b6b081b3c130f5e6aa4,False,True,118601006,Non-Hodgkin's lymphoma (disorder),Fully defined,True,900000000000207008
+184,63866b6c081b3c130f5e6c2b,False,True,60750009,Third cranial nerve disease (disorder),Fully defined,True,900000000000207008
+185,63866b6c081b3c130f5e6e5a,False,True,57143002,Burn of shoulder (disorder),Fully defined,True,900000000000207008
+186,63866b6c081b3c130f5e7178,False,True,126809003,Neoplasm of oropharynx (disorder),Fully defined,True,900000000000207008
+187,63866b6e081b3c130f5e79a1,False,True,60713008,Burn of neck (disorder),Fully defined,True,900000000000207008
+188,63866b6e081b3c130f5e7efc,False,True,78144005,Pulmonary hemorrhage (disorder),Fully defined,True,900000000000207008
+189,63866b6f081b3c130f5e7fbb,False,True,86279000,Acute suppurative otitis media with spontaneous rupture of ear drum (disorder),Fully defined,True,900000000000207008
+190,63866b6f081b3c130f5e833c,True,True,184770004,Miscellaneous certificate request (finding),Primitive,True,900000000000207008
+191,63866b70081b3c130f5e87ea,False,True,44808001,Conduction disorder of the heart (disorder),Primitive,True,900000000000207008
+192,63866b70081b3c130f5e8bd2,True,True,57406009,Carpal tunnel syndrome (disorder),Fully defined,True,900000000000207008
+193,63866b70081b3c130f5e8df8,False,True,197456007,Acute pancreatitis (disorder),Fully defined,True,900000000000207008
+194,63866b70081b3c130f5e8e30,False,True,28651003,Orthostatic hypotension (disorder),Primitive,True,900000000000207008
+195,63866b71081b3c130f5e8f13,False,True,44897000,Mesenteric lymphadenitis (disorder),Fully defined,True,900000000000207008
+196,63866b71081b3c130f5e91b8,False,True,49388007,Sprain of foot (disorder),Fully defined,True,900000000000207008
+197,63866b71081b3c130f5e9250,False,True,44882003,Balanitis (disorder),Fully defined,True,900000000000207008
+198,63866b72081b3c130f5e9357,False,True,36715001,Erythema multiforme (disorder),Primitive,True,900000000000207008
+199,63866b72081b3c130f5e9567,False,True,711645008,Corneal ulcer caused by Acanthamoeba (disorder),Fully defined,True,900000000000207008
+200,63866b72081b3c130f5e990f,False,True,81808003,Hemarthrosis (disorder),Fully defined,True,900000000000207008
+201,63866b73081b3c130f5e9bad,False,True,197480006,Anxiety disorder (disorder),Primitive,True,900000000000207008
+202,63866b73081b3c130f5e9c64,False,True,192970008,Cauda equina syndrome (disorder),Fully defined,True,900000000000207008
+203,63866b73081b3c130f5e9e9d,True,True,15845006,Buruli ulcer (disorder),Fully defined,True,900000000000207008
+204,63866b73081b3c130f5ea051,True,True,81639003,Closed fracture of nasal bones (disorder),Fully defined,True,900000000000207008
+205,63866b73081b3c130f5ea10f,False,True,78011002,Flail chest (disorder),Primitive,True,900000000000207008
+206,63866b73081b3c130f5ea152,False,True,126980002,Neoplasm of peripheral nerve (disorder),Fully defined,True,900000000000207008
+207,63866b74081b3c130f5ea360,False,True,126979000,Neoplasm of autonomic nerve (disorder),Fully defined,True,900000000000207008
+208,63866b74081b3c130f5ea949,False,True,73590005,Injury of peripheral nerve (disorder),Fully defined,True,900000000000207008
+209,63866b75081b3c130f5eaa75,False,True,78048006,Candidiasis (disorder),Fully defined,True,900000000000207008
+210,63866b75081b3c130f5eab73,False,True,86175003,Injury of heart (disorder),Fully defined,True,900000000000207008
+211,63866b75081b3c130f5ead91,False,True,86196005,Disorder of breast associated with childbirth (disorder),Fully defined,True,900000000000207008
+212,63866b77081b3c130f5eb769,False,True,118940003,Disorder of nervous system (disorder),Fully defined,True,900000000000207008
+213,63866b77081b3c130f5eb8ab,False,True,28576007,Open fracture of femur (disorder),Fully defined,True,900000000000207008
+214,63866b77081b3c130f5eba81,False,True,15938005,Eclampsia (disorder),Primitive,True,900000000000207008
+215,63866b77081b3c130f5ebc8f,False,True,36653000,Rubella (disorder),Fully defined,True,900000000000207008
+216,63866b78081b3c130f5ec06d,False,True,813121000000101,Injury of tendon of finger (disorder),Fully defined,True,999000011000000103
+217,63866b78081b3c130f5ec42c,False,True,299709002,Dental abscess (disorder),Fully defined,True,900000000000207008
+218,63866b78081b3c130f5ec4e7,False,True,57662003,Injury of blood vessel (disorder),Fully defined,True,900000000000207008
+219,63866b79081b3c130f5ec6b6,False,True,36948007,Fasciitis (disorder),Fully defined,True,900000000000207008
+220,63866b79081b3c130f5ec9b0,False,True,36989005,Mumps (disorder),Fully defined,True,900000000000207008
+221,63866b79081b3c130f5ecba3,False,True,36971009,Sinusitis (disorder),Fully defined,True,900000000000207008
+222,63866b79081b3c130f5ecba4,False,True,28835009,Retinitis pigmentosa (disorder),Primitive,True,900000000000207008
+223,63866b7b081b3c130f5ed8ef,False,True,65896005,Crushing injury of ankle (disorder),Fully defined,True,900000000000207008
+224,63866b7c081b3c130f5ed9e8,False,True,73998008,Prolapse of female genital organs (disorder),Fully defined,True,900000000000207008
+225,63866b7c081b3c130f5edc84,True,True,822091000000100,Clinical syndrome due to Escherichia coli O157 infection (disorder),Primitive,True,999000011000000103
+226,63866b7c081b3c130f5edde9,False,True,65636009,Keratoconus (disorder),Primitive,True,900000000000207008
+227,63866b7c081b3c130f5ede95,False,True,73765005,Disorder of vagus nerve (disorder),Fully defined,True,900000000000207008
+228,63866b7d081b3c130f5ee4fb,False,True,49436004,Atrial fibrillation (disorder),Fully defined,True,900000000000207008
+229,63866b7e081b3c130f5eed00,False,True,86406008,Human immunodeficiency virus infection (disorder),Fully defined,True,900000000000207008
+230,63866b7f081b3c130f5ef3e8,False,True,81966000,Open fracture of radius AND ulna (disorder),Fully defined,True,900000000000207008
+231,63866b7f081b3c130f5ef457,False,True,73830004,Foreign body in penis (disorder),Fully defined,True,900000000000207008
+232,63866b7f081b3c130f5ef64e,False,True,81996005,Torsion of testis (disorder),Fully defined,True,900000000000207008
+233,63866b7f081b3c130f5ef737,False,True,78370002,Scleritis (disorder),Fully defined,True,900000000000207008
+234,63866b80081b3c130f5efaa7,False,True,93163002,Lipoma (disorder),Fully defined,True,900000000000207008
+235,63866b80081b3c130f5efbd6,False,True,22878006,Contusion of knee (disorder),Fully defined,True,900000000000207008
+236,63866b81081b3c130f5efd0b,False,True,85007004,Meralgia paresthetica (disorder),Primitive,True,900000000000207008
+237,63866b81081b3c130f5eff32,False,True,80567007,Sialodocholithiasis (disorder),Fully defined,True,900000000000207008
+238,63866b81081b3c130f5f012e,True,True,109678002,Extrusive luxation of tooth (disorder),Primitive,True,900000000000207008
+239,63866b81081b3c130f5f0146,True,True,109671008,Complete avulsion of tooth (disorder),Fully defined,True,900000000000207008
+240,63866b81081b3c130f5f0352,False,True,19265001,Tularemia (disorder),Fully defined,True,900000000000207008
+241,63866b82081b3c130f5f05f5,False,True,387742006,Amblyopia (disorder),Primitive,True,900000000000207008
+242,63866b83081b3c130f5f08b5,False,True,35489007,Depressive disorder (disorder),Primitive,True,900000000000207008
+243,63866b83081b3c130f5f0de8,True,True,22817005,Strain of Achilles tendon (disorder),Fully defined,True,900000000000207008
+244,63866b84081b3c130f5f13a2,False,True,387712008,Neonatal jaundice (disorder),Fully defined,True,900000000000207008
+245,63866b84081b3c130f5f16da,False,True,19180002,Crushing injury of upper arm (disorder),Fully defined,True,900000000000207008
+246,63866b85081b3c130f5f19aa,False,True,80423007,Spontaneous pneumothorax (disorder),Primitive,True,900000000000207008
+247,63866b85081b3c130f5f1abb,False,True,14669001,Acute renal failure syndrome (disorder),Fully defined,True,900000000000207008
+248,63866b86081b3c130f5f1d08,False,True,72366004,Eating disorder (disorder),Primitive,True,900000000000207008
+249,63866b86081b3c130f5f1f46,False,True,80483009,Abscess of salivary gland (disorder),Fully defined,True,900000000000207008
+250,63866b87081b3c130f5f23f9,False,True,14893008,Burn of hand (disorder),Fully defined,True,900000000000207008
+251,63866b87081b3c130f5f252e,False,True,77075001,Primary open angle glaucoma (disorder),Primitive,True,900000000000207008
+252,63866b87081b3c130f5f269f,False,True,72552008,Feeding problems in newborn (finding),Primitive,True,900000000000207008
+253,63866b87081b3c130f5f2a0c,False,True,191736004,Obsessive-compulsive disorder (disorder),Primitive,True,900000000000207008
+254,63866b88081b3c130f5f2fff,False,True,80612004,Leishmaniasis (disorder),Fully defined,True,900000000000207008
+255,63866b88081b3c130f5f3040,False,True,19346006,Marfan's syndrome (disorder),Primitive,True,900000000000207008
+256,63866b89081b3c130f5f35f4,False,True,48123002,Contusion of wrist (disorder),Fully defined,True,900000000000207008
+257,63866b89081b3c130f5f3694,True,True,51771007,Postviral fatigue syndrome (disorder),Primitive,True,900000000000207008
+258,63866b89081b3c130f5f398b,False,True,387840005,Neoplasm of heart AND/OR pericardium (disorder),Fully defined,True,900000000000207008
+259,63866b8a081b3c130f5f3b29,False,True,48187004,Open fracture of ankle (disorder),Fully defined,True,900000000000207008
+260,63866b8a081b3c130f5f3cb4,True,True,191714002,Dissociative convulsions (disorder),Primitive,True,900000000000207008
+261,63866b8a081b3c130f5f3da6,False,True,64309007,Trigeminal nerve disorder (disorder),Fully defined,True,900000000000207008
+262,63866b8c081b3c130f5f47d6,True,True,56454009,Pityriasis versicolor (disorder),Fully defined,True,900000000000207008
+263,63866b8c081b3c130f5f4d3c,False,True,77165001,Injury of bladder (disorder),Fully defined,True,900000000000207008
+264,63866b8c081b3c130f5f4d93,False,True,72658003,Prickly heat (disorder),Primitive,True,900000000000207008
+265,63866b8d081b3c130f5f4e6f,False,True,77157004,Disorder of optic nerve (disorder),Fully defined,True,900000000000207008
+266,63866b8d081b3c130f5f520d,False,True,80756009,Closed fracture of patella (disorder),Fully defined,True,900000000000207008
+267,63866b8e081b3c130f5f5378,False,True,80744008,Commotio retinae (disorder),Fully defined,True,900000000000207008
+268,63866b8e081b3c130f5f5544,False,True,85232009,Left heart failure (disorder),Fully defined,True,900000000000207008
+269,63866b8e081b3c130f5f577c,False,True,19442009,Heterozygous thalassemia (disorder),Primitive,True,900000000000207008
+270,63866b8f081b3c130f5f6023,False,True,48277006,Impetigo (disorder),Fully defined,True,900000000000207008
+271,63866b91081b3c130f5f67f4,False,True,64458007,Contusion of lip (disorder),Fully defined,True,900000000000207008
+272,63866b91081b3c130f5f688d,False,True,56335008,Infection caused by Trichomonas (disorder),Fully defined,True,900000000000207008
+273,63866b92081b3c130f5f72d9,False,True,64665009,Closed fracture of calcaneus (disorder),Fully defined,True,900000000000207008
+274,63866b93081b3c130f5f75b9,False,True,109989006,Multiple myeloma (disorder),Fully defined,True,900000000000207008
+275,63866b93081b3c130f5f7839,True,True,77252004,Pityriasis rosea (disorder),Primitive,True,900000000000207008
+276,63866b93081b3c130f5f7975,False,True,93458008,Foreign body in skin (disorder),Fully defined,True,900000000000207008
+277,63866b93081b3c130f5f7a8e,False,True,80827001,Burn of forearm (disorder),Fully defined,True,900000000000207008
+278,63866b93081b3c130f5f7b29,False,True,93478000,Intraocular hemorrhage (disorder),Fully defined,True,900000000000207008
+279,63866b93081b3c130f5f7bab,False,True,277879009,Autonomic neuropathy (disorder),Fully defined,True,900000000000207008
+280,63866b94081b3c130f5f8443,False,True,27601005,Infection caused by Class Cestoda and/or Class Trematoda and/or Phylum Nemata (disorder),Fully defined,True,900000000000207008
+281,63866b95081b3c130f5f8642,False,True,48334007,Congenital dislocation of hip (disorder),Fully defined,True,900000000000207008
+282,63866b9a081b3c130f5f8b17,True,True,64766004,Ulcerative colitis (disorder),Primitive,True,900000000000207008
+283,63866b9a081b3c130f5f8b6a,False,True,64779008,Blood coagulation disorder (disorder),Primitive,True,900000000000207008
+284,63866b9d081b3c130f5f8dcd,False,True,48522003,Spinal cord disorder (disorder),Fully defined,True,900000000000207008
+285,63866b9d081b3c130f5f93ee,False,True,27836007,Pertussis (disorder),Fully defined,True,900000000000207008
+286,63866b9e081b3c130f5f9acf,False,True,43982006,Solar degeneration (disorder),Fully defined,True,900000000000207008
+287,63866b9f081b3c130f5fa033,False,True,19684007,Burn of knee (disorder),Fully defined,True,900000000000207008
+288,63866b9f081b3c130f5fa3d1,False,True,72866009,Varicose veins of lower extremity (disorder),Fully defined,True,900000000000207008
+289,63866b9f081b3c130f5fa3f0,False,True,77377001,Leptospirosis (disorder),Fully defined,True,900000000000207008
+290,63866ba0081b3c130f5fa79d,False,True,80962007,Disorder of glossopharyngeal nerve (disorder),Fully defined,True,900000000000207008
+291,63866ba0081b3c130f5fa7d3,False,True,80967001,Dental caries (disorder),Fully defined,True,900000000000207008
+292,63866ba0081b3c130f5faba9,False,True,48661000,Peritonitis (disorder),Fully defined,True,900000000000207008
+293,63866ba2081b3c130f5fb4cd,True,True,85636003,Contusion of upper arm (disorder),Fully defined,True,900000000000207008
+294,63866ba2081b3c130f5fb8f6,False,True,93655004,Malignant melanoma of skin (disorder),Fully defined,True,900000000000207008
+295,63866ba2081b3c130f5fb927,False,True,27885002,Complete atrioventricular block (disorder),Primitive,True,900000000000207008
+296,63866ba3081b3c130f5fc1e3,False,True,69322001,Psychotic disorder (disorder),Primitive,True,900000000000207008
+297,63866ba3081b3c130f5fc290,False,True,64859006,Osteoporosis (disorder),Primitive,True,900000000000207008
+298,63866ba3081b3c130f5fc2e4,False,True,56717001,Tuberculosis (disorder),Fully defined,True,900000000000207008
+299,63866ba4081b3c130f5fc449,False,True,77489003,Pterygium (disorder),Primitive,True,900000000000207008
+300,63866ba4081b3c130f5fc645,False,True,188725004,Lymphoid leukemia (disorder),Fully defined,True,900000000000207008
+301,63866ba4081b3c130f5fc712,False,True,188732008,Myeloid leukemia (disorder),Fully defined,True,900000000000207008
+302,63866ba5081b3c130f5fcd52,False,True,85777005,Dacryocystitis (disorder),Fully defined,True,900000000000207008
+303,63866ba5081b3c130f5fcfec,False,True,77628002,Retinal vasculitis (disorder),Fully defined,True,900000000000207008
+304,63866ba6081b3c130f5fd5ee,False,True,69430001,Abscess of vulva (disorder),Fully defined,True,900000000000207008
+305,63866ba6081b3c130f5fd69d,False,True,773113008,Acute hepatitis caused by infection (disorder),Fully defined,True,900000000000207008
+306,63866ba7081b3c130f5fdc48,False,True,77506005,Infection caused by Trypanosoma cruzi (disorder),Fully defined,True,900000000000207008
+307,63866ba8081b3c130f5fe354,False,True,56819008,Endocarditis (disorder),Fully defined,True,900000000000207008
+308,63866ba8081b3c130f5fe6e0,False,True,85848002,Corneal abrasion (disorder),Fully defined,True,900000000000207008
+309,63866ba9081b3c130f5ff0a2,False,True,85898001,Cardiomyopathy (disorder),Primitive,True,900000000000207008
+310,63866baa081b3c130f5ff6eb,False,True,56905009,Perforation of intestine (disorder),Fully defined,True,900000000000207008
+311,63866baa081b3c130f5ff830,False,True,48880000,Postcoital bleeding (finding),Fully defined,True,900000000000207008
+312,63866bab081b3c130f5ffb7a,False,True,56975005,Strawberry nevus of skin (disorder),Fully defined,True,900000000000207008
+313,63866bab081b3c130f5ffd65,False,True,48867003,Bradycardia (finding),Fully defined,True,900000000000207008
+314,63866bac081b3c130f6002ef,False,True,85904008,Paratyphoid fever (disorder),Primitive,True,900000000000207008
+315,63866bac081b3c130f600734,True,True,401207004,Medication side effects present (finding),Primitive,True,900000000000207008
+316,63866bad081b3c130f600ece,False,True,69787006,Contusion of finger (disorder),Fully defined,True,900000000000207008
+317,63866bad081b3c130f600fc2,False,True,401303003,Acute ST segment elevation myocardial infarction (disorder),Fully defined,True,900000000000207008
+318,63866bae081b3c130f6015c3,False,True,85974009,Mass of intracranial structure (finding),Fully defined,True,900000000000207008
+319,63866baf081b3c130f601eb8,False,True,401314000,Acute non-ST segment elevation myocardial infarction (disorder),Primitive,True,900000000000207008
+320,63866bb0081b3c130f602489,False,True,414033006,Disorder of rotator cuff (disorder),Fully defined,True,900000000000207008
+321,63866bb0081b3c130f602524,False,True,69896004,Rheumatoid arthritis (disorder),Primitive,True,900000000000207008
+322,63866bb0081b3c130f60258f,False,True,414022008,Disorder of cellular component of blood (disorder),Primitive,True,900000000000207008
+323,63866bb1081b3c130f602a51,False,True,77949003,Disorder of acoustic nerve (disorder),Fully defined,True,900000000000207008
+324,63866bb1081b3c130f602de5,False,True,4009004,Lower urinary tract infectious disease (disorder),Fully defined,True,900000000000207008
+325,63866bb2081b3c130f60363e,False,True,736652002,Neonatal metabolic disorder (disorder),Fully defined,True,900000000000207008
+326,63866bb2081b3c130f6036ca,False,True,813101000000105,Injury of tendon of elbow joint (disorder),Fully defined,True,999000011000000103
+327,63866bb3081b3c130f603c88,False,True,312087002,Disorder following clinical procedure (disorder),Fully defined,True,900000000000207008
+328,63866bb3081b3c130f603f5c,False,True,414173003,Exudative age-related macular degeneration (disorder),Primitive,True,900000000000207008
+329,63866bb4081b3c130f6046cb,False,True,4120002,Bronchiolitis (disorder),Fully defined,True,900000000000207008
+330,63866bb8081b3c130f60679a,False,True,422426003,Facial nerve disorder (disorder),Fully defined,True,900000000000207008
+331,63866bba081b3c130f606fc9,True,True,824091000000105,Attention to sutures (procedure),Primitive,True,999000011000000103
+332,63866bbc081b3c130f607f15,False,True,422588002,Aspiration pneumonia (disorder),Fully defined,True,900000000000207008
+333,63866bbe081b3c130f6093c7,False,True,9014002,Psoriasis (disorder),Primitive,True,900000000000207008
+334,63866bbe081b3c130f6094df,False,True,427115009,Herpes simplex corneal endotheliitis (disorder),Fully defined,True,900000000000207008
+335,63866bbf081b3c130f609978,False,True,210305005,Traumatic amputation of ear (disorder),Fully defined,True,900000000000207008
+336,63866bbf081b3c130f609c4b,False,True,4556007,Gastritis (disorder),Fully defined,True,900000000000207008
+337,63866bbf081b3c130f609c55,False,True,4557003,Preinfarction syndrome (disorder),Primitive,True,900000000000207008
+338,63866bc0081b3c130f60a1c8,False,True,210339009,Open wound of face (disorder),Fully defined,True,900000000000207008
+339,63866bc0081b3c130f60a1f3,False,True,210344002,Open wound of lip (disorder),Fully defined,True,900000000000207008
+340,63866bc0081b3c130f60a29b,False,True,210323002,Open wound of scalp (disorder),Fully defined,True,900000000000207008
+341,63866bc0081b3c130f60a29f,False,True,210325009,Open wound of nose (disorder),Fully defined,True,900000000000207008
+342,63866bc0081b3c130f60a3cf,False,True,210363001,Open wound of tongue (disorder),Fully defined,True,900000000000207008
+343,63866bc0081b3c130f60a463,False,True,210358000,Open wound in mouth (disorder),Fully defined,True,900000000000207008
+344,63866bc2081b3c130f60b1aa,False,True,422747000,Upper urinary tract infection (disorder),Fully defined,True,900000000000207008
+345,63866bc2081b3c130f60b1d2,False,True,430887001,Dysfunction of sphincter of Oddi (disorder),Primitive,True,900000000000207008
+346,63866bc2081b3c130f60b45e,False,True,210456000,Open wound of anterior abdominal wall (disorder),Fully defined,True,900000000000207008
+347,63866bc3081b3c130f60b71c,True,True,210422006,Degloving injury buttock (disorder),Fully defined,True,900000000000207008
+348,63866bc3081b3c130f60b75f,False,True,210417006,Degloving injury back (disorder),Fully defined,True,900000000000207008
+349,63866bc3081b3c130f60b8aa,True,True,210408006,Degloving injury chest wall (disorder),Fully defined,True,900000000000207008
+350,63866bc4081b3c130f60c115,False,True,210483004,Open wound of pelvic region (disorder),Fully defined,True,900000000000207008
+351,63866bc4081b3c130f60c434,False,True,430984009,Closed fracture of facial bone (disorder),Fully defined,True,900000000000207008
+352,63866bc5081b3c130f60c94a,True,True,210524009,"Degloving injury, shoulder area (disorder)",Fully defined,True,900000000000207008
+353,63866bc5081b3c130f60c963,True,True,210527002,"Degloving injury, upper arm (disorder)",Fully defined,True,900000000000207008
+354,63866bc5081b3c130f60cb10,False,True,133961000119102,Acute conjunctivitis caused by chemical (disorder),Fully defined,True,900000000000207008
+355,63866bc7081b3c130f60d664,False,True,1163215007,Pressure injury (disorder),Fully defined,True,900000000000207008
+356,63866bc8081b3c130f60dd43,False,True,418470004,Porphyria (disorder),Primitive,True,900000000000207008
+357,63866bc8081b3c130f60de19,False,True,230456007,Status epilepticus (disorder),Primitive,True,900000000000207008
+358,63866bc9081b3c130f60e501,False,True,8513005,Contusion of neck (disorder),Fully defined,True,900000000000207008
+359,63866bc9081b3c130f60e558,False,True,230509007,Non-arteritic ischemic optic neuropathy (disorder),Primitive,True,900000000000207008
+360,63866bc9081b3c130f60e55d,False,True,230508004,Arteritic ischemic optic neuropathy (disorder),Primitive,True,900000000000207008
+361,63866bc9081b3c130f60e764,True,True,8533009,Intracranial space-occupying lesion (disorder),Primitive,False,900000000000207008
+362,63866bc9081b3c130f60e96c,False,True,235055003,Oral herpes simplex infection (disorder),Fully defined,True,900000000000207008
+363,63866bca081b3c130f60f056,False,True,824071000000106,Traumatic dislocation of intercarpal joint (disorder),Fully defined,True,999000011000000103
+364,63866bca081b3c130f60f15e,False,True,447395005,Closed fracture of fibula (disorder),Fully defined,True,900000000000207008
+365,63866bcb081b3c130f60f6fc,False,True,413877007,Closed fracture of tibia AND fibula (disorder),Fully defined,True,900000000000207008
+366,63866bcc081b3c130f60fc44,False,True,230316009,Drug-induced acute dystonia (disorder),Primitive,True,900000000000207008
+367,63866bcc081b3c130f610357,False,True,418341009,Atrioventricular conduction disorder (disorder),Primitive,True,900000000000207008
+368,63866bd1081b3c130f6129dd,False,True,447139008,Closed fracture of tibia (disorder),Fully defined,True,900000000000207008
+369,63866bd5081b3c130f614387,False,True,447017008,Open fracture of fibula (disorder),Fully defined,True,900000000000207008
+370,63866bd5081b3c130f614785,False,True,361118003,Open fracture of hip (disorder),Fully defined,True,900000000000207008
+371,63866bd6081b3c130f614b68,False,True,405538007,Spontaneous hemorrhage (disorder),Fully defined,True,900000000000207008
+372,63866bd6081b3c130f614f38,True,True,1325181000000106,Ongoing symptomatic disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),Primitive,True,999000011000000103
+373,63866bd6081b3c130f614f63,False,True,201101007,Actinic keratosis (disorder),Fully defined,True,900000000000207008
+374,63866bd7081b3c130f61520d,True,True,450418003,Cerebral hemorrhage following injury (disorder),Fully defined,True,900000000000207008
+375,63866bd8081b3c130f615d76,False,True,3519007,Disorder of synovium (disorder),Fully defined,True,900000000000207008
+376,63866bdd081b3c130f616dd4,True,True,812481000000104,Dead on arrival in accident and emergency department (finding),Primitive,True,999000011000000103
+377,63866be5081b3c130f6188bb,True,True,813331000000101,Injury of tendon of shoulder joint (disorder),Primitive,True,999000011000000103
+378,63866be5081b3c130f618b70,False,True,3238004,Pericarditis (disorder),Fully defined,True,900000000000207008
+379,63866be8081b3c130f61a169,False,True,3305006,Disorder of lymphatic vessel (disorder),Fully defined,True,900000000000207008
+380,63866be8081b3c130f61a2e1,False,True,3135009,Otitis externa (disorder),Fully defined,True,900000000000207008
+381,63866be8081b3c130f61a418,False,True,68982002,Disorder of olfactory nerve (disorder),Fully defined,True,900000000000207008
+382,63866be9081b3c130f61ae42,False,True,3199001,Sprain of shoulder (disorder),Fully defined,True,900000000000207008
+383,63866bea081b3c130f61b72e,False,True,3218000,Mycosis (disorder),Fully defined,True,900000000000207008
+384,63866beb081b3c130f61ba13,False,True,609328004,Allergic disposition (finding),Fully defined,True,900000000000207008
+385,63866bec081b3c130f61c204,False,True,35363006,Infantile colic (finding),Primitive,True,900000000000207008
+386,63866bed081b3c130f61c92a,False,True,43422002,Crushing injury of foot (disorder),Fully defined,True,900000000000207008
+387,63866bee081b3c130f61cf4e,False,True,30832001,Rupture of patellar tendon (disorder),Fully defined,True,900000000000207008
+388,63866bee081b3c130f61d364,False,True,80394007,Hyperglycemia (disorder),Primitive,True,900000000000207008
+389,63866bee081b3c130f61d405,False,True,64109004,Costal chondritis (disorder),Fully defined,True,900000000000207008
+390,63866bee081b3c130f61d414,False,True,80384002,Epiglottitis (disorder),Fully defined,True,900000000000207008
+391,63866bef081b3c130f61d70f,False,True,235910007,Liver transplant disorder (disorder),Fully defined,True,900000000000207008
+392,63866bef081b3c130f61db17,False,True,191480000,Alcohol withdrawal syndrome (disorder),Fully defined,True,900000000000207008
+393,63866bef081b3c130f61dc70,False,True,27182002,Sprain of acromioclavicular ligament (disorder),Fully defined,True,900000000000207008
+394,63866bf0081b3c130f61e491,False,True,710110008,Phantom pain (disorder),Primitive,True,900000000000207008
+395,63866bf1081b3c130f61e675,False,True,43339004,Hypokalemia (disorder),Primitive,True,900000000000207008
+396,63866bf1081b3c130f61e8ed,False,True,125615005,Traumatic dislocation of shoulder region (disorder),Fully defined,True,900000000000207008
+397,63866bf1081b3c130f61e9d3,False,True,125620005,Traumatic dislocation of joint of thumb (disorder),Fully defined,True,900000000000207008
+398,63866bf1081b3c130f61e9e3,False,True,125621009,Traumatic dislocation of hip joint (disorder),Fully defined,True,900000000000207008
+399,63866bf1081b3c130f61ea4b,False,True,125625000,Injury of intestine (disorder),Fully defined,True,900000000000207008
+400,63866bf1081b3c130f61ea4d,False,True,125626004,Injury of stomach (disorder),Fully defined,True,900000000000207008
+401,63866bf1081b3c130f61ea4f,False,True,125622002,Traumatic dislocation of ankle joint (disorder),Fully defined,True,900000000000207008
+402,63866bf2081b3c130f61ea78,False,True,43363007,Posterior uveitis (disorder),Fully defined,True,900000000000207008
+403,63866bf2081b3c130f61ea9f,False,True,125619004,Traumatic dislocation of joint of finger (disorder),Fully defined,True,900000000000207008
+404,63866bf2081b3c130f61ec99,False,True,125645008,Open wound of shoulder region (disorder),Fully defined,True,900000000000207008
+405,63866bf2081b3c130f61eca1,False,True,125644007,Open wound of neck (disorder),Fully defined,True,900000000000207008
+406,63866bf2081b3c130f61ece1,False,True,125649002,Open wound of forearm (disorder),Fully defined,True,900000000000207008
+407,63866bf2081b3c130f61ece9,False,True,125648005,Open wound of upper arm (disorder),Fully defined,True,900000000000207008
+408,63866bf2081b3c130f61ed46,True,True,22607003,Asbestosis (disorder),Fully defined,True,900000000000207008
+409,63866bf2081b3c130f61ee39,False,True,125659001,Open wound of thigh (disorder),Fully defined,True,900000000000207008
+410,63866bf2081b3c130f61ee4e,False,True,125652005,Open wound of hand (disorder),Fully defined,True,900000000000207008
+411,63866bf2081b3c130f61ee51,False,True,125653000,Open wound of finger (disorder),Fully defined,True,900000000000207008
+412,63866bf2081b3c130f61ee5f,False,True,125654006,Open wound of thumb (disorder),Fully defined,True,900000000000207008
+413,63866bf2081b3c130f61ee7b,True,True,30753002,Normal pressure hydrocephalus (disorder),Primitive,True,900000000000207008
+414,63866bf2081b3c130f61ee9e,False,True,125650002,Open wound of elbow (disorder),Fully defined,True,900000000000207008
+415,63866bf2081b3c130f61eeaa,False,True,125651003,Open wound of wrist (disorder),Fully defined,True,900000000000207008
+416,63866bf2081b3c130f61efb0,False,True,125668004,Contusion of face (disorder),Fully defined,True,900000000000207008
+417,63866bf2081b3c130f61efe4,False,True,125664002,Open wound of toe (disorder),Fully defined,True,900000000000207008
+418,63866bf2081b3c130f61eff9,False,True,125663008,Open wound of foot (disorder),Fully defined,True,900000000000207008
+419,63866bf2081b3c130f61effe,False,True,125660006,Open wound of knee (disorder),Fully defined,True,900000000000207008
+420,63866bf2081b3c130f61f005,False,True,125661005,Open wound of lower leg (disorder),Fully defined,True,900000000000207008
+421,63866bf3081b3c130f61f620,False,True,43302000,Anticoagulant overdosage (disorder),Fully defined,True,900000000000207008
+422,63866bf3081b3c130f61f6ce,False,True,64090007,Burn of thumb (disorder),Fully defined,True,900000000000207008
+423,63866bf3081b3c130f61fc75,False,True,109378008,"Mesothelioma (malignant, clinical disorder) (disorder)",Fully defined,True,900000000000207008
+424,63866bf4081b3c130f61ffbb,False,True,269169002,Open wound of back (disorder),Fully defined,True,900000000000207008
+425,63866bf4081b3c130f620072,False,True,109385007,Kaposi's sarcoma (disorder),Fully defined,True,900000000000207008
+426,63866bf4081b3c130f62020c,True,True,248406004,Ring tight on fingers (finding),Primitive,True,900000000000207008
+427,63866bf4081b3c130f62038a,False,True,191306005,Immunoglobulin A vasculitis (disorder),Primitive,True,900000000000207008
+428,63866bf5081b3c130f620732,False,True,27031003,African trypanosomiasis (disorder),Fully defined,True,900000000000207008
+429,63866bf5081b3c130f6207ed,False,True,43295006,Closed fracture of humerus (disorder),Fully defined,True,900000000000207008
+430,63866bf5081b3c130f620973,False,True,125588009,Injury of larynx (disorder),Fully defined,True,900000000000207008
+431,63866bf5081b3c130f6209ab,False,True,35191005,Injury of blood vessels of abdomen AND/OR pelvis (disorder),Primitive,True,900000000000207008
+432,63866bf5081b3c130f620a39,False,True,285348005,Strain of abdominal muscle (disorder),Fully defined,True,900000000000207008
+433,63866bf7081b3c130f6216fc,True,True,812431000000103,Traumatic amputation below knee (disorder),Primitive,True,999000011000000103
+434,63866bf7081b3c130f621bef,False,True,269070003,Open fracture of cervical spine (disorder),Fully defined,True,900000000000207008
+435,63866bf8081b3c130f621d1d,False,True,72047008,Juvenile osteochondrosis of tibial tubercle (disorder),Primitive,True,900000000000207008
+436,63866bf8081b3c130f621f40,False,True,269062008,Closed fracture of cervical spine (disorder),Fully defined,True,900000000000207008
+437,63866bf8081b3c130f6220ba,False,True,14366000,Exposure keratoconjunctivitis (disorder),Primitive,True,900000000000207008
+438,63866bf9081b3c130f62241a,True,True,109245003,Cellulitis of periorbital region (disorder),Fully defined,True,900000000000207008
+439,63866bf9081b3c130f622645,False,True,191268006,Chronic anemia (disorder),Fully defined,True,900000000000207008
+440,63866bfa081b3c130f622c99,False,True,35055000,Band-shaped keratopathy (disorder),Primitive,True,900000000000207008
+441,63866bfb081b3c130f623278,False,True,51286002,Filamentary keratitis (disorder),Primitive,True,900000000000207008
+442,63866bfb081b3c130f623312,False,True,235675006,Gastroparesis (disorder),Primitive,True,900000000000207008
+443,63866bfb081b3c130f6235e2,False,True,43116000,Eczema (disorder),Primitive,True,900000000000207008
+444,63866bfd081b3c130f624798,False,True,14261008,Burn of upper arm (disorder),Fully defined,True,900000000000207008
+445,63866bfe081b3c130f624ed2,False,True,235595009,Gastroesophageal reflux disease (disorder),Primitive,True,900000000000207008
+446,63866bfe081b3c130f624f30,False,True,43064006,Hydronephrosis (disorder),Fully defined,True,900000000000207008
+447,63866c00081b3c130f6257e4,False,True,51178009,Sudden infant death syndrome (finding),Primitive,True,900000000000207008
+448,63866c01081b3c130f6261a2,True,True,308742005,Alcohol withdrawal-induced convulsion (disorder),Primitive,True,900000000000207008
+449,63866c01081b3c130f62656a,False,True,14140009,Hyperkalemia (disorder),Primitive,True,900000000000207008
+450,63866c02081b3c130f6269a6,False,True,162213003,"Crying, excessive (finding)",Primitive,True,900000000000207008
+451,63866c02081b3c130f6269b3,False,True,14189004,Measles (disorder),Fully defined,True,900000000000207008
+452,63866c02081b3c130f626bcc,False,True,14168008,Rabies (disorder),Fully defined,True,900000000000207008
+453,63866c03081b3c130f62735a,False,True,14094001,Excessive vomiting in pregnancy (disorder),Primitive,True,900000000000207008
+454,63866c03081b3c130f6275df,True,True,418915007,Marginal corneal infiltrate associated with blepharoconjunctivitis (disorder),Fully defined,True,900000000000207008
+455,63866c05081b3c130f628236,False,True,235494005,Chronic pancreatitis (disorder),Fully defined,True,900000000000207008
+456,63866c06081b3c130f628b0a,False,True,30242009,Scarlet fever (disorder),Primitive,True,900000000000207008
+457,63866c09081b3c130f62a202,True,True,426936004,Smoke inhalation injury (disorder),Fully defined,True,900000000000207008
+458,63866c09081b3c130f62a3b1,True,True,418818005,Brugada syndrome (disorder),Primitive,True,900000000000207008
+459,63866c0a081b3c130f62a7af,False,True,8847002,Spondylosis (disorder),Fully defined,True,900000000000207008
+460,63866c0a081b3c130f62a8fb,False,True,426997005,Traumatic injury during pregnancy (disorder),Primitive,True,900000000000207008
+461,63866c0b081b3c130f62afea,False,True,230730001,Dissection of vertebral artery (disorder),Fully defined,True,900000000000207008
+462,63866c0b081b3c130f62b4b5,False,True,22066006,Strabismus (disorder),Primitive,True,900000000000207008
+463,63866c0c081b3c130f62babb,False,True,308546005,Dissection of aorta (disorder),Fully defined,True,900000000000207008
+464,63866c0d081b3c130f62c16e,False,True,30093007,Calculus of bile duct (disorder),Fully defined,True,900000000000207008
+465,63866c0e081b3c130f62c57f,False,True,30077003,Somatoform pain disorder (disorder),Fully defined,True,900000000000207008
+466,63866c0e081b3c130f62c911,False,True,439470001,Arteriovenous fistula (disorder),Fully defined,True,900000000000207008
+467,63866c10081b3c130f62d559,False,True,30037006,Anal fissure (disorder),Fully defined,True,900000000000207008
+468,63866c10081b3c130f62d595,False,True,230690007,Cerebrovascular accident (disorder),Fully defined,True,900000000000207008
+469,63866c10081b3c130f62d854,False,True,30041005,Acute angle-closure glaucoma (disorder),Fully defined,True,900000000000207008
+470,63866c11081b3c130f62df99,False,True,112222000,Raised intraocular pressure (finding),Fully defined,True,900000000000207008
+471,63866c13081b3c130f62f32e,False,True,13746004,Bipolar disorder (disorder),Primitive,True,900000000000207008
+472,63866c13081b3c130f62f3b4,False,True,84017003,Bursitis (disorder),Fully defined,True,900000000000207008
+473,63866c15081b3c130f62f848,False,True,13706005,Conjunctival concretion (disorder),Fully defined,True,900000000000207008
+474,63866c15081b3c130f62fe08,False,True,34436003,Blood in urine (finding),Fully defined,True,900000000000207008
+475,63866c15081b3c130f62ff38,False,True,386732003,Traumatic asphyxiation (event),Primitive,True,900000000000207008
+476,63866c16081b3c130f6307a4,False,True,50792001,Corneal erosion (disorder),Fully defined,True,900000000000207008
+477,63866c16081b3c130f6307cf,False,True,39021009,Disorder of refraction (disorder),Primitive,True,900000000000207008
+478,63866c16081b3c130f6307d9,False,True,50793006,Crushing injury of hand (disorder),Fully defined,True,900000000000207008
+479,63866c16081b3c130f630888,False,True,399463004,Retinitis (disorder),Fully defined,True,900000000000207008
+480,63866c17081b3c130f630dc1,False,True,50705009,Factitious disorder (disorder),Primitive,True,900000000000207008
+481,63866c17081b3c130f630e97,True,True,63363004,Superior vena cava syndrome (disorder),Primitive,True,900000000000207008
+482,63866c17081b3c130f6311af,False,True,63305008,Stricture of esophagus (disorder),Fully defined,True,900000000000207008
+483,63866c18081b3c130f631a83,False,True,71555008,Closed fracture of ulna (disorder),Fully defined,True,900000000000207008
+484,63866c19081b3c130f632083,False,True,26460006,Slipped upper femoral epiphysis (disorder),Fully defined,True,900000000000207008
+485,63866c19081b3c130f632254,True,True,195268001,Leaking abdominal aortic aneurysm (disorder),Primitive,True,900000000000207008
+486,63866c1a081b3c130f632555,False,True,84114007,Heart failure (disorder),Primitive,True,900000000000207008
+487,63866c1b081b3c130f6328f8,True,True,34578006,Open Monteggia's fracture (disorder),Fully defined,True,900000000000207008
+488,63866c1b081b3c130f632d7c,False,True,34663006,Contusion of brain (disorder),Fully defined,True,900000000000207008
+489,63866c1b081b3c130f632f5b,False,True,190855004,Hypomagnesemia (disorder),Primitive,True,900000000000207008
+490,63866c1b081b3c130f633179,False,True,42744004,Broken tooth without complication (disorder),Primitive,True,900000000000207008
+491,63866c1b081b3c130f633181,False,True,239783001,Post-infective arthritis (disorder),Fully defined,True,900000000000207008
+492,63866c1c081b3c130f6332e6,False,True,34614007,Miscarriage with complication (disorder),Primitive,True,900000000000207008
+493,63866c1d081b3c130f633aad,False,True,63440008,Verruca plantaris (disorder),Fully defined,True,900000000000207008
+494,63866c1d081b3c130f633d4b,False,True,63467002,Left bundle branch block (disorder),Fully defined,True,900000000000207008
+495,63866c1d081b3c130f633dca,False,True,50821009,Arterial retinal branch occlusion (disorder),Fully defined,True,900000000000207008
+496,63866c1d081b3c130f633e9a,False,True,42343007,Congestive heart failure (disorder),Primitive,True,900000000000207008
+497,63866c1d081b3c130f633ea3,False,True,129103003,Endometriosis (disorder),Fully defined,True,900000000000207008
+498,63866c1d081b3c130f633eff,True,True,394659003,Acute coronary syndrome (disorder),Primitive,True,900000000000207008
+499,63866c1e081b3c130f6343e9,False,True,297062008,Digoxin overdose (disorder),Fully defined,True,900000000000207008
+500,63866c1e081b3c130f63464e,False,True,297047006,Antihypertensive overdose (disorder),Fully defined,True,900000000000207008
+501,63866c1e081b3c130f634917,True,True,71186008,Croup (disorder),Fully defined,True,900000000000207008
+502,63866c1f081b3c130f634dc6,True,True,399114005,Adhesive capsulitis of shoulder (disorder),Primitive,True,900000000000207008
+503,63866c1f081b3c130f634de1,False,True,399112009,Seronegative arthritis (disorder),Fully defined,True,900000000000207008
+504,63866c1f081b3c130f634fad,False,True,50417007,Lower respiratory tract infection (disorder),Fully defined,True,900000000000207008
+505,63866c20081b3c130f635469,False,True,18084001,Burn of elbow (disorder),Fully defined,True,900000000000207008
+506,63866c20081b3c130f635640,False,True,55004003,Syndrome of inappropriate vasopressin secretion (disorder),Primitive,True,900000000000207008
+507,63866c20081b3c130f635741,False,True,71286001,Spinal cord compression (disorder),Fully defined,True,900000000000207008
+508,63866c24081b3c130f635dc7,False,True,129166009,Traumatic dislocation of joint of lumbar vertebra (disorder),Fully defined,True,900000000000207008
+509,63866c24081b3c130f635dd0,False,True,129165008,Traumatic dislocation of joint of thoracic vertebra (disorder),Fully defined,True,900000000000207008
+510,63866c24081b3c130f635e18,False,True,373945007,Pericardial effusion (disorder),Fully defined,True,900000000000207008
+511,63866c24081b3c130f635fac,False,True,21698002,Open fracture of phalanx of finger (disorder),Fully defined,True,900000000000207008
+512,63866c24081b3c130f63609b,True,True,18070006,Impacted cerumen (disorder),Fully defined,True,900000000000207008
+513,63866c27081b3c130f636556,False,True,297157005,Thrombus of intracranial vein (disorder),Fully defined,True,900000000000207008
+514,63866c28081b3c130f6369f8,False,True,386692008,Menorrhagia (finding),Primitive,True,900000000000207008
+515,63866c28081b3c130f636ac6,True,True,195060002,Ventricular pre-excitation (disorder),Primitive,True,900000000000207008
+516,63866c2b081b3c130f63737a,False,True,55042009,Contusion of ankle (disorder),Fully defined,True,900000000000207008
+517,63866c2b081b3c130f637500,False,True,42434002,Pneumohemothorax due to trauma (disorder),Fully defined,True,900000000000207008
+518,63866c2b081b3c130f63755a,False,True,50563003,Seborrheic dermatitis (disorder),Primitive,True,900000000000207008
+519,63866c2b081b3c130f63776f,False,True,42458003,Hemothorax due to trauma (disorder),Fully defined,True,900000000000207008
+520,63866c2c081b3c130f63804f,False,True,63297008,Superficial retinal hemorrhage (disorder),Primitive,True,900000000000207008
+521,63866c2c081b3c130f638201,False,True,26284000,Ulcer of mouth (disorder),Fully defined,True,900000000000207008
+522,63866c2d081b3c130f638408,False,True,13645005,Chronic obstructive lung disease (disorder),Fully defined,True,900000000000207008
+523,63866c2d081b3c130f6384d9,False,True,271966006,Disorder of cardiovascular prostheses and implants (disorder),Primitive,True,900000000000207008
+524,63866c2d081b3c130f638673,False,True,271973001,Disorder of intrauterine contraceptive device (disorder),Fully defined,True,900000000000207008
+525,63866c2d081b3c130f6387e1,False,True,13695006,Fracture of pubic rami (disorder),Fully defined,True,900000000000207008
+526,63866c2e081b3c130f638d19,False,True,271558008,Infectious mononucleosis (disorder),Primitive,True,900000000000207008
+527,63866c2e081b3c130f6390fb,False,True,284188001,Burn of respiratory tract (disorder),Fully defined,True,900000000000207008
+528,63866c2e081b3c130f63925c,False,True,13200003,Peptic ulcer (disorder),Fully defined,True,900000000000207008
+529,63866c2e081b3c130f639281,False,True,111735006,Effects of heat (finding),Fully defined,True,900000000000207008
+530,63866c2e081b3c130f6393d7,False,True,13213009,Congenital heart disease (disorder),Fully defined,True,900000000000207008
+531,63866c2f081b3c130f63963e,False,True,50228009,Contusion of ear (disorder),Fully defined,True,900000000000207008
+532,63866c2f081b3c130f639ba5,False,True,446979005,Open fracture of tibia (disorder),Fully defined,True,900000000000207008
+533,63866c30081b3c130f63a075,False,True,34000006,Crohn's disease (disorder),Primitive,True,900000000000207008
+534,63866c31081b3c130f63a5cb,False,True,268029009,Pathological fracture (disorder),Fully defined,True,900000000000207008
+535,63866c31081b3c130f63a5cc,False,True,103742009,Renewal of prescription (procedure),Primitive,True,900000000000207008
+536,63866c31081b3c130f63a6bf,False,True,103735009,Palliative care (regime/therapy),Primitive,True,900000000000207008
+537,63866c31081b3c130f63a7ca,True,True,111864006,Chikungunya fever (disorder),Fully defined,True,900000000000207008
+538,63866c31081b3c130f63a873,False,True,268002004,Non-traumatic tendon rupture (disorder),Fully defined,True,900000000000207008
+539,63866c31081b3c130f63aa1b,False,True,21454007,Subarachnoid intracranial hemorrhage (disorder),Fully defined,True,900000000000207008
+540,63866c31081b3c130f63aace,False,True,34095006,Dehydration (disorder),Primitive,True,900000000000207008
+541,63866c32081b3c130f63afbe,False,True,284223003,Burn of buttock (disorder),Fully defined,True,900000000000207008
+542,63866c32081b3c130f63b022,False,True,284219006,Burn of perineum (disorder),Fully defined,True,900000000000207008
+543,63866c32081b3c130f63b02a,False,True,42188001,Closed fracture of ankle (disorder),Fully defined,True,900000000000207008
+544,63866c33081b3c130f63b564,True,True,276177000,Thyroid eye disease (disorder),Primitive,True,900000000000207008
+545,63866c35081b3c130f63c803,False,True,34124000,Foreign body in vagina (disorder),Fully defined,True,900000000000207008
+546,63866c36081b3c130f63d278,False,True,271737000,Anemia (disorder),Primitive,True,900000000000207008
+547,63866c37081b3c130f63d59d,False,True,13445001,Ménière's disease (disorder),Primitive,True,900000000000207008
+548,63866c38081b3c130f63d6d9,False,True,328383001,Chronic liver disease (disorder),Fully defined,True,900000000000207008
+549,63866c39081b3c130f63e0d9,False,True,111541001,Benign paroxysmal positional vertigo (disorder),Primitive,True,900000000000207008
+550,63866c39081b3c130f63e346,False,True,111523009,Acute hydrops keratoconus (disorder),Fully defined,True,900000000000207008
+551,63866c3a081b3c130f63e889,False,True,21186006,Chronic otitis media (disorder),Fully defined,True,900000000000207008
+552,63866c3a081b3c130f63ee9c,False,True,50001009,Crushing injury of neck (disorder),Fully defined,True,900000000000207008
+553,63866c3a081b3c130f63f0cf,False,True,161152002,Social problem (finding),Primitive,True,900000000000207008
+554,63866c3b081b3c130f63f1dc,False,True,247097006,Hemorrhage at vitreoretinal interface (disorder),Primitive,True,900000000000207008
+555,63866c3b081b3c130f63f2f1,False,True,247081001,Posterior vitreous detachment (disorder),Primitive,True,900000000000207008
+556,63866c3b081b3c130f63f716,True,True,417981005,Exposure to blood and/or body fluid (event),Primitive,True,900000000000207008
+557,63866c3c081b3c130f63f99a,False,True,50063009,Femoral hernia (disorder),Fully defined,True,900000000000207008
+558,63866c3c081b3c130f63fa16,False,True,234467004,Thrombophilia (disorder),Primitive,True,900000000000207008
+559,63866c3c081b3c130f63fd80,False,True,111609001,Open fracture of facial bones (disorder),Fully defined,True,900000000000207008
+560,63866c3c081b3c130f64014d,False,True,111640008,Closed fracture of radius (disorder),Fully defined,True,900000000000207008
+561,63866c3d081b3c130f6401a2,False,True,111643005,Open fracture of patella (disorder),Fully defined,True,900000000000207008
+562,63866c3d081b3c130f64020f,False,True,111637008,Open fracture of clavicle (disorder),Fully defined,True,900000000000207008
+563,63866c3d081b3c130f64065e,False,True,352818000,Tonic-clonic epilepsy (disorder),Primitive,True,900000000000207008
+564,63866c3d081b3c130f640799,False,True,111693009,Crushing injury of forearm (disorder),Fully defined,True,900000000000207008
+565,63866c3d081b3c130f6407a5,False,True,13160009,Complication of transplanted intestines (disorder),Fully defined,True,900000000000207008
+566,63866c3e081b3c130f640ec5,False,True,247124009,Retinal macroaneurysm (disorder),Fully defined,True,900000000000207008
+567,63866c3e081b3c130f640f42,False,True,247161000,Macular subretinal hemorrhage (disorder),Primitive,True,900000000000207008
+568,63866c3e081b3c130f640ff5,False,True,247153005,Retinal drusen (finding),Fully defined,True,900000000000207008
+569,63866c3f081b3c130f64123a,False,True,234532001,Immunodeficiency disorder (disorder),Primitive,True,900000000000207008
+570,63866c40081b3c130f6419f9,False,True,42059000,Retinal detachment (disorder),Fully defined,True,900000000000207008
+571,63866c41081b3c130f642359,False,True,76902006,Tetanus (disorder),Fully defined,True,900000000000207008
+572,63866c43081b3c130f64375f,False,True,735476006,Fistula of genitourinary tract (disorder),Fully defined,True,900000000000207008
+573,63866c44081b3c130f6438e7,True,True,735492001,Obstructed labor due to shoulder dystocia (disorder),Fully defined,True,900000000000207008
+574,63866c45081b3c130f644057,False,True,89627008,Hyponatremia (disorder),Primitive,True,900000000000207008
+575,63866c45081b3c130f6443c1,False,True,735645009,Contusion of head (disorder),Fully defined,True,900000000000207008
+576,63866c47081b3c130f6456b7,False,True,47821001,Postpartum hemorrhage (disorder),Fully defined,True,900000000000207008
+577,63866c48081b3c130f64597c,False,True,47864008,Open fracture of scapula (disorder),Fully defined,True,900000000000207008
+578,63866c48081b3c130f645d14,False,True,89294002,Open fracture of humerus (disorder),Fully defined,True,900000000000207008
+579,63866c49081b3c130f64609d,False,True,68565009,Crushing injury of abdomen (disorder),Fully defined,True,900000000000207008
+580,63866c49081b3c130f6466d8,False,True,195889001,Legionella pneumonia (disorder),Fully defined,True,900000000000207008
+581,63866c4a081b3c130f646adf,False,True,84759007,Disorder of accessory nerve (disorder),Fully defined,True,900000000000207008
+582,63866c4a081b3c130f646e34,False,True,400047006,Peripheral vascular disease (disorder),Primitive,True,900000000000207008
+583,63866c4b081b3c130f64719f,False,True,400097005,Ingrowing nail (disorder),Primitive,True,900000000000207008
+584,63866c4b081b3c130f6471a3,False,True,400096001,Melanocytic nevus (disorder),Fully defined,True,900000000000207008
+585,63866c4b081b3c130f6473fa,False,True,126011000119107,Acquired caroticocavernous sinus fistula (disorder),Fully defined,True,900000000000207008
+586,63866c4b081b3c130f6474b7,False,True,39839004,Diaphragmatic hernia (disorder),Fully defined,True,900000000000207008
+587,63866c4c081b3c130f647782,False,True,735426009,Fistula of digestive system (disorder),Fully defined,True,900000000000207008
+588,63866c4c081b3c130f647ac4,False,True,68670009,Contact dermatitis of eyelid (disorder),Fully defined,True,900000000000207008
+589,63866c4c081b3c130f647c37,True,True,39812007,Contusion of forearm (disorder),Fully defined,True,900000000000207008
+590,63866c4d081b3c130f647ee5,False,True,76742009,Postmenopausal bleeding (finding),Fully defined,True,900000000000207008
+591,63866c4d081b3c130f647f35,False,True,813231000000107,Injury of tendon of thumb (disorder),Fully defined,True,999000011000000103
+592,63866c4e081b3c130f6485fd,True,True,722704008,Traumatic amputation of nose (disorder),Fully defined,True,900000000000207008
+593,63866c4e081b3c130f648601,False,True,195967001,Asthma (disorder),Primitive,True,900000000000207008
+594,63866c4e081b3c130f6486ef,False,True,195951007,Acute exacerbation of chronic obstructive airways disease (disorder),Fully defined,True,900000000000207008
+595,63866c4e081b3c130f6488c5,False,True,400178008,Lymphangioma (disorder),Fully defined,True,900000000000207008
+596,63866c4f081b3c130f648b77,False,True,89322006,Urticaria medicamentosa (disorder),Fully defined,True,900000000000207008
+597,63866c4f081b3c130f648f9a,False,True,26889001,Myositis (disorder),Fully defined,True,900000000000207008
+598,63866c4f081b3c130f64901e,False,True,18773000,Cyclical vomiting syndrome (disorder),Fully defined,True,900000000000207008
+599,63866c4f081b3c130f649059,False,True,71906005,Paronychia (disorder),Fully defined,True,900000000000207008
+600,63866c51081b3c130f649be0,False,True,76437000,Contusion of thumb (disorder),Fully defined,True,900000000000207008
+601,63866c51081b3c130f649fd2,False,True,68267002,Benign intracranial hypertension (disorder),Primitive,True,900000000000207008
+602,63866c53081b3c130f64ace4,False,True,39400004,Injury of liver (disorder),Fully defined,True,900000000000207008
+603,63866c54081b3c130f64b440,False,True,89155008,Systemic sclerosis (disorder),Fully defined,True,900000000000207008
+604,63866c54081b3c130f64b6ea,False,True,89138009,Cardiogenic shock (disorder),Primitive,True,900000000000207008
+605,63866c55081b3c130f64bab2,False,True,68478007,Central retinal vein occlusion (disorder),Fully defined,True,900000000000207008
+606,63866c55081b3c130f64bd5d,False,True,76581006,Cholecystitis (disorder),Fully defined,True,900000000000207008
+607,63866c55081b3c130f64be3b,False,True,76571007,Septic shock (disorder),Fully defined,True,900000000000207008
+608,63866c55081b3c130f64c035,False,True,47639008,Pilonidal cyst (disorder),Fully defined,True,900000000000207008
+609,63866c56081b3c130f64c599,False,True,18834007,Crystal arthropathy (disorder),Fully defined,True,900000000000207008
+610,63866c57081b3c130f64cb7c,False,True,39579001,Anaphylaxis (disorder),Primitive,True,900000000000207008
+611,63866c57081b3c130f64cc9c,True,True,26918003,Ascending cholangitis (disorder),Primitive,True,900000000000207008
+612,63866c57081b3c130f64ce75,False,True,55464009,Systemic lupus erythematosus (disorder),Primitive,True,900000000000207008
+613,63866c58081b3c130f64d1fa,False,True,812761000000101,Injury of muscle of foot (disorder),Fully defined,True,999000011000000103
+614,63866c58081b3c130f64d44b,False,True,47398006,Marginal corneal ulcer (disorder),Fully defined,True,900000000000207008
+615,63866c58081b3c130f64d583,False,True,190905008,Cystic fibrosis (disorder),Primitive,True,900000000000207008
+616,63866c58081b3c130f64d5c9,True,True,129635004,Ovarian hyperstimulation syndrome (disorder),Primitive,True,900000000000207008
+617,63866c58081b3c130f64d5dc,False,True,47382004,Dermatophytosis (disorder),Fully defined,True,900000000000207008
+618,63866c58081b3c130f64d7bb,False,True,129656002,Complication of diagnostic procedure (disorder),Fully defined,True,900000000000207008
+619,63866c5b081b3c130f64ed7a,False,True,68033004,Tracheostomy complication (disorder),Fully defined,True,900000000000207008
+620,63866c5b081b3c130f64edf3,False,True,76172008,Infection caused by Taenia (disorder),Fully defined,True,900000000000207008
+621,63866c5c081b3c130f64f14c,False,True,50920009,Myocarditis (disorder),Fully defined,True,900000000000207008
+622,63866c5c081b3c130f64f54a,False,True,34842007,Antepartum hemorrhage (disorder),Fully defined,True,900000000000207008
+623,63866c5c081b3c130f64f55f,False,True,34840004,Tendinitis (disorder),Fully defined,True,900000000000207008
+624,63866c5c081b3c130f64f727,True,True,813131000000104,Traumatic amputation of tongue (disorder),Fully defined,True,999000011000000103
+625,63866c5e081b3c130f650080,False,True,84416003,Contusion of thigh (disorder),Fully defined,True,900000000000207008
+626,63866c60081b3c130f650f29,True,True,239939001,Giant cell arteritis without polymyalgia rheumatica (disorder),Primitive,True,900000000000207008
+627,63866c60081b3c130f650f4b,True,True,239938009,Giant cell arteritis with polymyalgia rheumatica (disorder),Primitive,True,900000000000207008
+628,63866c60081b3c130f65104e,False,True,63650001,Cholera (disorder),Fully defined,True,900000000000207008
+629,63866c60081b3c130f6512ce,False,True,34801009,Ectopic pregnancy (disorder),Primitive,True,900000000000207008
+630,63866c60081b3c130f651305,False,True,42945005,Open fracture of radius (disorder),Fully defined,True,900000000000207008
+631,63866c62081b3c130f65201e,False,True,726523002,Injury caused by low temperature (disorder),Fully defined,True,900000000000207008
+632,63866c63081b3c130f65271d,False,True,67924001,Smallpox (disorder),Fully defined,True,900000000000207008
+633,63866c68081b3c130f6532c8,False,True,38907003,Varicella (disorder),Fully defined,True,900000000000207008
+634,63866c68081b3c130f653450,False,True,420079008,Relapsing fever (disorder),Fully defined,True,900000000000207008
+635,63866c6b081b3c130f653b02,False,True,38959009,Methemoglobinemia (disorder),Primitive,True,900000000000207008
+636,63866c6c081b3c130f653df8,False,True,67801009,Tenosynovitis (disorder),Fully defined,True,900000000000207008
+637,63866c6c081b3c130f654064,False,True,813111000000107,Injury of tendon of wrist joint (disorder),Fully defined,True,999000011000000103
+638,63866c6d081b3c130f654484,False,True,67895005,Phlyctenular keratoconjunctivitis (disorder),Fully defined,True,900000000000207008
+639,63866c6e081b3c130f654a10,True,True,288531000119103,Problem related to social environment (finding),Primitive,True,900000000000207008
+640,63866c6e081b3c130f6550c3,False,True,433068007,Aneurysm of thoracic aorta (disorder),Fully defined,True,900000000000207008
+641,63866c6f081b3c130f655262,False,True,2304001,Discitis (disorder),Fully defined,True,900000000000207008
+642,63866c6f081b3c130f6553b4,False,True,420422005,Ketoacidosis due to diabetes mellitus (disorder),Fully defined,True,900000000000207008
+643,63866c73081b3c130f65730d,False,True,59927004,Hepatic failure (disorder),Primitive,True,900000000000207008
+644,63866c75081b3c130f65810f,False,True,62994001,Tracheitis (disorder),Fully defined,True,900000000000207008
+645,63866c75081b3c130f6582c7,False,True,771115008,Hypernatremia (disorder),Primitive,True,900000000000207008
+646,63866c75081b3c130f6582f6,False,True,67426006,Toxic effect of alcohol (disorder),Fully defined,True,900000000000207008
+647,63866c75081b3c130f658660,False,True,17883008,Sprain of hip (disorder),Fully defined,True,900000000000207008
+648,63866c76081b3c130f6589cc,False,True,62909004,Ectropion of eyelid (disorder),Fully defined,True,900000000000207008
+649,63866c76081b3c130f658a30,False,True,75544000,Opioid dependence (disorder),Fully defined,True,900000000000207008
+650,63866c76081b3c130f658bab,False,True,721537005,Acquired Horner syndrome (disorder),Primitive,True,900000000000207008
+651,63866c77081b3c130f6591c4,False,True,75614007,Panuveitis (disorder),Primitive,True,900000000000207008
+652,63866c77081b3c130f659520,True,True,1382631000000101,Poisoning caused by household product (disorder),Primitive,True,999000011000000103
+653,63866c77081b3c130f6596fe,False,True,186738001,Epidemic vertigo (disorder),Primitive,True,900000000000207008
+654,63866c78081b3c130f659a3b,False,True,46799006,Dysenteric diarrhea (disorder),Primitive,True,900000000000207008
+655,63866c78081b3c130f659dd8,False,True,54888009,Sprain of knee (disorder),Fully defined,True,900000000000207008
+656,63866c78081b3c130f659eaf,False,True,75478009,Poisoning (disorder),Primitive,True,900000000000207008
+657,63866c79081b3c130f65a298,False,True,17790008,Disorder of nail (disorder),Fully defined,True,900000000000207008
+658,63866c79081b3c130f65a4ab,False,True,75441006,Foreign body in ear (disorder),Fully defined,True,900000000000207008
+659,63866c7a081b3c130f65a783,False,True,88032003,Amaurosis fugax (disorder),Primitive,True,900000000000207008
+660,63866c7a081b3c130f65aa00,True,True,186535001,Eczema herpeticum (disorder),Primitive,True,900000000000207008
+661,63866c7a081b3c130f65ac15,False,True,17709002,Bleeding esophageal varices (disorder),Fully defined,True,900000000000207008
+662,63866c7a081b3c130f65ac54,True,True,91613004,Contusion of elbow (disorder),Fully defined,True,900000000000207008
+663,63866c7b081b3c130f65b372,False,True,25924004,Calculus of gallbladder with cholecystitis (disorder),Fully defined,True,900000000000207008
+664,63866c7c081b3c130f65b957,False,True,59282003,Pulmonary embolism (disorder),Fully defined,True,900000000000207008
+665,63866c7c081b3c130f65b9d6,False,True,46635009,Diabetes mellitus type 1 (disorder),Primitive,True,900000000000207008
+666,63866c7c081b3c130f65bb77,False,True,398925009,Abducens nerve disorder (disorder),Fully defined,True,900000000000207008
+667,63866c7c081b3c130f65be4b,False,True,70995007,Pulmonary hypertension (disorder),Primitive,True,900000000000207008
+668,63866c7f081b3c130f65cc77,False,True,812741000000102,Injury of muscle of thigh (disorder),Fully defined,True,999000011000000103
+669,63866c80081b3c130f65d3a5,False,True,83901003,Sjögren's syndrome (disorder),Primitive,True,900000000000207008
+670,63866c80081b3c130f65d858,True,True,83966006,Hypothermia caused by cold environment (disorder),Primitive,True,900000000000207008
+671,63866c81081b3c130f65ded6,False,True,836424002,Dislocation of joint of foot (disorder),Fully defined,True,900000000000207008
+672,63866c83081b3c130f65eab9,False,True,75702008,Brucellosis (disorder),Fully defined,True,900000000000207008
+673,63866c84081b3c130f65ed6d,False,True,95041000119101,Female genital mutilation (disorder),Primitive,True,900000000000207008
+674,63866c84081b3c130f65f02d,False,True,88374002,Burn of toe (disorder),Fully defined,True,900000000000207008
+675,63866c84081b3c130f65f314,False,True,38742007,Central retinal artery occlusion (disorder),Fully defined,True,900000000000207008
+676,63866c85081b3c130f65f958,False,True,205237003,Pneumonitis (disorder),Fully defined,True,900000000000207008
+677,63866c85081b3c130f65f9a6,False,True,200724002,Umbilical granuloma (disorder),Fully defined,True,900000000000207008
+678,63866c85081b3c130f65f9d1,False,True,200722003,Pyogenic granuloma (disorder),Fully defined,True,900000000000207008
+679,63866c85081b3c130f65f9d4,False,True,302866003,Hypoglycemia (disorder),Primitive,True,900000000000207008
+680,63866c85081b3c130f65fbbf,False,True,409498004,Anthrax (disorder),Fully defined,True,900000000000207008
+681,63866c85081b3c130f65fcee,False,True,234097001,Lymphedema (disorder),Fully defined,True,900000000000207008
+682,63866c86081b3c130f65fe34,True,True,307322002,Rupture radial artery (disorder),Fully defined,True,900000000000207008
+683,63866c87081b3c130f660812,False,True,111245009,Compartment syndrome (disorder),Primitive,True,900000000000207008
+684,63866c87081b3c130f66092b,False,True,111255008,Avascular necrosis of the capital femoral epiphysis (disorder),Fully defined,True,900000000000207008
+685,63866c88081b3c130f66123f,False,True,417558002,Dislocation of elbow joint (disorder),Fully defined,True,900000000000207008
+686,63866c89081b3c130f6615ae,False,True,7520000,Pyrexia of unknown origin (finding),Primitive,True,900000000000207008
+687,63866c89081b3c130f6615cf,False,True,234000009,Dissection of femoral artery (disorder),Fully defined,True,900000000000207008
+688,63866c8a081b3c130f661cd7,False,True,417425009,Hemoglobin SS disease with crisis (disorder),Primitive,True,900000000000207008
+689,63866c8a081b3c130f66223b,False,True,213282006,Foreign body left in wound (disorder),Fully defined,True,900000000000207008
+690,63866c8d081b3c130f663480,True,True,425540008,Corneal decompensation (disorder),Primitive,True,900000000000207008
+691,63866c8d081b3c130f66378e,False,True,813311000000109,Injury of tendon of foot (disorder),Fully defined,True,999000011000000103
+692,63866c8d081b3c130f66390e,False,True,111489007,Breathing-related sleep disorder (disorder),Primitive,True,900000000000207008
+693,63866c8d081b3c130f663960,False,True,263129009,Sprain of ligament of finger (disorder),Fully defined,True,900000000000207008
+694,63866c8d081b3c130f66396f,False,True,263128001,Sprain of ligament of elbow (disorder),Fully defined,True,900000000000207008
+695,63866c8d081b3c130f66398e,False,True,263125003,Volar plate injury of finger joint (disorder),Fully defined,True,900000000000207008
+696,63866c8d081b3c130f663a52,False,True,263130004,Sprain of ligament of thumb (disorder),Fully defined,True,900000000000207008
+697,63866c8e081b3c130f663c92,True,True,255024002,Nevus of choroid (disorder),Fully defined,True,900000000000207008
+698,63866c90081b3c130f664e1a,True,True,417750006,Conjunctival laceration (disorder),Fully defined,True,900000000000207008
+699,63866c91081b3c130f665070,False,True,111407006,Hemolytic uremic syndrome (disorder),Primitive,True,900000000000207008
+700,63866c92081b3c130f6657f7,True,True,1098111000000101,Drug-induced seizure (finding),Primitive,True,999000011000000103
+701,63866c92081b3c130f665b5a,False,True,302964004,Dislocation of temporomandibular joint (disorder),Fully defined,True,900000000000207008
+702,63866c92081b3c130f665e7f,False,True,307497002,Traumatic tympanic membrane perforation (disorder),Fully defined,True,900000000000207008
+703,63866c93081b3c130f666019,False,True,263009006,Dislocation of sternoclavicular joint (disorder),Fully defined,True,900000000000207008
+704,63866c93081b3c130f666156,False,True,263019000,Dislocation of acromioclavicular joint (disorder),Fully defined,True,900000000000207008
+705,63866c93081b3c130f6661fb,False,True,263029007,Dislocation of patellofemoral joint (disorder),Fully defined,True,900000000000207008
+706,63866c93081b3c130f666298,False,True,263030002,Dislocation of toe joint (disorder),Fully defined,True,900000000000207008
+707,63866c93081b3c130f66629e,False,True,263031003,Subluxation of joint (disorder),Fully defined,True,900000000000207008
+708,63866c94081b3c130f666c00,True,True,1325161000000102,Post-COVID-19 syndrome (disorder),Primitive,True,999000011000000103
+709,63866c95081b3c130f66705b,False,True,242253008,Overdose of opiate (disorder),Fully defined,True,900000000000207008
+710,63866c95081b3c130f667126,False,True,409516001,Post-exposure prophylaxis (procedure),Primitive,True,900000000000207008
+711,63866c95081b3c130f66723b,False,True,226007004,Post-surgical wound care (regime/therapy),Fully defined,True,900000000000207008
+712,63866c95081b3c130f667431,True,True,234168001,Micturition syncope (finding),Fully defined,True,900000000000207008
+713,63866c96081b3c130f6678ec,False,True,302918009,Disorder of stoma (disorder),Fully defined,True,900000000000207008
+714,63866c96081b3c130f667bce,False,True,417109008,Subluxation of radial head (disorder),Fully defined,True,900000000000207008
+715,63866c98081b3c130f668a9f,False,True,2591000,Crushing injury of shoulder region (disorder),Fully defined,True,900000000000207008
+716,63866c98081b3c130f668ca9,False,True,2576002,Trachoma (disorder),Fully defined,True,900000000000207008
+717,63866c99081b3c130f669177,False,True,417044008,"Hydatidiform mole, benign (disorder)",Fully defined,True,900000000000207008
+718,63866c99081b3c130f6693c0,True,True,417020006,Traumatic iritis (disorder),Fully defined,True,900000000000207008
+719,63866c9b081b3c130f669fd8,False,True,302232001,Elbow fracture - open (disorder),Fully defined,True,900000000000207008
+720,63866c9b081b3c130f66a405,False,True,2492009,Nutritional disorder (disorder),Primitive,True,900000000000207008
+721,63866c9b081b3c130f66a414,False,True,302215000,Thrombocytopenic disorder (disorder),Fully defined,True,900000000000207008
+722,63866c9b081b3c130f66a4c5,False,True,302222008,Elbow fracture - closed (disorder),Fully defined,True,900000000000207008
+723,63866c9d081b3c130f66b3af,False,True,2858002,Puerperal sepsis (disorder),Fully defined,True,900000000000207008
+724,63866c9e081b3c130f66b52d,False,True,315296002,Penetrating wound of eye (disorder),Fully defined,True,900000000000207008
+725,63866c9e081b3c130f66b88c,False,True,2897005,Immune thrombocytopenia (disorder),Fully defined,True,900000000000207008
+726,63866c9f081b3c130f66bdbb,False,True,310701003,Behcet's syndrome (disorder),Primitive,True,900000000000207008
+727,63866ca0081b3c130f66c975,False,True,307052004,Illicit drug use (finding),Primitive,True,900000000000207008
+728,63866ca0081b3c130f66c9f6,True,True,404649002,Traumatic mydriasis (disorder),Fully defined,True,900000000000207008
+729,63866ca1081b3c130f66d29f,False,True,7231009,Bullous dermatosis (disorder),Primitive,True,900000000000207008
+730,63866ca2081b3c130f66d6da,False,True,2776000,Delirium (disorder),Primitive,True,900000000000207008
+731,63866ca4081b3c130f66e74b,False,True,310505005,Hyperosmolar non-ketotic state due to diabetes mellitus (disorder),Primitive,True,900000000000207008
+732,63866ca5081b3c130f66ee06,False,True,302436000,Attention to dressing of skin (procedure),Fully defined,True,900000000000207008
+733,63866ca6081b3c130f66f26d,True,True,314562004,Contact lens related sterile keratitis (disorder),Primitive,True,900000000000207008
+734,63866ca7081b3c130f66fa8b,True,True,424801004,Herpes zoster corneal endotheliitis (disorder),Fully defined,True,900000000000207008
+735,63866ca9081b3c130f670729,True,True,314662007,Major head injury (disorder),Primitive,True,900000000000207008
+736,63866ca9081b3c130f670730,True,True,314661000,Moderate head injury (disorder),Primitive,True,900000000000207008
+737,63866ca9081b3c130f670c7a,False,True,408678008,Healthcare associated infectious disease (disorder),Fully defined,True,900000000000207008
+738,63866caf081b3c130f671d44,False,True,416829003,Disease caused by Genus Rickettsia (disorder),Fully defined,True,900000000000207008
+739,63866cb1081b3c130f671df9,True,True,424956000,Retinal pigment epithelial hyperplasia (disorder),Fully defined,True,900000000000207008
+740,63866cb1081b3c130f672030,False,True,6849006,Rupture of quadriceps tendon (disorder),Fully defined,True,900000000000207008
+741,63866cb4081b3c130f6725a5,False,True,314764001,Corneal melting disorder (disorder),Primitive,True,900000000000207008
+742,63866cb5081b3c130f6733cf,False,True,429513001,Rupture of Achilles tendon (disorder),Fully defined,True,900000000000207008
+743,63866cb6081b3c130f6738be,False,True,12063002,Rectal hemorrhage (disorder),Fully defined,True,900000000000207008
+744,63866cb6081b3c130f673ab9,False,True,6962006,Hypertensive retinopathy (disorder),Fully defined,True,900000000000207008
+745,63866cb7081b3c130f6740f0,False,True,20236002,Labor established (finding),Primitive,True,900000000000207008
+746,63866cb7081b3c130f67417f,False,True,283051009,Abrasion of ear region (disorder),Fully defined,True,900000000000207008
+747,63866cb7081b3c130f674192,True,True,283052002,Abrasion of nose (disorder),Fully defined,True,900000000000207008
+748,63866cb7081b3c130f6741a3,False,True,283055000,Abrasion of neck (disorder),Fully defined,True,900000000000207008
+749,63866cb7081b3c130f6741bf,False,True,283058003,Abrasion of wrist (disorder),Fully defined,True,900000000000207008
+750,63866cb7081b3c130f6741f3,False,True,283059006,Abrasion of hand (disorder),Fully defined,True,900000000000207008
+751,63866cb7081b3c130f6742a3,False,True,283060001,Abrasion of pelvic region (disorder),Fully defined,True,900000000000207008
+752,63866cb7081b3c130f6742b1,False,True,283061002,Abrasion of genitalia (disorder),Fully defined,True,900000000000207008
+753,63866cb8081b3c130f674c59,True,True,270492004,First degree atrioventricular block (disorder),Primitive,True,900000000000207008
+754,63866cbd081b3c130f676bf2,False,True,283137007,Contusion of pelvic region (disorder),Fully defined,True,900000000000207008
+755,63866cbd081b3c130f676db1,False,True,270500004,Prolapsed cord (disorder),Primitive,True,900000000000207008
+756,63866cbe081b3c130f6774a0,False,True,233604007,Pneumonia (disorder),Fully defined,True,900000000000207008
+757,63866cbe081b3c130f6776d6,False,True,12295008,Bronchiectasis (disorder),Primitive,True,900000000000207008
+758,63866cbe081b3c130f677d69,False,True,403607004,Angioedema caused by angiotensin-converting-enzyme inhibitor (disorder),Fully defined,True,900000000000207008
+759,63866cc1081b3c130f678fff,False,True,1776003,Renal tubular acidosis (disorder),Primitive,True,900000000000207008
+760,63866cc1081b3c130f6790cd,False,True,6273006,Priapism (disorder),Primitive,True,900000000000207008
+761,63866cc1081b3c130f6794c5,False,True,314201008,Dislocation of hip joint prosthesis (disorder),Fully defined,True,900000000000207008
+762,63866cc1081b3c130f679578,False,True,1847009,Endophthalmitis (disorder),Fully defined,True,900000000000207008
+763,63866cc2081b3c130f67972b,False,True,1860003,Fluid volume disorder (disorder),Primitive,True,900000000000207008
+764,63866cc2081b3c130f67981c,False,True,6383007,Premature labor (finding),Primitive,True,900000000000207008
+765,63866cc4081b3c130f67a9cd,True,True,110016007,Rupture of corpus cavernosum of penis (disorder),Fully defined,True,900000000000207008
+766,63866cc5081b3c130f67ae8d,True,True,828981000000104,Injury of tendon of ankle (disorder),Primitive,True,999000011000000103
+767,63866cc5081b3c130f67b12d,False,True,110151001,Superficial injury of mouth (disorder),Fully defined,True,900000000000207008
+768,63866cc6081b3c130f67b257,False,True,204113001,Congenital glaucoma (disorder),Fully defined,True,900000000000207008
+769,63866cc7081b3c130f67bad7,False,True,6456007,Supraventricular tachycardia (disorder),Primitive,True,900000000000207008
+770,63866cc7081b3c130f67bfe0,False,True,314407005,Retinal dystrophy (disorder),Fully defined,True,900000000000207008
+771,63866cc8081b3c130f67c200,True,True,424669003,Optic disc edema associated with retinal disorder (disorder),Primitive,True,900000000000207008
+772,63866cc9081b3c130f67cdc6,False,True,110167007,Abrasion of circumoral region of face (disorder),Fully defined,True,900000000000207008
+773,63866cca081b3c130f67d268,False,True,301864002,Transient synovitis of hip (disorder),Fully defined,True,900000000000207008
+774,63866cca081b3c130f67d3ac,False,True,212372004,Fat embolism (disorder),Fully defined,True,900000000000207008
+775,63866cca081b3c130f67d58a,False,True,110250005,Contusion of mouth (disorder),Fully defined,True,900000000000207008
+776,63866ccb081b3c130f67d9b6,False,True,314497004,Contact lens related corneal infiltrate (disorder),Fully defined,True,900000000000207008
+777,63866ccb081b3c130f67db4b,False,True,314429009,Intermediate uveitis (disorder),Primitive,True,900000000000207008
+778,63866ccb081b3c130f67de84,False,True,314533000,Blunt injury of eye (disorder),Fully defined,True,900000000000207008
+779,63866ccb081b3c130f67e0c3,False,True,314551004,Corneal graft disorder (disorder),Fully defined,True,900000000000207008
+780,63866ccc081b3c130f67e889,False,True,429257001,Disorder of transplanted heart (disorder),Fully defined,True,900000000000207008
+781,63866ccd081b3c130f67ee79,False,True,296355001,Overdose of calcium-channel blockers (disorder),Fully defined,True,900000000000207008
+782,63866ccd081b3c130f67efbb,False,True,25415003,Closed fracture of femur (disorder),Fully defined,True,900000000000207008
+783,63866cce081b3c130f67f124,False,True,128462008,Metastatic malignant neoplasm (disorder),Fully defined,True,900000000000207008
+784,63866cce081b3c130f67f12b,False,True,128464009,Neoplasm of articular cartilage (disorder),Fully defined,True,900000000000207008
+785,63866cce081b3c130f67f2af,False,True,38086007,Laryngomalacia (disorder),Fully defined,True,900000000000207008
+786,63866cce081b3c130f67f2da,False,True,128477000,Abscess (disorder),Fully defined,True,900000000000207008
+787,63866ccf081b3c130f67fbd9,False,True,17369002,Miscarriage (disorder),Fully defined,True,900000000000207008
+788,63866cd0081b3c130f67fdb7,False,True,17383000,Toxic effect of carbon monoxide (disorder),Fully defined,True,900000000000207008
+789,63866cd0081b3c130f68014f,True,True,75053002,Acute febrile mucocutaneous lymph node syndrome (disorder),Primitive,True,900000000000207008
+790,63866cd0081b3c130f680209,False,True,262955000,Subarachnoid hemorrhage due to traumatic injury (disorder),Fully defined,True,900000000000207008
+791,63866cd0081b3c130f680281,False,True,262952002,Traumatic intracranial subdural hematoma (disorder),Fully defined,True,900000000000207008
+792,63866cd0081b3c130f6802df,False,True,262949005,Traumatic intracranial extradural hematoma (disorder),Fully defined,True,900000000000207008
+793,63866cd1081b3c130f680423,False,True,262937009,Injury to blood vessel of neck (disorder),Fully defined,True,900000000000207008
+794,63866cd1081b3c130f680517,False,True,262971000,Tendon injury - hand (disorder),Fully defined,True,900000000000207008
+795,63866cd1081b3c130f6806c8,True,True,700242002,Fowler syndrome (disorder),Primitive,True,900000000000207008
+796,63866cd2081b3c130f680c6c,True,True,62356006,Open supracondylar fracture of humerus (disorder),Fully defined,True,900000000000207008
+797,63866cd2081b3c130f680fb8,False,True,398447004,Severe acute respiratory syndrome (disorder),Fully defined,True,900000000000207008
+798,63866cd2081b3c130f68128d,False,True,296335002,Overdose of beta-adrenergic blocking drug (disorder),Fully defined,True,900000000000207008
+799,63866cd3081b3c130f68141c,False,True,46152009,Tear film insufficiency (disorder),Primitive,True,900000000000207008
+800,63866cd3081b3c130f681423,False,True,25569003,Ventricular tachycardia (disorder),Fully defined,True,900000000000207008
+801,63866cd3081b3c130f68178e,True,True,283846004,Degloving injury of abdomen (disorder),Fully defined,True,900000000000207008
+802,63866cd3081b3c130f6817b2,False,True,283843007,Degloving injury of neck (disorder),Fully defined,True,900000000000207008
+803,63866cd3081b3c130f6817bd,False,True,283842002,Degloving injury of head (disorder),Fully defined,True,900000000000207008
+804,63866cd3081b3c130f68181d,False,True,283849006,Degloving injury of genitalia (disorder),Fully defined,True,900000000000207008
+805,63866cd3081b3c130f6818d2,False,True,283859007,Crush injury of pelvic region (disorder),Fully defined,True,900000000000207008
+806,63866cd3081b3c130f681919,False,True,283858004,Crush injury of thumb (disorder),Fully defined,True,900000000000207008
+807,63866cd4081b3c130f681c74,True,True,83227006,Scombroid fish poisoning (disorder),Primitive,True,900000000000207008
+808,63866cd5081b3c130f681f35,False,True,70647001,Yaws (disorder),Fully defined,True,900000000000207008
+809,63866cd5081b3c130f682055,True,True,824031000000109,Leaking thoracic aortic aneurysm (disorder),Primitive,True,999000011000000103
+810,63866cd5081b3c130f68213c,False,True,165517008,Neutropenia (finding),Fully defined,True,900000000000207008
+811,63866cd5081b3c130f6825ed,False,True,70660007,Hydrocele of tunica vaginalis (disorder),Fully defined,True,900000000000207008
+812,63866cd6081b3c130f682770,False,True,54404000,Cervical radiculopathy (disorder),Fully defined,True,900000000000207008
+813,63866cd6081b3c130f68280c,False,True,700372006,Urinary tract infection associated with catheter (disorder),Fully defined,True,900000000000207008
+814,63866cd7081b3c130f6830ef,False,True,33629003,Drusen of optic disc (finding),Fully defined,True,900000000000207008
+815,63866cd7081b3c130f6834d0,False,True,91302008,Sepsis (disorder),Fully defined,True,900000000000207008
+816,63866cd8081b3c130f683a9c,False,True,70736000,Osteochondritis (disorder),Fully defined,True,900000000000207008
+817,63866cd8081b3c130f683c23,False,True,75258004,Food poisoning (disorder),Fully defined,True,900000000000207008
+818,63866cd9081b3c130f683fcc,False,True,91487003,Diaper rash (disorder),Fully defined,True,900000000000207008
+819,63866cd9081b3c130f6840c8,False,True,91489000,Acute vascular insufficiency of intestine (disorder),Fully defined,True,900000000000207008
+820,63866cd9081b3c130f6840e2,False,True,70704007,Sprain of wrist (disorder),Fully defined,True,900000000000207008
+821,63866cd9081b3c130f6842a9,False,True,75229002,Hyphema (disorder),Fully defined,True,900000000000207008
+822,63866cd9081b3c130f6842ff,False,True,59051007,Cysticercosis (disorder),Fully defined,True,900000000000207008
+823,63866cda081b3c130f684b47,False,True,59038002,Crushing injury of back (disorder),Fully defined,True,900000000000207008
+824,63866cda081b3c130f684c02,False,True,398665005,Vasovagal syncope (finding),Fully defined,True,900000000000207008
+825,63866cdc081b3c130f6859bf,False,True,41888000,Temporomandibular joint disorder (disorder),Fully defined,True,900000000000207008
+826,63866cdd081b3c130f685fbc,False,True,59118001,Right bundle branch block (disorder),Fully defined,True,900000000000207008
+827,63866cdd081b3c130f686083,False,True,62752005,Infestation caused by Sarcoptes (disorder),Fully defined,True,900000000000207008
+828,63866cdf081b3c130f686fa1,False,True,38362002,Dengue (disorder),Fully defined,True,900000000000207008
+829,63866cdf081b3c130f68718c,False,True,33839006,Genital herpes simplex (disorder),Fully defined,True,900000000000207008
+830,63866cdf081b3c130f687197,False,True,38341003,"Hypertensive disorder, systemic arterial (disorder)",Primitive,True,900000000000207008
+831,63866cdf081b3c130f687221,False,True,25702006,Alcohol intoxication (disorder),Fully defined,True,900000000000207008
+832,63866cdf081b3c130f68726a,False,True,33847006,Crushing injury of chest (disorder),Fully defined,True,900000000000207008
+833,63866ce1081b3c130f687d52,False,True,17636008,Specimen collection (procedure),Primitive,True,900000000000207008
+834,63866ce1081b3c130f687fc1,False,True,70070008,Torticollis (disorder),Fully defined,True,900000000000207008
+835,63866ce1081b3c130f6880a9,False,True,262599003,Foreign body in respiratory tract (disorder),Fully defined,True,900000000000207008
+836,63866ce1081b3c130f688322,False,True,233703007,Interstitial lung disease (disorder),Fully defined,True,900000000000207008
+837,63866ce2081b3c130f6889b0,False,True,204878001,Undescended testicle (disorder),Fully defined,True,900000000000207008
+838,63866ce3081b3c130f688e6c,False,True,267064002,Retention of urine (disorder),Primitive,True,900000000000207008
+839,63866ce3081b3c130f688fd4,False,True,262581006,Head burn (disorder),Fully defined,True,900000000000207008
+840,63866ce3081b3c130f688fed,False,True,262582004,Burn of face (disorder),Fully defined,True,900000000000207008
+841,63866ce3081b3c130f689116,True,True,262576002,Crushing injury of skull and intracranial contents (disorder),Fully defined,True,900000000000207008
+842,63866ce4081b3c130f6896e9,False,True,212962007,Drowning and non-fatal immersion (disorder),Primitive,True,900000000000207008
+843,63866ce6081b3c130f68a035,False,True,233645004,Tension pneumothorax (disorder),Primitive,True,900000000000207008
+844,63866ce6081b3c130f68a119,False,True,233658003,Pleural plaque (disorder),Primitive,True,900000000000207008
+845,63866ce6081b3c130f68a730,False,True,241977008,Diving barotrauma (disorder),Fully defined,True,900000000000207008
+846,63866ce7081b3c130f68a8b1,False,True,398114001,Ehlers-Danlos syndrome (disorder),Primitive,True,900000000000207008
+847,63866ce7081b3c130f68ad24,False,True,398158001,Complication of intravascular line (disorder),Fully defined,True,900000000000207008
+848,63866ce7081b3c130f68ad38,False,True,296015009,Sedative overdose (disorder),Fully defined,True,900000000000207008
+849,63866ce7081b3c130f68af35,True,True,262693007,Diffuse brain injury (disorder),Fully defined,True,900000000000207008
+850,63866ce8081b3c130f68af8f,False,True,70153002,Hemorrhoids (disorder),Fully defined,True,900000000000207008
+851,63866ce8081b3c130f68afa4,False,True,62014003,Adverse reaction caused by drug (disorder),Fully defined,True,900000000000207008
+852,63866ce8081b3c130f68b355,False,True,398102009,Acute poliomyelitis (disorder),Fully defined,True,900000000000207008
+853,63866ce8081b3c130f68b376,False,True,241955009,Acquired C1 esterase inhibitor deficiency (disorder),Primitive,True,900000000000207008
+854,63866ce8081b3c130f68b3d5,False,True,233819005,Stable angina (disorder),Primitive,True,900000000000207008
+855,63866ce8081b3c130f68b68c,False,True,70176004,Foreign body in rectum (disorder),Fully defined,True,900000000000207008
+856,63866cea081b3c130f68c1a7,False,True,12463005,Infectious gastroenteritis (disorder),Fully defined,True,900000000000207008
+857,63866ceb081b3c130f68c4bf,True,True,398057008,Tension-type headache (disorder),Primitive,True,900000000000207008
+858,63866ceb081b3c130f68c504,True,True,233765002,Respiratory failure without hypercapnia (disorder),Primitive,True,900000000000207008
+859,63866ceb081b3c130f68c710,False,True,33168009,Entropion of eyelid (disorder),Fully defined,True,900000000000207008
+860,63866ceb081b3c130f68c8d4,False,True,33173003,Closed fracture of clavicle (disorder),Fully defined,True,900000000000207008
+861,63866ceb081b3c130f68c9a3,False,True,128045006,Cellulitis (disorder),Fully defined,True,900000000000207008
+862,63866ceb081b3c130f68caba,False,True,128053003,Deep venous thrombosis (disorder),Fully defined,True,900000000000207008
+863,63866cec081b3c130f68cb62,False,True,41291007,Angioedema (disorder),Fully defined,True,900000000000207008
+864,63866cec081b3c130f68cee3,False,True,41497008,Febrile convulsion (finding),Fully defined,True,900000000000207008
+865,63866cec081b3c130f68cf84,True,True,275425008,Retained products after miscarriage (disorder),Fully defined,True,900000000000207008
+866,63866ced081b3c130f68d427,False,True,233985008,Abdominal aortic aneurysm (disorder),Fully defined,True,900000000000207008
+867,63866ced081b3c130f68d459,False,True,233981004,Arterial aneurysm (disorder),Fully defined,True,900000000000207008
+868,63866ced081b3c130f68d4d5,False,True,41446000,Blepharitis (disorder),Fully defined,True,900000000000207008
+869,63866ced081b3c130f68d5ea,False,True,128241005,Inflammatory disease of liver (disorder),Fully defined,True,900000000000207008
+870,63866cee081b3c130f68d757,True,True,194005002,Orbital cellulitis (disorder),Fully defined,True,900000000000207008
+871,63866cee081b3c130f68d773,False,True,33334006,Foreign body in digestive tract (disorder),Fully defined,True,900000000000207008
+872,63866cee081b3c130f68d91a,False,True,54048003,Threatened abortion (disorder),Primitive,True,900000000000207008
+873,63866cee081b3c130f68dac2,False,True,398254007,Pre-eclampsia (disorder),Primitive,True,900000000000207008
+874,63866cee081b3c130f68db45,False,True,128200000,Complex regional pain syndrome (disorder),Primitive,True,900000000000207008
+875,63866cee081b3c130f68db6d,False,True,233959009,Upper limb ischemia (disorder),Fully defined,True,900000000000207008
+876,63866cee081b3c130f68dc23,False,True,233961000,Lower limb ischemia (disorder),Fully defined,True,900000000000207008
+877,63866cee081b3c130f68dc8a,True,True,54016002,Mobitz type I incomplete atrioventricular block (disorder),Primitive,True,900000000000207008
+878,63866cef081b3c130f68e24f,False,True,262784001,Contusion of lung (disorder),Fully defined,True,900000000000207008
+879,63866cef081b3c130f68e269,False,True,262787008,Injury of diaphragm (disorder),Fully defined,True,900000000000207008
+880,63866cef081b3c130f68e415,False,True,254651007,Squamous cell carcinoma of skin (disorder),Fully defined,True,900000000000207008
+881,63866cef081b3c130f68e4c0,False,True,70272006,Malignant hypertension (disorder),Fully defined,True,900000000000207008
+882,63866cf0081b3c130f68e81e,False,True,275390005,Toxic effect of plant (disorder),Fully defined,True,900000000000207008
+883,63866cf0081b3c130f68e85d,False,True,270887007,Rupture of synovial cyst of knee (disorder),Fully defined,True,900000000000207008
+884,63866cf2081b3c130f68eb26,False,True,128196005,Lumbar radiculopathy (disorder),Fully defined,True,900000000000207008
+885,63866cf2081b3c130f68eb93,False,True,209557005,Neck sprain (disorder),Fully defined,True,900000000000207008
+886,63866cf2081b3c130f68ec96,False,True,209565008,Lumbar sprain (disorder),Fully defined,True,900000000000207008
+887,63866cf5081b3c130f68f128,False,True,209508007,Strain of patellar tendon (disorder),Fully defined,True,900000000000207008
+888,63866cf5081b3c130f68f176,False,True,20610004,Fourth nerve palsy (disorder),Primitive,True,900000000000207008
+889,63866cfa081b3c130f68fb6e,False,True,17226007,Adjustment disorder (disorder),Primitive,True,900000000000207008
+890,63866cfa081b3c130f68fcd8,False,True,20848007,Infestation caused by Pediculus (disorder),Fully defined,True,900000000000207008
+891,63866cfa081b3c130f6900d1,False,True,123841004,Neoplasm of uterine cervix (disorder),Fully defined,True,900000000000207008
+892,63866cfa081b3c130f6900ed,False,True,123843001,Neoplasm of ovary (disorder),Fully defined,True,900000000000207008
+893,63866cfb081b3c130f690226,False,True,128350005,Bacterial conjunctivitis (disorder),Fully defined,True,900000000000207008
+894,63866cfb081b3c130f69031b,False,True,33449004,Personality disorder (disorder),Primitive,True,900000000000207008
+895,63866cfc081b3c130f690a6d,False,True,54150009,Upper respiratory infection (disorder),Fully defined,True,900000000000207008
+896,63866cfe081b3c130f6916a2,True,True,275476006,Foreign body under eyelid (disorder),Primitive,True,900000000000207008
+897,63866cfe081b3c130f6917cf,False,True,254701007,Basal cell carcinoma of skin (disorder),Fully defined,True,900000000000207008
+898,63866cfe081b3c130f691c3f,False,True,91037003,Closed fracture of pelvis (disorder),Fully defined,True,900000000000207008

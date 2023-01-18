@@ -1,0 +1,1162 @@
+,target_system,target_version,target_code,target_description,concept
+0,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,1415005,Lymphangitis (disorder),Cellulitis
+1,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,442025000,Acute exacerbation of chronic asthmatic bronchitis (disorder),Chronic obstructive pulmonary disease
+2,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,6655004,Acute laryngitis (disorder),"Ear, nose and throat infections"
+3,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,194849004,Generalized ischemic myocardial dysfunction (disorder),Congestive heart failure
+4,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,361259002,Cystoscopy and cystodiathermy (procedure),Convulsions and epilepsy
+5,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266451002,Allergic gastroenteritis and colitis (disorder),Dehydration and gastroenteritis
+6,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,111552007,Diabetes mellitus without complication (disorder),Diabetes complications
+7,,,,,Pyelonephritis
+8,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,428255004,Tubulointerstitial nephritis (disorder),Pyelonephritis
+9,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,1415005,Lymphangitis (disorder),Cellulitis
+10,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,5148006,Hypertensive heart disease with congestive heart failure (disorder),Congestive heart failure
+11,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,194779001,Hypertensive heart and renal disease with (congestive) heart failure (disorder),Congestive heart failure
+12,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17450006,Myoclonus (finding),Convulsions and epilepsy 
+13,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,442025000,Acute exacerbation of chronic asthmatic bronchitis (disorder),Atrial fibrillation and flutter 
+14,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,397503006,Salmonella enterica subspecies arizonae infection (disorder),Dehydration and gastroenteritis
+15,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,55809007,Colitis caused by radiation (disorder),Dehydration and gastroenteritis
+16,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,450005,Ulcerative stomatitis (disorder),Dental conditions
+17,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190368000,Type I diabetes mellitus with ulcer (disorder),Diabetes complications
+18,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,111552007,Diabetes mellitus without complication (disorder),Diabetes complications
+19,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,6655004,Acute laryngitis (disorder),"Ear, nose and throat infections"
+20,,,,,Influencia and pneumonia
+21,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,80126007,Plummer-Vinson syndrome (disorder),Iron-deficiency anaemia
+22,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,128845005,Refractory anemia (morphologic abnormality),Iron-deficiency anaemia
+23,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,89748001,Acute gastric ulcer with hemorrhage (disorder),Perforated/bleeding ulcer
+24,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,8765009,Hematemesis (disorder),Perforated/bleeding ulcer
+25,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68226007,Acute cystitis (disorder),Pyelonephritis
+26,,,,,Pyelonephritis
+27,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,194821006,Coronary thrombosis not resulting in myocardial infarction (disorder),angina
+28,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,71884009,Precordial pain (finding),angina
+29,,,,,Cellulitis
+30,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,194849004,Generalized ischemic myocardial dysfunction (disorder),Congestive heart failure
+31,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,361259002,Cystoscopy and cystodiathermy (procedure),Convulsions and epilepsy
+32,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266451002,Allergic gastroenteritis and colitis (disorder),Dehydration and gastroenteritis
+33,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266451002,Allergic gastroenteritis and colitis (disorder),Dehydration and gastroenteritis
+34,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190368000,Type I diabetes mellitus with ulcer (disorder),Diabetes complications
+35,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,111552007,Diabetes mellitus without complication (disorder),Diabetes complications
+36,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,60899001,Hypertensive heart disease without congestive heart failure (disorder),Hypertension
+37,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,41207000,Adenoviral pneumonia (disorder),Influencia and pneumonia
+38,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,87522002,Iron deficiency anemia (disorder),Iron-deficiency anaemia
+39,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,128846006,Myelodysplastic syndrome with ring sideroblasts and single lineage dysplasia (morphologic abnormality),Iron-deficiency anaemia
+40,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,48974009,Acute gastric ulcer with hemorrhage and perforation (disorder),Perforated/bleeding ulcer
+41,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,2901004,Melena (disorder),Perforated/bleeding ulcer
+42,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),Pyelonephritis
+43,,,,,Pyelonephritis
+44,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,413439005,Acute ischemic heart disease (disorder),angina
+45,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,29857009,Chest pain (finding),angina
+46,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,70759006,Pyoderma (disorder),Cellulitis
+47,,,,,Cellulitis
+48,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,307418008,Noninfective enteritis and colitis (disorder),Dehydration and gastroenteritis
+49,,,,,Dehydration and gastroenteritis
+50,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190368000,Type I diabetes mellitus with ulcer (disorder),Diabetes complications
+51,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,195881003,Pneumonia caused by respiratory syncytial virus (disorder),Influencia and pneumonia
+52,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,87522002,Iron deficiency anemia (disorder),Iron-deficiency anaemia
+53,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,128848007,Refractory anemia with excess blasts in transformation (morphologic abnormality),Iron-deficiency anaemia
+54,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,57246001,Chronic gastric ulcer with hemorrhage (disorder),Perforated/bleeding ulcer
+55,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,74474003,Gastrointestinal hemorrhage (disorder),Perforated/bleeding ulcer
+56,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,428255004,Tubulointerstitial nephritis (disorder),Pyelonephritis
+57,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,413439005,Acute ischemic heart disease (disorder),angina
+58,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,29857009,Chest pain (finding),angina
+59,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,430348006,Localized infection of skin AND/OR subcutaneous tissue (disorder),Cellulitis
+60,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,200645004,Cellulitis and abscess of face (disorder),Cellulitis
+61,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,307418008,Noninfective enteritis and colitis (disorder),Dehydration and gastroenteritis
+62,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,240370009,Cryptosporidiosis (disorder),Dehydration and gastroenteritis
+63,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190368000,Type I diabetes mellitus with ulcer (disorder),Diabetes complications
+64,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,64917006,Parainfluenza virus pneumonia (disorder),Influencia and pneumonia
+65,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,128845005,Refractory anemia (morphologic abnormality),Iron-deficiency anaemia
+66,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,76181002,Chronic gastric ulcer with hemorrhage and with perforation (disorder),Perforated/bleeding ulcer
+67,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,16761005,Esophagitis (disorder),Perforated/bleeding ulcer
+68,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,48631008,Pyonephrosis (disorder),Pyelonephritis
+69,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,41380003,Radioisotope scan for myocardial infarction (procedure),angina
+70,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,430348006,Localized infection of skin AND/OR subcutaneous tissue (disorder),Cellulitis
+71,,,,,Dehydration and gastroenteritis
+72,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190406000,Ketoacidosis due to malnutrition related diabetes mellitus (disorder),Diabetes complications
+73,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,10625191000119102,Bronchopneumonia caused by Group B Streptococcus (disorder),Influencia and pneumonia
+74,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75570004,Viral pneumonia (disorder),Influencia and pneumonia
+75,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,717946000,Megaloblastic anemia due to vitamin B12 deficiency secondary to intestinal disease (disorder),Iron-deficiency anaemia
+76,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190640006,Active rickets (disorder),Nutritional deficiency
+77,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12847006,Acute duodenal ulcer with hemorrhage (disorder),Perforated/bleeding ulcer
+78,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266433003,Gastroesophageal reflux disease with esophagitis (disorder),Perforated/bleeding ulcer
+79,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,171405001,Examination for suspected cardiovascular disease (procedure),angina
+80,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,449717009,Cellulitis and abscess of upper limb (disorder),Cellulitis
+81,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,24789006,Viral gastroenteritis caused by Norwalk-like agent (disorder),Dehydration and gastroenteritis
+82,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190412005,Malnutrition-related diabetes mellitus without complications (disorder),Diabetes complications
+83,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,140004,Chronic pharyngitis (disorder),"Ear, nose and throat infections"
+84,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,16311000119108,Pneumonia caused by influenza (disorder),Influencia and pneumonia
+85,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75570004,Viral pneumonia (disorder),Influencia and pneumonia
+86,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,9094211000001106,Balanced Salt Solution irrigation solution (A A H Pharmaceuticals Ltd) (product),Iron-deficiency anaemia
+87,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190641005,Late effect of rickets (disorder),Nutritional deficiency
+88,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,86895006,Acute duodenal ulcer with hemorrhage AND perforation (disorder),Perforated/bleeding ulcer
+89,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266435005,Gastroesophageal reflux disease without esophagitis (disorder),Perforated/bleeding ulcer
+90,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,200722003,Pyogenic granuloma (disorder),Cellulitis
+91,,,,,Cellulitis
+92,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,78420004,Inflammation of intestine caused by virus (disorder),Dehydration and gastroenteritis
+93,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190331003,Hyperosmolar coma due to type 2 diabetes mellitus (disorder),Diabetes complications
+94,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,10625431000119105,Bronchopneumonia caused by Mycoplasma pneumoniae (disorder),Influencia and pneumonia
+95,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,233609002,Pneumonia caused by Chlamydiaceae (disorder),Influencia and pneumonia
+96,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,10619002,Megaloblastic anemia due to poor nutrition (disorder),Iron-deficiency anaemia
+97,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,186626002,Acute hepatitis B with delta-agent (coinfection) without hepatic coma (disorder),Other vaccinepreventable diseases
+98,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,89469000,Chronic duodenal ulcer with hemorrhage (disorder),Perforated/bleeding ulcer
+99,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,30811009,Ulcer of esophagus (disorder),Perforated/bleeding ulcer
+100,,,,,Cellulitis
+101,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266071000,Intestinal infectious disease (disorder),Dehydration and gastroenteritis
+102,,,,,Dental conditions
+103,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+104,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,53084003,Bacterial pneumonia (disorder),Influencia and pneumonia
+105,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,195889001,Legionella pneumonia (disorder),Influencia and pneumonia
+106,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,191148006,"Folate deficiency anemia, drug-induced (disorder)",Iron-deficiency anaemia
+107,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,186626002,Acute hepatitis B with delta-agent (coinfection) without hepatic coma (disorder),Other vaccinepreventable diseases
+108,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,36975000,Chronic duodenal ulcer with hemorrhage AND perforation (disorder),Perforated/bleeding ulcer
+109,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,35265002,Mallory-Weiss syndrome (disorder),Perforated/bleeding ulcer
+110,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266071000,Intestinal infectious disease (disorder),Dehydration and gastroenteritis
+111,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,1089971000119108,Cyst of structure of internal part of mouth (disorder),Dental conditions
+112,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190331003,Hyperosmolar coma due to type 2 diabetes mellitus (disorder),Diabetes complications
+113,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,195896004,Pneumonia caused by pleuropneumonia-like organism (disorder),Influencia and pneumonia
+114,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75116005,Ornithosis (disorder),Influencia and pneumonia
+115,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,85649008,Megaloblastic anemia due to folate deficiency (disorder),Iron-deficiency anaemia
+116,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,186639003,Chronic viral hepatitis B without delta-agent (disorder),Other vaccinepreventable diseases
+117,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12274003,Acute peptic ulcer with hemorrhage (disorder),Perforated/bleeding ulcer
+118,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+119,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,278516003,Lobar pneumonia (disorder),Influencia and pneumonia
+120,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,85649008,Megaloblastic anemia due to folate deficiency (disorder),Iron-deficiency anaemia
+121,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,186639003,Chronic viral hepatitis B without delta-agent (disorder),Other vaccinepreventable diseases
+122,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,111353003,Acute peptic ulcer with hemorrhage and perforation (disorder),Perforated/bleeding ulcer
+123,,,,,Iron-deficiency anaemia
+124,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,49232000,Chronic peptic ulcer with hemorrhage (disorder),Perforated/bleeding ulcer
+125,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,417279003,Hemoglobin S sickling disorder with crisis (disorder),Iron-deficiency anaemia
+126,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,192643004,Haemophilus meningitis (disorder),Other vaccinepreventable diseases
+127,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,61300005,Chronic peptic ulcer with hemorrhage AND perforation (disorder),Perforated/bleeding ulcer
+128,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,55995005,Hereditary spherocytosis (disorder),Iron-deficiency anaemia
+129,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,19431000,Arthritis due to rubella (disorder),Other vaccinepreventable diseases
+130,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,63954007,Acute gastrojejunal ulcer with hemorrhage (disorder),Perforated/bleeding ulcer
+131,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,191169008,Hereditary elliptocytosis (disorder),Iron-deficiency anaemia
+132,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,81387001,Acute gastrojejunal ulcer with hemorrhage and perforation (disorder),Perforated/bleeding ulcer
+133,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,309742004,Drug-induced autoimmune hemolytic anemia (disorder),Iron-deficiency anaemia
+134,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,62838000,Chronic gastrojejunal ulcer with hemorrhage (disorder),Perforated/bleeding ulcer
+135,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,4854004,Acquired hemolytic anemia (disorder),Iron-deficiency anaemia
+136,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,191255003,Transient acquired pure red cell aplasia (disorder),Iron-deficiency anaemia
+137,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,234376007,Acquired red cell aplasia (disorder),Iron-deficiency anaemia
+138,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,234376007,Acquired red cell aplasia (disorder),Iron-deficiency anaemia
+139,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,28975000,Constitutional aplastic anemia (disorder),Iron-deficiency anaemia
+140,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,267527002,Aplastic anemia due to drugs (disorder),Iron-deficiency anaemia
+141,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,41841004,Sideroblastic anemia (disorder),Iron-deficiency anaemia
+142,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,191261000,Secondary sideroblastic anemia due to disease (disorder),Iron-deficiency anaemia
+143,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,52951008,Congenital dyserythropoietic anemia (disorder),Iron-deficiency anaemia
+144,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,646731000000106,Other specified excision of organ NOC (procedure),Iron-deficiency anaemia
+145,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,9094211000001106,Balanced Salt Solution irrigation solution (A A H Pharmaceuticals Ltd) (product),Iron-deficiency anaemia
+146,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,191262007,Secondary sideroblastic anemia caused by drugs and toxins (disorder),Iron-deficiency anaemia
+147,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,62838000,Chronic gastrojejunal ulcer with hemorrhage (disorder),Perforated/bleeding ulcer
+148,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,646731000000106,Other specified excision of organ NOC (procedure),Iron-deficiency anaemia
+149,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,81711008,Hemolytic anemia caused by drugs (disorder),Iron-deficiency anaemia
+150,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,413603009,Autoimmune hemolytic anemia (disorder),Iron-deficiency anaemia
+151,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,267779003,Cellulitis and abscess of neck (disorder),Cellulitis
+152,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,200655000,Cellulitis and abscess of trunk (disorder),Cellulitis
+153,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,200676005,Cellulitis and abscess of buttock (disorder),Cellulitis
+154,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,472820000,Abnormal ventriculoarterial connection with usual origin of left coronary artery from aortic sinus to right of nonfacing aortic sinus and usual origin of right coronary artery from aortic sinus to left of nonfacing aortic sinus (disorder),Iron-deficiency anaemia
+155,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,237934001,Transcobalamin II deficiency (disorder),Iron-deficiency anaemia
+156,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190368000,Type I diabetes mellitus with ulcer (disorder),Diabetes complications
+157,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190407009,Malnutrition-related diabetes mellitus with renal complications (disorder),Diabetes complications
+158,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190368000,Type I diabetes mellitus with ulcer (disorder),Diabetes complications
+159,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190368000,Type I diabetes mellitus with ulcer (disorder),Diabetes complications
+160,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190410002,Malnutrition-related diabetes mellitus with peripheral circulatory complications (disorder),Diabetes complications
+161,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190368000,Type I diabetes mellitus with ulcer (disorder),Diabetes complications
+162,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+163,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190368000,Type I diabetes mellitus with ulcer (disorder),Diabetes complications
+164,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190407009,Malnutrition-related diabetes mellitus with renal complications (disorder),Diabetes complications
+165,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190368000,Type I diabetes mellitus with ulcer (disorder),Diabetes complications
+166,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190368000,Type I diabetes mellitus with ulcer (disorder),Diabetes complications
+167,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190410002,Malnutrition-related diabetes mellitus with peripheral circulatory complications (disorder),Diabetes complications
+168,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190368000,Type I diabetes mellitus with ulcer (disorder),Diabetes complications
+169,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+170,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190406000,Ketoacidosis due to malnutrition related diabetes mellitus (disorder),Diabetes complications
+171,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190407009,Malnutrition-related diabetes mellitus with renal complications (disorder),Diabetes complications
+172,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190412005,Malnutrition-related diabetes mellitus without complications (disorder),Diabetes complications
+173,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190412005,Malnutrition-related diabetes mellitus without complications (disorder),Diabetes complications
+174,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190410002,Malnutrition-related diabetes mellitus with peripheral circulatory complications (disorder),Diabetes complications
+175,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190412005,Malnutrition-related diabetes mellitus without complications (disorder),Diabetes complications
+176,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190412005,Malnutrition-related diabetes mellitus without complications (disorder),Diabetes complications
+177,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,420422005,Ketoacidosis due to diabetes mellitus (disorder),Diabetes complications
+178,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190407009,Malnutrition-related diabetes mellitus with renal complications (disorder),Diabetes complications
+179,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+180,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+181,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190410002,Malnutrition-related diabetes mellitus with peripheral circulatory complications (disorder),Diabetes complications
+182,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+183,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+184,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,420422005,Ketoacidosis due to diabetes mellitus (disorder),Diabetes complications
+185,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190407009,Malnutrition-related diabetes mellitus with renal complications (disorder),Diabetes complications
+186,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+187,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+188,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190410002,Malnutrition-related diabetes mellitus with peripheral circulatory complications (disorder),Diabetes complications
+189,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+190,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+191,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,19850005,Acute gastric ulcer with perforation (disorder),Perforated/bleeding ulcer
+192,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,61347001,Acute duodenal ulcer with perforation (disorder),Perforated/bleeding ulcer
+193,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,79118000,Acute peptic ulcer with perforation (disorder),Perforated/bleeding ulcer
+194,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,66636001,Acute gastrojejunal ulcer with perforation (disorder),Perforated/bleeding ulcer
+195,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,31301004,Chronic gastric ulcer with perforation (disorder),Perforated/bleeding ulcer
+196,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,49916007,Chronic duodenal ulcer with perforation (disorder),Perforated/bleeding ulcer
+197,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,3483000,Chronic peptic ulcer with perforation (disorder),Perforated/bleeding ulcer
+198,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,2807004,Chronic gastrojejunal ulcer with perforation (disorder),Perforated/bleeding ulcer
+199,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,6456007,Supraventricular tachycardia (disorder),Atrial fibrillation and flutter 
+200,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,14760008,Constipation (finding),Constipation
+201,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,224959009,Normal physiological development (finding),Failure to thrive
+202,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,5913000,Fracture of neck of femur (disorder),Fractured proximal femur
+203,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,43339004,Hypokalemia (disorder),Hypokalaemia
+204,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,267258002,Small for gestational age fetus (disorder),Low birth weight
+205,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,28845006,Acute appendicitis with generalized peritonitis (disorder),Ruptured appendix
+206,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12026006,Paroxysmal tachycardia (disorder),Atrial fibrillation and flutter 
+207,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,208562000,Pertrochanteric fracture (disorder),Fractured proximal femur
+208,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,189445003,Light-for-dates without fetal malnutrition (disorder),Low birth weight
+209,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,193031009,Cluster headache syndrome (disorder),Migraine/acute headache
+210,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+211,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,400047006,Peripheral vascular disease (disorder),Peripheral vascular disease
+212,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,51036000,Acute appendicitis with peritoneal abscess (disorder),Ruptured appendix
+213,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,36083008,Sick sinus syndrome (disorder),Atrial fibrillation and flutter 
+214,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,263229001,Subtrochanteric fracture of femur (disorder),Fractured proximal femur
+215,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,181833004,Normal fetal growth (finding),Low birth weight
+216,,,,,Migraine/acute headache
+217,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+218,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,400047006,Peripheral vascular disease (disorder),Peripheral vascular disease
+219,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,278853003,Acute schizophrenia-like psychotic disorder (disorder),Schizophrenia
+220,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,698247007,Cardiac arrhythmia (disorder),Atrial fibrillation and flutter 
+221,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276658003,Extreme immaturity (disorder),Low birth weight
+222,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,230477005,Chronic post-traumatic headache (disorder),Migraine/acute headache
+223,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385041000000108,Diabetes mellitus with multiple complications (disorder),Diabetes complications
+224,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,698247007,Cardiac arrhythmia (disorder),Atrial fibrillation and flutter 
+225,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,384321000000100,Preterm infant status (observable entity),Low birth weight
+226,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,294091000119104,Headache caused by drug (finding),Migraine/acute headache
+227,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,111552007,Diabetes mellitus without complication (disorder),Diabetes complications
+228,,,,,Atrial fibrillation and flutter 
+229,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,95658004,Cough headache syndrome (finding),Migraine/acute headache
+230,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,111552007,Diabetes mellitus without complication (disorder),Diabetes complications
+231,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,55382008,Cerebral atherosclerosis (disorder),Stroke
+232,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,80313002,Palpitations (finding),Atrial fibrillation and flutter 
+233,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25064002,Headache (finding),Migraine/acute headache
+234,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,195239002,Late effects of cerebrovascular disease (disorder),Stroke
+235,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,194828000,Angina (disorder),angina
+236,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,413838009,Chronic ischemic heart disease (disorder),angina
+237,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,195967001,Asthma (disorder),asthma
+238,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385627004,Cellulitis (morphologic abnormality),Cellulitis
+239,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,84757009,Epilepsy (disorder),Convulsions and epilepsy
+240,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,10509002,Acute bronchitis (disorder),Chronic obstructive pulmonary disease
+241,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,816162001,Gastrointestinal fluid volume depletion (finding),Dehydration and gastroenteritis
+242,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,39288006,Purulent otitis media (disorder),"Ear, nose and throat infections"
+243,,,,,Gangrene
+244,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59621000,Essential hypertension (disorder),Hypertension
+245,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,24662006,Influenza caused by Influenza B virus (disorder),Influencia and pneumonia
+246,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,58262005,Kwashiorkor (disorder),Nutritional deficiency
+247,,,,,Other vaccinepreventable diseases
+248,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,46536000,Tubo-ovarian inflammatory disease (disorder),Pelvic inflammatory disease
+249,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,28637003,Acute tubulointerstitial nephritis (disorder),Pyelonephritis
+250,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,733858005,Acute severe refractory exacerbation of asthma (disorder),asthma
+251,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,41174002,Acute lymphadenitis (disorder),Cellulitis
+252,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,84114007,Heart failure (disorder),Congestive heart failure
+253,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,230456007,Status epilepticus (disorder),Convulsions and epilepsy
+254,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,195953005,Mixed simple and mucopurulent chronic bronchitis (disorder),Chronic obstructive pulmonary disease
+255,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266071000,Intestinal infectious disease (disorder),Dehydration and gastroenteritis
+256,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,80967001,Dental caries (disorder),Dental conditions
+257,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,312218008,Infective otitis media (disorder),"Ear, nose and throat infections"
+258,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,446613002,Virus isolated but not further identified (finding),Influencia and pneumonia
+259,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,29740003,Nutritional marasmus (disorder),Nutritional deficiency
+260,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,397430003,Diphtheria caused by Corynebacterium diphtheriae (disorder),Other vaccinepreventable diseases
+261,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,198130006,Female pelvic inflammatory disease (disorder),Pelvic inflammatory disease
+262,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,60926001,Chronic tubulointerstitial nephritis (disorder),Pyelonephritis
+263,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,19242006,Pulmonary edema (disorder),Congestive heart failure
+264,,,,,Convulsions and epilepsy
+265,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,63480004,Chronic bronchitis (disorder),Chronic obstructive pulmonary disease
+266,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,46557008,Disorder of hard tissues of teeth (disorder),Dental conditions
+267,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,363746003,Acute pharyngitis (disorder),"Ear, nose and throat infections"
+268,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,10625711000119105,Bronchopneumonia caused by Streptococcus pneumoniae (disorder),Influencia and pneumonia
+269,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,238109004,Marasmic kwashiorkor (disorder),Nutritional deficiency
+270,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,27836007,Pertussis (disorder),Other vaccinepreventable diseases
+271,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,198130006,Female pelvic inflammatory disease (disorder),Pelvic inflammatory disease
+272,,,,,Pyelonephritis
+273,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,15938005,Eclampsia (disorder),Convulsions and epilepsy
+274,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,49158009,Emphysema (morphologic abnormality),Chronic obstructive pulmonary disease
+275,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266417001,Pulp and periapical tissue disease (disorder),Dental conditions
+276,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17741008,Acute tonsillitis (disorder),"Ear, nose and throat infections"
+277,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,10625231000119106,Bronchopneumonia caused by Haemophilus influenzae (disorder),Influencia and pneumonia
+278,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,238107002,Deficiency of macronutrients (disorder),Nutritional deficiency
+279,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,398102009,Acute poliomyelitis (disorder),Other vaccinepreventable diseases
+280,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12295008,Bronchiectasis (disorder),Chronic obstructive pulmonary disease
+281,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,2556008,Periodontal disease (disorder),Dental conditions
+282,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,54398005,Acute upper respiratory infection (disorder),"Ear, nose and throat infections"
+283,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,14189004,Measles (disorder),Other vaccinepreventable diseases
+284,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,74578003,Pyoderma gangrenosum (disorder),Cellulitis
+285,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,196376007,Gingival and edentulous alveolar ridge lesion due to trauma (disorder),Dental conditions
+286,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,36653000,Rubella (disorder),Other vaccinepreventable diseases
+287,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,105995000,Disorder of teeth AND/OR supporting structures (disorder),Dental conditions
+288,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,57419008,Gastroenteritis presumed infectious (disorder),Dehydration and gastroenteritis
+289,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266147005,Bone and/or joint yaws lesions (disorder),Dental conditions
+290,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,235054004,Oral mucosal viral disease (disorder),Dental conditions
+291,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,58720004,Mycoplasma pneumoniae (organism),Influencia and pneumonia
+292,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,36989005,Mumps (disorder),Other vaccinepreventable diseases
+293,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,162031009,Indigestion (finding),Dyspepsia and other stomach function disorders
+294,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37796009,Migraine (disorder),Migraine/acute headache
+295,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,400047006,Peripheral vascular disease (disorder),Peripheral vascular disease
+296,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,186192006,"Respiratory tuberculosis, bacteriologically and histologically confirmed (disorder)",Tuberculosis
+297,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,58214004,Schizophrenia (disorder),Schizophrenia
+298,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,416975007,"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",Sensility/dementia
+299,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,274100004,Cerebral hemorrhage (disorder),Stroke
+300,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,186202007,"Respiratory tuberculosis, not confirmed bacteriologically or histologically (disorder)",Tuberculosis
+301,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,31027006,Schizotypal personality disorder (disorder),Schizophrenia
+302,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,429998004,Vascular dementia (disorder),Sensility/dementia
+303,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,738779002,Spontaneous intracranial hemorrhage (disorder),Stroke
+304,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,425390006,Dementia associated with Parkinson's Disease (disorder),Sensility/dementia
+305,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,432504007,Cerebral infarction (disorder),Stroke
+306,,,,,Sensility/dementia
+307,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,1089421000000105,Cerebral infarction due to stenosis of cerebral artery (disorder),Stroke
+308,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),Chronic obstructive pulmonary disease
+309,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,32864002,Senility (observable entity),Sensility/dementia
+310,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,23171006,Delayed AND/OR secondary postpartum hemorrhage (disorder),Stroke
+311,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68890003,Schizoaffective disorder (disorder),Schizophrenia
+312,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,47604008,Miliary tuberculosis (disorder),Tuberculosis
+313,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,235595009,Gastroesophageal reflux disease (disorder),Dyspepsia and other stomach function disorders
+314,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,28032008,Insulin dependent diabetes mellitus type IB (disorder),Atrial fibrillation and flutter 
+315,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,212399002,Injury of muscle and tendon at neck level (disorder),Deliberate self-harm
+316,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,720811000000104,Mental and behavioural disorder (qualifier value),Alcohol-related diseases
+317,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,10706006,Tuberculosis of central nervous system (disorder),Tuberculosis
+318,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,111830007,Tuberculosis of urinary organs (disorder),Tuberculosis
+319,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,361136003,Abnormal heart beat (finding),Atrial fibrillation and flutter 
+0,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,128053003,Deep venous thrombosis (disorder),Phlebitis and thrombophlebitis of femoral vein
+1,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,128053003,Deep venous thrombosis (disorder),Phlebitis and thrombophlebitis of other deep vessels of lower extremities
+2,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,128053003,Deep venous thrombosis (disorder),"Phlebitis and thrombophlebitis of lower extremities, unspecified"
+3,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,128053003,Deep venous thrombosis (disorder),Embolism and thrombosis of vena cava
+4,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,128053003,Deep venous thrombosis (disorder),Pain in limb
+5,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,128053003,Deep venous thrombosis (disorder),Other specified soft tissue disorders
+6,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,60046008,Pleural effusion (disorder),Spontaneous tension pneumothorax
+7,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,60046008,Pleural effusion (disorder),Other spontaneous pneumothorax
+8,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,60046008,Pleural effusion (disorder),Other pneumothorax
+9,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,60046008,Pleural effusion (disorder),"Pneumothorax, unspecified"
+10,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,36118008,Pneumothorax (disorder),Secondary malignant neoplasm of pleura
+11,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,36118008,Pneumothorax (disorder),"Influenza with other respiratory manifestations, virus not identified"
+12,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,36118008,Pneumothorax (disorder),"Pleural effusion, not elsewhere classified"
+13,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,36118008,Pneumothorax (disorder),"Pleural effusion, not elsewhere classified"
+14,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,36118008,Pneumothorax (disorder),Chylous effusion
+15,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,36118008,Pneumothorax (disorder),Other specified pleural conditions
+16,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),Acute bronchiolitis due to respiratory syncytial virus
+17,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),Acute bronchiolitis due to respiratory syncytial virus
+18,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),Acute bronchiolitis due to other specified organisms
+19,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),"Acute bronchiolitis, unspecified"
+20,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),"Bronchitis, not specified as acute or chronic"
+21,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),Simple chronic bronchitis
+22,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),Unspecified chronic bronchitis
+23,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),Panlobular emphysema
+24,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),Centrilobular emphysema
+25,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),Other emphysema
+26,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),"Emphysema, unspecified"
+27,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),Chronic obstructive pulmonary disease with acute lower respiratory infection
+28,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"
+29,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),Other specified chronic obstructive pulmonary disease
+30,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13645005,Chronic obstructive lung disease (disorder),"Chronic obstructive pulmonary disease, unspecified"
+31,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,195967001,Asthma (disorder),Predominantly allergic asthma
+32,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,195967001,Asthma (disorder),Nonallergic asthma
+33,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,195967001,Asthma (disorder),Mixed asthma
+34,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,195967001,Asthma (disorder),"Asthma, unspecified"
+35,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,50417007,Lower respiratory tract infection (disorder),Acute bronchitis due to Mycoplasma pneumoniae
+36,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,50417007,Lower respiratory tract infection (disorder),Acute bronchitis due to Haemophilus influenzae
+37,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,50417007,Lower respiratory tract infection (disorder),Acute bronchitis due to streptococcus
+38,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,50417007,Lower respiratory tract infection (disorder),Acute bronchitis due to coxsackievirus
+39,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,50417007,Lower respiratory tract infection (disorder),Acute bronchitis due to parainfluenza virus
+40,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,50417007,Lower respiratory tract infection (disorder),Acute bronchitis due to respiratory syncytial virus
+41,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,50417007,Lower respiratory tract infection (disorder),Acute bronchitis due to rhinovirus
+42,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,50417007,Lower respiratory tract infection (disorder),Acute bronchitis due to echovirus
+43,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,50417007,Lower respiratory tract infection (disorder),Acute bronchitis due to other specified organisms
+44,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,50417007,Lower respiratory tract infection (disorder),"Acute bronchitis, unspecified"
+45,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,50417007,Lower respiratory tract infection (disorder),Unspecified acute lower respiratory infection
+46,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,42343007,Congestive heart failure (disorder),Hypertensive heart disease with (congestive) heart failure
+47,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,42343007,Congestive heart failure (disorder),Hypertensive heart and renal disease with (congestive) heart failure
+48,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,42343007,Congestive heart failure (disorder),Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+49,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,42343007,Congestive heart failure (disorder),Congestive heart failure
+50,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,42343007,Congestive heart failure (disorder),Left ventricular failure
+51,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,42343007,Congestive heart failure (disorder),"Heart failure, unspecified"
+52,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Extreme obesity with alveolar hypoventilation
+53,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Adult respiratory distress syndrome
+54,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Alveolar and parietoalveolar conditions
+55,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Other interstitial pulmonary diseases with fibrosis
+56,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Other specified interstitial pulmonary diseases
+57,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),"Interstitial pulmonary disease, unspecified"
+58,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Acute respiratory failure
+59,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Acute respiratory failure
+60,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Acute respiratory failure
+61,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Acute respiratory failure
+62,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Chronic respiratory failure
+63,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Chronic respiratory failure
+64,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Chronic respiratory failure
+65,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Chronic respiratory failure
+66,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),"Respiratory failure, unspecified"
+67,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),"Respiratory failure, unspecified"
+68,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),"Respiratory failure, unspecified"
+69,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),"Respiratory failure, unspecified"
+70,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),"Diseases of bronchus, not elsewhere classified"
+71,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Pulmonary collapse
+72,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Other disorders of lung
+73,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Disorders of diaphragm
+74,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Other specified respiratory disorders
+75,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),"Respiratory disorder, unspecified"
+76,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Respiratory disorders in other diffuse connective tissue disorders
+77,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Anomaly of pleura
+78,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Haemoptysis
+79,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Haemorrhage from other sites in respiratory passages
+80,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),"Haemorrhage from respiratory passages, unspecified"
+81,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Cough
+82,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Dyspnoea
+83,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Wheezing
+84,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Hyperventilation
+85,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,17849001,Respiratory condition of fetus OR newborn (disorder),Other specified symptoms and signs involving the circulatory and respiratory systems
+86,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Angina pectoris with documented spasm
+87,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Other forms of angina pectoris
+88,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),"Angina pectoris, unspecified"
+89,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Dressler's syndrome
+90,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Other forms of acute ischaemic heart disease
+91,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),"Acute ischaemic heart disease, unspecified"
+92,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),"Atherosclerotic cardiovascular disease, so described"
+93,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Atherosclerotic heart disease
+94,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Old myocardial infarction
+95,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Silent myocardial ischaemia
+96,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Other forms of chronic ischaemic heart disease
+97,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),"Chronic ischaemic heart disease, unspecified"
+98,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Chondrocostal junction syndrome [Tietze]
+99,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Relapsing polychondritis
+100,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),"Cardiac murmur, unspecified"
+101,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Other cardiac sounds
+102,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Precordial pain
+103,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Other chest pain
+104,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),"Chest pain, unspecified"
+105,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Pleurisy
+106,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Observation for suspected myocardial infarction
+107,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723505004,Low risk (qualifier value),Observation for other suspected cardiovascular diseases
+108,,,,,"Atrioventricular block, first degree"
+109,,,,,"Atrioventricular block, second degree"
+110,,,,,Left anterior fascicular block
+111,,,,,Left posterior fascicular block
+112,,,,,Other and unspecified fascicular block
+113,,,,,"Left bundle-branch block, unspecified"
+114,,,,,Right fascicular block
+115,,,,,Other and unspecified right bundle-branch block
+116,,,,,Bifascicular block
+117,,,,,Trifascicular block
+118,,,,,Nonspecific intraventricular block
+119,,,,,Other specified heart block
+120,,,,,Pre-excitation syndrome
+121,,,,,Other specified conduction disorders
+122,,,,,"Conduction disorder, unspecified"
+123,,,,,Supraventricular tachycardia
+124,,,,,"Paroxysmal tachycardia, unspecified"
+125,,,,,"Paroxysmal tachycardia, unspecified"
+126,,,,,"Paroxysmal tachycardia, unspecified"
+127,,,,,"Paroxysmal tachycardia, unspecified"
+128,,,,,"Paroxysmal tachycardia, unspecified"
+129,,,,,"Paroxysmal tachycardia, unspecified"
+130,,,,,"Paroxysmal tachycardia, unspecified"
+131,,,,,Atrial premature depolarization
+132,,,,,Junctional premature depolarization
+133,,,,,Other and unspecified premature depolarization
+134,,,,,Sick sinus syndrome
+135,,,,,Other specified cardiac arrhythmias
+136,,,,,"Cardiac arrhythmia, unspecified"
+137,,,,,"Tachycardia, unspecified"
+138,,,,,"Bradycardia, unspecified"
+139,,,,,Palpitations
+140,,,,,Other and unspecified abnormalities of heart beat
+141,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,53521000119106,First generalized onset seizure (disorder),Other and unspecified convulsions
+142,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266257000,Transient ischemic attack (disorder),Vertebro-basilar artery syndrome
+143,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266257000,Transient ischemic attack (disorder),Carotid artery syndrome (hemispheric)
+144,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266257000,Transient ischemic attack (disorder),Multiple and bilateral precerebral artery syndromes
+145,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266257000,Transient ischemic attack (disorder),Amaurosis fugax
+146,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266257000,Transient ischemic attack (disorder),Transient global amnesia
+147,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266257000,Transient ischemic attack (disorder),Other transient cerebral ischaemic attacks and related syndromes
+148,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,266257000,Transient ischemic attack (disorder),"Transient cerebral ischaemic attack, unspecified"
+149,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,735938006,Acute headache (finding),Migraine without aura [common migraine]
+150,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,735938006,Acute headache (finding),Migraine with aura [classical migraine]
+151,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,735938006,Acute headache (finding),Status migrainosus
+152,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,735938006,Acute headache (finding),Complicated migraine
+153,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,735938006,Acute headache (finding),Other migraine
+154,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,735938006,Acute headache (finding),"Migraine, unspecified"
+155,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,735938006,Acute headache (finding),Cluster headache syndrome
+156,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,735938006,Acute headache (finding),"Vascular headache, not elsewhere classified"
+157,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,735938006,Acute headache (finding),Chronic post-traumatic headache
+158,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,735938006,Acute headache (finding),"Drug-induced headache, not elsewhere classified"
+159,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,735938006,Acute headache (finding),Other specified headache syndromes
+160,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,735938006,Acute headache (finding),Other reaction to spinal and lumbar puncture
+161,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,735938006,Acute headache (finding),Headache
+162,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Salmonella enteritis
+163,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Localized salmonella infections
+164,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Other specified salmonella infections
+165,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),"Salmonella infection, unspecified"
+166,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Other intestinal Escherichia coli infections
+167,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Campylobacter enteritis
+168,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Enteritis due to Yersinia enterocolitica
+169,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Other specified bacterial intestinal infections
+170,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),"Bacterial intestinal infection, unspecified"
+171,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Foodborne Bacillus cereus intoxication
+172,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Other specified bacterial foodborne intoxications
+173,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),"Bacterial foodborne intoxication, unspecified"
+174,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Giardiasis [lambliasis]
+175,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Cryptosporidiosis
+176,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Rotaviral enteritis
+177,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Acute gastroenteropathy due to Norwalk agent
+178,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Adenoviral enteritis
+179,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Other viral enteritis
+180,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),"Viral intestinal infection, unspecified"
+181,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Other specified intestinal infections
+182,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Diarrhoea and gastroenteritis of presumed infectious origin
+183,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Diarrhoea and gastroenteritis of presumed infectious origin
+184,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Gastroenteritis and colitis due to radiation
+185,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Toxic gastroenteritis and colitis
+186,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Allergic and dietetic gastroenteritis and colitis
+187,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),Other specified noninfective gastroenteritis and colitis
+188,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,25374005,Inflammation of stomach and intestine (disorder),"Noninfective gastroenteritis and colitis, unspecified"
+189,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Oesophagitis
+190,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Gastro-oesophageal reflux disease with oesophagitis
+191,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Gastro-oesophageal reflux disease without oesophagitis
+192,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Ulcer of oesophagus
+193,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Gastro-oesophageal laceration-haemorrhage syndrome
+194,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Gastric ulcer; Acute with haemorrhage
+195,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Gastric ulcer; Chronic or unspecified with haemorrhage
+196,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Gastric ulcer; Chronic or unspecified with both haemorrhage and perforation
+197,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Duodenal ulcer; Acute with haemorrhage
+198,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Duodenal ulcer; Chronic or unspecified with haemorrhage
+199,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Duodenal ulcer; Chronic or unspecified with both haemorrhage and perforation
+200,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),"Peptic ulcer, site unspecified; Acute with haemorrhage"
+201,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),"Peptic ulcer, site unspecified; Chronic or unspecified with haemorrhage"
+202,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),"Peptic ulcer, site unspecified; Chronic or unspecified with both haemorrhage and perforation"
+203,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Gastrojejunal ulcer; Acute with haemorrhage
+204,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Gastrojejunal ulcer; Chronic or unspecified with haemorrhage
+205,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Gastrojejunal ulcer; Chronic or unspecified with both haemorrhage and perforation
+206,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Haematemesis
+207,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),Melaena
+208,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,37372002,Upper gastrointestinal hemorrhage (disorder),"Gastrointestinal haemorrhage, unspecified"
+209,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Liver cell carcinoma
+210,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Intrahepatic bile duct carcinoma
+211,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Hepatoblastoma
+212,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm of gallbladder
+213,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Angiosarcoma of liver
+214,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Other sarcomas of liver
+215,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Other specified carcinomas of liver
+216,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Malignant neoplasm: Liver, unspecified"
+217,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Extrahepatic bile duct
+218,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Ampulla of Vater
+219,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Overlapping lesion of biliary tract
+220,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Malignant neoplasm: Biliary tract, unspecified"
+221,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Head of pancreas
+222,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Body of pancreas
+223,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Tail of pancreas
+224,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Pancreatic duct
+225,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Endocrine pancreas
+226,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Other parts of pancreas
+227,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Malignant neoplasm: Overlapping lesion of pancreas
+228,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Malignant neoplasm: Pancreas, unspecified"
+229,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Secondary malignant neoplasm of liver
+230,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Benign neoplasm: Extrahepatic bile ducts
+231,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Neoplasm of uncertain or unknown behaviour: Liver, gallbladder and bile ducts"
+232,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Alcoholic fatty liver
+233,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Alcoholic hepatitis
+234,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Alcoholic fibrosis and sclerosis of liver
+235,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Alcoholic cirrhosis of liver
+236,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Alcoholic hepatic failure
+237,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Alcoholic liver disease, unspecified"
+238,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Acute and subacute hepatic failure
+239,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Chronic hepatic failure
+240,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Hepatic failure, unspecified"
+241,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Chronic persistent hepatitis, not elsewhere classified"
+242,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Chronic lobular hepatitis, not elsewhere classified"
+243,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Chronic active hepatitis, not elsewhere classified"
+244,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Other chronic hepatitis, not elsewhere classified"
+245,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Chronic hepatitis, unspecified"
+246,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Hepatic fibrosis
+247,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Hepatic sclerosis
+248,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Hepatic fibrosis with hepatic sclerosis
+249,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Primary biliary cirrhosis
+250,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Secondary biliary cirrhosis
+251,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Biliary cirrhosis, unspecified"
+252,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Other and unspecified cirrhosis of liver
+253,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Nonspecific reactive hepatitis
+254,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Granulomatous hepatitis, not elsewhere classified"
+255,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Autoimmune hepatitis
+256,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Other specified inflammatory liver diseases
+257,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Inflammatory liver disease, unspecified"
+258,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Fatty (change of) liver, not elsewhere classified"
+259,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Chronic passive congestion of liver
+260,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Portal hypertension
+261,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Other specified diseases of liver
+262,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Liver disease, unspecified"
+263,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Calculus of gallbladder with acute cholecystitis
+264,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Calculus of gallbladder with other cholecystitis
+265,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Calculus of gallbladder without cholecystitis
+266,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Calculus of bile duct with cholangitis
+267,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Calculus of bile duct with cholecystitis
+268,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Calculus of bile duct without cholangitis or cholecystitis
+269,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Other cholelithiasis
+270,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Acute cholecystitis
+271,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Chronic cholecystitis
+272,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Other cholecystitis
+273,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Cholecystitis, unspecified"
+274,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Hydrops of gallbladder
+275,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Perforation of gallbladder
+276,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Fistula of gallbladder
+277,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Cholesterolosis of gallbladder
+278,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Other specified diseases of gallbladder
+279,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Disease of gallbladder, unspecified"
+280,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Obstruction of bile duct
+281,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Spasm of sphincter of Oddi
+282,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Other specified diseases of biliary tract
+283,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Disease of biliary tract, unspecified"
+284,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Alcohol-induced chronic pancreatitis
+285,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Other chronic pancreatitis
+286,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Cyst of pancreas
+287,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Pseudocyst of pancreas
+288,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Other specified diseases of pancreas
+289,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Disease of pancreas, unspecified"
+290,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Disease of pancreas, unspecified"
+291,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Postcholecystectomy syndrome
+292,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Hepatomegaly, not elsewhere classified"
+293,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Splenomegaly, not elsewhere classified"
+294,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),"Hepatomegaly with splenomegaly, not elsewhere classified"
+295,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,75183008,Abnormal liver function (finding),Abnormal results of liver function studies
+296,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,24526004,Inflammatory bowel disease (disorder),Crohn's disease of small intestine
+297,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,24526004,Inflammatory bowel disease (disorder),Crohn's disease of large intestine
+298,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,24526004,Inflammatory bowel disease (disorder),Other Crohn's disease
+299,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,24526004,Inflammatory bowel disease (disorder),"Crohn's disease, unspecified"
+300,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,24526004,Inflammatory bowel disease (disorder),Ulcerative (chronic) enterocolitis
+301,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,24526004,Inflammatory bowel disease (disorder),Ulcerative (chronic) proctitis
+302,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,24526004,Inflammatory bowel disease (disorder),Ulcerative (chronic) rectosigmoiditis
+303,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,24526004,Inflammatory bowel disease (disorder),Pseudopolyposis of colon
+304,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,24526004,Inflammatory bowel disease (disorder),Mucosal proctocolitis
+305,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,24526004,Inflammatory bowel disease (disorder),"Ulcerative colitis, unspecified"
+306,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,24526004,Inflammatory bowel disease (disorder),Allergic and dietetic gastroenteritis and colitis
+307,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),"Refractory anaemia without sideroblasts, so stated"
+308,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Refractory anaemia with sideroblasts
+309,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Refractory anaemia with excess of blasts
+310,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),"Refractory anaemia, unspecified"
+311,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Other myelodysplastic syndromes
+312,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),"Myelodysplastic syndrome, unspecified"
+313,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Iron deficiency anaemia secondary to blood loss (chronic)
+314,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Sideropenic dysphagia
+315,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Other iron deficiency anaemias
+316,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),"Iron deficiency anaemia, unspecified"
+317,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Vitamin B12 deficiency anaemia due to intrinsic factor deficiency
+318,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Vitamin B12 deficiency anaemia due to selective vitamin B12 malabsorption with proteinuria
+319,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Transcobalamin II deficiency
+320,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Other dietary vitamin B12 deficiency anaemia
+321,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Other vitaminB12 deficiency anaemias
+322,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),"Vitamin B12 deficiency anaemia, unspecified"
+323,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Dietary folate deficiency anaemia
+324,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Drug-induced folate deficiency anaemia
+325,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Other folate deficiency anaemias
+326,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),"Folate deficiency anaemia, unspecified"
+327,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),"Other megaloblastic anaemias, not elsewhere classified"
+328,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Sickle-cell anaemia without crisis
+329,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Hereditary spherocytosis
+330,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Hereditary elliptocytosis
+331,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Other haemoglobinopathies
+332,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Other specified hereditary haemolytic anaemias
+333,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),"Hereditary haemolytic anaemia, unspecified"
+334,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Drug-induced autoimmune haemolytic anaemia
+335,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Other autoimmune haemolytic anaemias
+336,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Drug-induced nonautoimmune haemolytic anaemia
+337,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Other nonautoimmune haemolytic anaemias
+338,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Other acquired haemolytic anaemias
+339,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),"Acquired haemolytic anaemia, unspecified"
+340,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Other specified anaemias
+341,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),"Anaemia, unspecified"
+343,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),Other hypoglycaemia
+344,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,271737000,Anemia (disorder),"Hypoglycaemia, unspecified"
+345,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,449671007,Cellulitis of upper limb (disorder),Lymphangitis
+346,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,449671007,Cellulitis of upper limb (disorder),Impetigo [any organism] [any site]
+347,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,449671007,Cellulitis of upper limb (disorder),Cellulitis of finger and toe
+348,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,449671007,Cellulitis of upper limb (disorder),Cellulitis of other parts of limb
+349,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,449671007,Cellulitis of upper limb (disorder),Cellulitis of face
+350,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,449671007,Cellulitis of upper limb (disorder),Cellulitis of trunk
+351,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,449671007,Cellulitis of upper limb (disorder),Cellulitis of other sites
+352,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,449671007,Cellulitis of upper limb (disorder),"Cellulitis, unspecified"
+353,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,449671007,Cellulitis of upper limb (disorder),Pyoderma
+354,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,449671007,Cellulitis of upper limb (disorder),Other specified local infections of skin and subcutaneous tissue
+355,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,449671007,Cellulitis of upper limb (disorder),"Local infection of skin and subcutaneous tissue, unspecified"
+356,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Insulin-dependent diabetes mellitus; With coma
+357,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Insulin-dependent diabetes mellitus; With ketoacidosis
+358,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Insulin-dependent diabetes mellitus; With ketoacidosis
+359,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Insulin-dependent diabetes mellitus; With renal complications
+360,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Insulin-dependent diabetes mellitus; With ophthalmic complications
+361,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Insulin-dependent diabetes mellitus; With peripheral circulatory complications
+362,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Insulin-dependent diabetes mellitus; With other specified complications
+363,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Insulin-dependent diabetes mellitus; With multiple complications
+364,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Insulin-dependent diabetes mellitus; With unspecified complications
+365,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Insulin-dependent diabetes mellitus; Without complications
+366,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Non-insulin-dependent diabetes mellitus; With coma
+367,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Non-insulin-dependent diabetes mellitus; With ketoacidosis
+368,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Non-insulin-dependent diabetes mellitus; With ketoacidosis
+369,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Non-insulin-dependent diabetes mellitus; With renal complications
+370,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Non-insulin-dependent diabetes mellitus; With ophthalmic complications
+371,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Non-insulin-dependent diabetes mellitus; With peripheral circulatory complications
+372,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Non-insulin-dependent diabetes mellitus; With other specified complications
+373,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Non-insulin-dependent diabetes mellitus; With multiple complications
+374,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Non-insulin-dependent diabetes mellitus; With unspecified complications
+375,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Non-insulin-dependent diabetes mellitus; Without complications
+376,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Other specified diabetes mellitus; With ketoacidosis
+377,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Other specified diabetes mellitus; With renal complications
+378,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Other specified diabetes mellitus; With ophthalmic complications
+379,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Other specified diabetes mellitus; With peripheral circulatory complications
+380,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Other specified diabetes mellitus; With other specified complications
+381,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Other specified diabetes mellitus; With multiple complications
+382,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Other specified diabetes mellitus; With unspecified complications
+383,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Other specified diabetes mellitus; Without complications
+384,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Unspecified diabetes mellitus; With ketoacidosis
+385,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Unspecified diabetes mellitus; With renal complications
+386,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Unspecified diabetes mellitus; With ophthalmic complications
+387,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Unspecified diabetes mellitus; With peripheral circulatory complications
+388,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Unspecified diabetes mellitus; With other specified complications
+389,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Unspecified diabetes mellitus; With multiple complications
+390,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Unspecified diabetes mellitus; With unspecified complications
+391,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Unspecified diabetes mellitus; Without complications
+392,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Drug-induced hypoglycaemia without coma
+393,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),Other hypoglycaemia
+394,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,315051004,Diabetes resolved (finding),"Hypoglycaemia, unspecified"
+395,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190412005,Malnutrition-related diabetes mellitus without complications (disorder),"Mechanical complication of gastrointestinal prosthetic devices, implants and grafts"
+396,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190412005,Malnutrition-related diabetes mellitus without complications (disorder),"Other complications of internal prosthetic devices, implants and grafts, not elsewhere classified"
+397,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,190412005,Malnutrition-related diabetes mellitus without complications (disorder),Attention to gastrostomy
+398,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,1871000124103,Transition from acute care to home-health care (finding),Toxic effect: Ethanol
+399,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,1871000124103,Transition from acute care to home-health care (finding),Toxic effect: Venom of other arthropods
+400,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,1871000124103,Transition from acute care to home-health care (finding),Toxic effect: Toxic effect of unspecified substance
+401,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,1871000124103,Transition from acute care to home-health care (finding),Hypothermia
+402,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,1871000124103,Transition from acute care to home-health care (finding),"Effect of reduced temperature, unspecified"
+403,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12901004,Transitory neonatal electrolyte disturbance (disorder),Syndrome of inappropriate secretion of antidiuretic hormone
+404,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12901004,Transitory neonatal electrolyte disturbance (disorder),Magnesium deficiency
+405,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12901004,Transitory neonatal electrolyte disturbance (disorder),Disorders of magnesium metabolism
+406,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12901004,Transitory neonatal electrolyte disturbance (disorder),Disorders of calcium metabolism
+407,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12901004,Transitory neonatal electrolyte disturbance (disorder),Volume depletion
+408,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12901004,Transitory neonatal electrolyte disturbance (disorder),Hyperosmolality and hypernatraemia
+409,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12901004,Transitory neonatal electrolyte disturbance (disorder),Hypo-osmolality and hyponatraemia
+410,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12901004,Transitory neonatal electrolyte disturbance (disorder),Hyperkalaemia
+411,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12901004,Transitory neonatal electrolyte disturbance (disorder),Hypokalaemia
+412,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12901004,Transitory neonatal electrolyte disturbance (disorder),Fluid overload
+413,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,12901004,Transitory neonatal electrolyte disturbance (disorder),"Other disorders of electrolyte and fluid balance, not elsewhere classified"
+414,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),Nonobstructive reflux-associated chronic pyelonephritis
+415,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),Chronic obstructive pyelonephritis
+416,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),Other chronic tubulo-interstitial nephritis
+417,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),"Chronic tubulo-interstitial nephritis, unspecified"
+418,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),Pyonephrosis
+419,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),Acute cystitis
+420,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),Interstitial cystitis (chronic)
+421,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),Other chronic cystitis
+422,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),Trigonitis
+423,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),Irradiation cystitis
+424,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),Other cystitis
+425,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),"Cystitis, unspecified"
+426,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),Nonspecific urethritis
+427,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),Other urethritis
+428,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),"Urethral syndrome, unspecified"
+429,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,68566005,Urinary tract infectious disease (disorder),"Urinary tract infection, site not specified"
+430,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,389026000,Ascites (disorder),Ascites
+431,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,938911000000100,At risk of acute kidney injury (finding),Other acute renal failure
+432,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,938911000000100,At risk of acute kidney injury (finding),"Acute renal failure, unspecified"
+433,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,938911000000100,At risk of acute kidney injury (finding),Postprocedural renal failure
+434,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59282003,Pulmonary embolism (disorder),Pulmonary embolism with mention of acute cor pulmonale
+435,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59282003,Pulmonary embolism (disorder),Pulmonary embolism without mention of acute cor pulmonale
+436,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59282003,Pulmonary embolism (disorder),Chest pain on breathing
+437,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59282003,Pulmonary embolism (disorder),Pleurisy
+438,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),"Influenza with pneumonia, influenza virus identified"
+439,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),"Influenza with pneumonia, virus not identified"
+440,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Adenoviral pneumonia
+441,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Respiratory syncytial virus pneumonia
+442,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Parainfluenza virus pneumonia
+443,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Parainfluenza virus pneumonia
+444,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Other viral pneumonia
+445,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),"Viral pneumonia, unspecified"
+446,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Pneumonia due to Streptococcus pneumoniae
+447,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Pneumonia due to Haemophilus influenzae
+448,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),"Pneumonia due to streptococcus, group B"
+449,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Pneumonia due to other streptococci
+450,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Pneumonia due to Escherichia coli
+451,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Pneumonia due to other aerobic Gram-negative bacteria
+452,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Pneumonia due to Mycoplasma pneumoniae
+453,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Other bacterial pneumonia
+454,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),"Bacterial pneumonia, unspecified"
+455,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Chlamydial pneumonia
+456,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Pneumonia due to other specified infectious organisms
+457,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Pneumonia due to other specified infectious organisms
+458,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Pneumonia in bacterial diseases classified elsewhere
+459,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),Pneumonia in parasitic diseases
+460,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),"Bronchopneumonia, unspecified"
+461,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),"Lobar pneumonia, unspecified"
+462,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),"Other pneumonia, organism unspecified"
+463,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,385093006,Community acquired pneumonia (disorder),"Pneumonia, unspecified"
+464,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,313307000,Epileptic seizure (finding),Myoclonus
+465,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,313307000,Epileptic seizure (finding),Localization-related (focal)(partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset
+466,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,313307000,Epileptic seizure (finding),Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures
+467,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,313307000,Epileptic seizure (finding),Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures
+468,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,313307000,Epileptic seizure (finding),Generalized idiopathic epilepsy and epileptic syndromes
+469,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,313307000,Epileptic seizure (finding),Other generalized epilepsy and epileptic syndromes
+470,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,313307000,Epileptic seizure (finding),Special epileptic syndromes
+471,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,313307000,Epileptic seizure (finding),"Grand mal seizures, unspecified (with or without petit mal)"
+472,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,313307000,Epileptic seizure (finding),"Petit mal, unspecified, without grand mal seizures"
+473,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,313307000,Epileptic seizure (finding),Other epilepsy
+474,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,313307000,Epileptic seizure (finding),"Epilepsy, unspecified"
+475,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,313307000,Epileptic seizure (finding),Other and unspecified convulsions
+476,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,302866003,Hypoglycemia (disorder),Drug-induced hypoglycaemia without coma
+477,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,302866003,Hypoglycemia (disorder),Other hypoglycaemia
+478,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,302866003,Hypoglycemia (disorder),"Hypoglycaemia, unspecified"
+479,,,,,Malignant neoplasm: Cervical part of oesophagus
+480,,,,,Malignant neoplasm: Thoracic part of oesophagus
+481,,,,,Malignant neoplasm: Abdominal part of oesophagus
+482,,,,,Malignant neoplasm: Upper third of oesophagus
+483,,,,,Malignant neoplasm: Middle third of oesophagus
+484,,,,,Malignant neoplasm: Lower third of oesophagus
+485,,,,,Malignant neoplasm: Overlapping lesion of oesophagus
+486,,,,,"Malignant neoplasm: Oesophagus, unspecified"
+487,,,,,Achalasia of cardia
+488,,,,,Oesophageal obstruction
+489,,,,,Dyskinesia of oesophagus
+490,,,,,"Diverticulum of oesophagus, acquired"
+491,,,,,Gastro-oesophageal laceration-haemorrhage syndrome
+492,,,,,Other specified diseases of oesophagus
+493,,,,,"Disease of oesophagus, unspecified"
+494,,,,,Megaoesophagus in Chagas' disease
+495,,,,,Heartburn
+496,,,,,Dysphagia
+497,,,,,Foreign body in oesophagus
+498,,,,,Other and unspecified abnormalities of gait and mobility
+499,,,,,Clicking hip
+500,,,,,Senility
+501,,,,,Syncope and collapse
+502,,,,,Heat syncope
+503,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Arthropathy following intestinal bypass
+504,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Postdysenteric arthropathy
+505,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Postimmunization arthropathy
+506,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Reiter's disease
+507,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Other reactive arthropathies
+508,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Reactive arthropathy, unspecified"
+509,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Felty's syndrome
+510,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Other seropositive rheumatoid arthritis
+511,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Seropositive rheumatoid arthritis, unspecified"
+512,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Seronegative rheumatoid arthritis
+513,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Adult-onset Still's disease
+514,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Rheumatoid bursitis
+515,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Rheumatoid nodule
+516,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Inflammatory polyarthropathy
+517,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Other specified rheumatoid arthritis
+518,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Rheumatoid arthritis, unspecified"
+519,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Idiopathic gout
+520,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Drug-induced gout
+521,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Gout due to impairment of renal function
+522,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Other secondary gout
+523,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Gout, unspecified"
+524,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Gout, unspecified; Multiple sites"
+525,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Gout, unspecified; Shoulder region"
+526,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Gout, unspecified; Upper arm"
+527,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Gout, unspecified; Forearm"
+528,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Gout, unspecified; Hand"
+529,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Gout, unspecified; Pelvic region and thigh"
+530,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Gout, unspecified; Lower leg"
+531,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Gout, unspecified; Ankle and foot"
+532,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Gout, unspecified; Other"
+533,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Gout, unspecified; Site unspecified"
+534,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Hydroxyapatite deposition disease
+535,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Crystal arthropathy, unspecified"
+536,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Polyarthritis, unspecified"
+537,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Arthritis, unspecified"
+538,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Arthritis, unspecified; Multiple sites"
+539,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Arthritis, unspecified; Shoulder region"
+540,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Arthritis, unspecified; Upper arm"
+541,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Arthritis, unspecified; Forearm"
+542,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Arthritis, unspecified; Hand"
+543,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Arthritis, unspecified; Pelvic region and thigh"
+544,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Arthritis, unspecified; Lower leg"
+545,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Arthritis, unspecified; Ankle and foot"
+546,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Arthritis, unspecified; Other"
+547,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Arthritis, unspecified; Site unspecified"
+548,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Pain in joint
+549,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Pain in joint; Multiple sites
+550,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Pain in joint; Shoulder region
+551,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Pain in joint; Upper arm
+552,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Pain in joint; Forearm
+553,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Pain in joint; Hand
+554,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Pain in joint; Lower leg
+555,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Pain in joint; Ankle and foot
+556,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Pain in joint; Other
+557,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Pain in joint; Site unspecified
+558,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Stiffness of joint, not elsewhere classified"
+559,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),"Joint disorder, unspecified"
+560,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Rupture of popliteal cyst
+561,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Rupture of synovium
+562,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Transient synovitis
+563,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,276330000,Joint hot (finding),Synovial cyst of popliteal space [Baker]
+564,,,,,Fracture of clavicle
+565,,,,,Fracture of upper end of humerus
+566,,,,,Fracture of shaft of humerus
+567,,,,,Fracture of lower end of humerus
+568,,,,,Fracture of other parts of shoulder and upper arm
+569,,,,,"Fracture of shoulder girdle, part unspecified"
+570,,,,,Dislocation of shoulder joint
+571,,,,,Dislocation of acromioclavicular joint
+572,,,,,Dislocation of sternoclavicular joint
+573,,,,,Dislocation of other and unspecified parts of shoulder girdle
+574,,,,,Fracture of upper end of ulna
+575,,,,,Fracture of upper end of radius
+576,,,,,Fracture of shaft of ulna
+577,,,,,Fracture of shaft of radius
+578,,,,,Fracture of shafts of both ulna and radius
+579,,,,,Fracture of lower end of radius
+580,,,,,Fracture of lower end of both ulna and radius
+581,,,,,Multiple fractures of forearm
+582,,,,,Fracture of other parts of forearm
+583,,,,,"Fracture of forearm, part unspecified"
+584,,,,,Dislocation of radial head
+585,,,,,"Dislocation of elbow, unspecified"
+586,,,,,Traumatic rupture of radial collateral ligament
+587,,,,,Traumatic rupture of ulnar collateral ligament
+588,,,,,Fracture of navicular [scaphoid] bone of hand
+589,,,,,Fracture of other carpal bone(s)
+590,,,,,Fracture of first metacarpal bone
+591,,,,,Fracture of other metacarpal bone
+592,,,,,Multiple fractures of metacarpal bones
+593,,,,,Fracture of thumb
+594,,,,,Fracture of other finger
+595,,,,,Multiple fractures of fingers
+596,,,,,Fracture of other and unspecified parts of wrist and hand
+597,,,,,Dislocation of wrist
+598,,,,,Multiple dislocations of fingers
+599,,,,,Crushing injury of thumb and other finger(s)
+600,,,,,Crushing injury of other and unspecified parts of wrist and hand
+601,,,,,Fracture of lower end of femur
+602,,,,,Fracture of patella
+603,,,,,Fracture of upper end of tibia
+604,,,,,Fracture of shaft of tibia
+605,,,,,Fracture of lower end of tibia
+606,,,,,Fracture of fibula alone
+607,,,,,Fracture of medial malleolus
+608,,,,,Fracture of lateral malleolus
+609,,,,,Fractures of other parts of lower leg
+610,,,,,"Fracture of lower leg, part unspecified"
+611,,,,,Dislocation of patella
+612,,,,,Dislocation of knee
+613,,,,,"Tear of meniscus, current"
+614,,,,,"Tear of articular cartilage of knee, current"
+615,,,,,Fracture of calcaneus
+616,,,,,Fracture of talus
+617,,,,,Fracture of other tarsal bone(s)
+618,,,,,Fracture of metatarsal bone
+619,,,,,Fracture of great toe
+620,,,,,Fracture of other toe
+621,,,,,Multiple fractures of foot
+622,,,,,"Fracture of foot, unspecified"
+623,,,,,"Fracture of foot, unspecified; closed"
+624,,,,,Dislocation of ankle joint
+625,,,,,Dislocation of toe(s)
+626,,,,,Crushing injury of toe(s)
+627,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Postmenopausal osteoporosis with pathological fracture
+628,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Postmenopausal osteoporosis with pathological fracture; Other
+629,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Postmenopausal osteoporosis with pathological fracture; Site unspecified
+630,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Postoophorectomy osteoporosis with pathological fracture
+631,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Osteoporosis of disuse with pathological fracture
+632,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Postsurgical malabsorption osteoporosis with pathological fracture
+633,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Drug-induced osteoporosis with pathological fracture
+634,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Idiopathic osteoporosis with pathological fracture
+635,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Idiopathic osteoporosis with pathological fracture; Other
+636,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Idiopathic osteoporosis with pathological fracture; Site unspecified
+637,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Other osteoporosis with pathological fracture
+638,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Other osteoporosis with pathological fracture; Other
+639,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Other osteoporosis with pathological fracture; Site unspecified
+640,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Unspecified osteoporosis with pathological fracture
+641,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Unspecified osteoporosis with pathological fracture; Other
+642,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),Unspecified osteoporosis with pathological fracture; Site unspecified
+643,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),"Stress fracture, not elsewhere classified"
+644,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,137731000119104,History of traumatic vertebral fracture (situation),"Pathological fracture, not elsewhere classified"
+645,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13695006,Fracture of pubic rami (disorder),Fracture of pubis
+646,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,13695006,Fracture of pubic rami (disorder),Fracture of pubis; closed
+647,,,,,Pain in joint; Pelvic region and thigh
+648,,,,,Injury of muscle and tendon of hip
+649,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,87763006,Lower gastrointestinal hemorrhage (disorder),Haemorrhage of anus and rectum
+650,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,87763006,Lower gastrointestinal hemorrhage (disorder),"Gastrointestinal haemorrhage, unspecified"
+651,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Malignant neoplasm of gallbladder
+652,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Malignant neoplasm: Extrahepatic bile duct
+653,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Malignant neoplasm: Ampulla of Vater
+654,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Malignant neoplasm: Overlapping lesion of biliary tract
+655,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),"Malignant neoplasm: Biliary tract, unspecified"
+656,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Malignant neoplasm: Head of pancreas
+657,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Malignant neoplasm: Body of pancreas
+658,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Malignant neoplasm: Pancreatic duct
+659,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),"Malignant neoplasm: Pancreas, unspecified"
+660,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Benign neoplasm: Extrahepatic bile ducts
+661,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),"Neoplasm of uncertain or unknown behaviour: Liver, gallbladder and bile ducts"
+662,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Calculus of bile duct without cholangitis or cholecystitis
+663,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Hydrops of gallbladder
+664,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Perforation of gallbladder
+665,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Fistula of gallbladder
+666,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Cholesterolosis of gallbladder
+667,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Other specified diseases of gallbladder
+668,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),"Disease of gallbladder, unspecified"
+669,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Obstruction of bile duct
+670,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),"Disease of biliary tract, unspecified"
+671,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),"Disease of pancreas, unspecified"
+672,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,59848001,Obstructive hyperbilirubinemia (disorder),Unspecified jaundice
+673,,,,,Nonspecific mesenteric lymphadenitis
+674,,,,,Gastric ulcer; Chronic or unspecified with perforation
+675,,,,,"Gastritis, unspecified"
+676,,,,,Gallstone ileus
+677,,,,,Other impaction of intestine
+678,,,,,Other impaction of intestine
+679,,,,,Other and unspecified intestinal obstruction
+680,,,,,Constipation
+681,,,,,Functional diarrhoea
+682,,,,,Other specified functional intestinal disorders
+683,,,,,"Functional intestinal disorder, unspecified"
+684,,,,,Postoperative intestinal obstruction
+685,,,,,Other and unspecified ovarian cysts
+686,,,,,Mittelschmerz
+687,,,,,Pain localized to upper abdomen
+688,,,,,Pelvic and perineal pain
+689,,,,,Pain localized to other parts of lower abdomen
+690,,,,,Other and unspecified abdominal pain
+691,,,,,Nausea and vomiting
+692,,,,,"Intra-abdominal and pelvic swelling, mass and lump"
+693,,,,,Abnormal bowel sounds
+694,,,,,Change in bowel habit
+695,,,,,Other faecal abnormalities
+696,,,,,Other specified symptoms and signs involving the digestive system and abdomen
+697,,,,,Anal abscess
+698,,,,,Anorectal abscess
+699,,,,,Ischiorectal abscess
+700,,,,,Intrasphincteric abscess
+701,,,,,Anal polyp
+702,,,,,"Cutaneous abscess, furuncle and carbuncle of face"
+703,,,,,"Cutaneous abscess, furuncle and carbuncle of neck"
+704,,,,,"Cutaneous abscess, furuncle and carbuncle of trunk"
+705,,,,,"Cutaneous abscess, furuncle and carbuncle of buttock"
+706,,,,,"Cutaneous abscess, furuncle and carbuncle of limb"
+707,,,,,"Cutaneous abscess, furuncle and carbuncle of other sites"
+708,,,,,"Cutaneous abscess, furuncle and carbuncle, unspecified"
+709,,,,,Pilonidal cyst with abscess
+710,,,,,Pilonidal cyst without abscess
+711,,,,,Epidermal cyst
+712,,,,,Trichilemmal cyst
+713,,,,,Inflammatory disorders of breast
+714,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,274164006,Minor head injury (disorder),Concussion
+715,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,274164006,Minor head injury (disorder),Other specified injuries of head
+716,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,274164006,Minor head injury (disorder),Unspecified injury of head
+717,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Gallstone ileus
+718,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Obstruction of gallbladder
+719,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Cholangitis
+720,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Calculus of gallbladder with acute cholecystitis
+721,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Calculus of gallbladder with other cholecystitis
+722,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Calculus of gallbladder without cholecystitis
+723,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Calculus of bile duct with cholangitis
+724,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Calculus of bile duct with cholecystitis
+725,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Other cholelithiasis
+726,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Acute cholecystitis
+727,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Chronic cholecystitis
+728,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Other cholecystitis
+729,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),"Cholecystitis, unspecified"
+730,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Obstruction of bile duct
+731,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),"Disease of biliary tract, unspecified"
+732,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Cholesterolosis of gallbladder
+733,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Other specified diseases of gallbladder
+734,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),"Disease of gallbladder, unspecified"
+735,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),Other specified diseases of biliary tract
+736,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,301717006,Right upper quadrant pain (finding),"Disease of pancreas, unspecified"
+737,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236042008,Obstructed internal hernia (disorder),"Bilateral inguinal hernia, without obstruction or gangrene"
+738,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236042008,Obstructed internal hernia (disorder),"Unilateral or unspecified inguinal hernia, without obstruction or gangrene"
+739,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236042008,Obstructed internal hernia (disorder),"Bilateral femoral hernia, without obstruction or gangrene"
+740,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236042008,Obstructed internal hernia (disorder),"Unilateral or unspecified femoral hernia, without obstruction or gangrene"
+741,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236042008,Obstructed internal hernia (disorder),Umbilical hernia without obstruction or gangrene
+742,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236042008,Obstructed internal hernia (disorder),Ventral hernia with gangrene
+743,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236042008,Obstructed internal hernia (disorder),Ventral hernia with gangrene
+744,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236042008,Obstructed internal hernia (disorder),Ventral hernia without obstruction or gangrene
+745,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236042008,Obstructed internal hernia (disorder),Other specified abdominal hernia without obstruction or gangrene
+746,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236042008,Obstructed internal hernia (disorder),Unspecified abdominal hernia without obstruction or gangrene
+747,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,70153002,Hemorrhoids (disorder),"Disease of intestine, unspecified"
+748,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,70153002,Hemorrhoids (disorder),"Disease of intestine, unspecified"
+749,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,70153002,Hemorrhoids (disorder),"Disease of intestine, unspecified"
+750,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,70153002,Hemorrhoids (disorder),"Disease of intestine, unspecified"
+751,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,70153002,Hemorrhoids (disorder),"Disease of intestine, unspecified"
+752,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,70153002,Hemorrhoids (disorder),"Disease of intestine, unspecified"
+753,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,70153002,Hemorrhoids (disorder),Haemorrhoids in pregnancy
+754,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,70153002,Hemorrhoids (disorder),Haemorrhoids in the puerperium
+755,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,162051008,Right iliac fossa pain (finding),Acute appendicitis with peritoneal abscess
+756,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,162051008,Right iliac fossa pain (finding),Acute appendicitis with peritoneal abscess
+757,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,162051008,Right iliac fossa pain (finding),Unspecified appendicitis
+758,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,162051008,Right iliac fossa pain (finding),Crohn's disease of small intestine
+759,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,162052001,Left iliac fossa pain (finding),Volvulus
+760,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,162052001,Left iliac fossa pain (finding),Diverticular disease of small intestine without perforation or abscess
+761,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,162052001,Left iliac fossa pain (finding),Diverticular disease of large intestine without perforation or abscess
+762,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,162052001,Left iliac fossa pain (finding),Diverticular disease of both small and large intestine without perforation or abscess
+763,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,162052001,Left iliac fossa pain (finding),"Diverticular disease of intestine, part unspecified, without perforation or abscess"
+764,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,162052001,Left iliac fossa pain (finding),"Female pelvic inflammatory disease, unspecified"
+765,,,,,Anal spasm
+766,,,,,Acute anal fissure
+767,,,,,Chronic anal fissure
+768,,,,,"Anal fissure, unspecified"
+769,,,,,Anal fistula
+770,,,,,Anorectal fistula
+771,,,,,Foreign body in anus and rectum
+772,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236645006,Bladder outflow obstruction (disorder),Stress incontinence
+773,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236645006,Bladder outflow obstruction (disorder),Other specified urinary incontinence
+774,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236645006,Bladder outflow obstruction (disorder),Unspecified urinary incontinence
+775,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236645006,Bladder outflow obstruction (disorder),Retention of urine
+776,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236645006,Bladder outflow obstruction (disorder),Other difficulties with micturition
+777,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236645006,Bladder outflow obstruction (disorder),Bladder-neck obstruction
+778,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236645006,Bladder outflow obstruction (disorder),Hyperplasia of prostate
+779,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236645006,Bladder outflow obstruction (disorder),Other specified disorders of prostate
+780,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,236645006,Bladder outflow obstruction (disorder),"Disorder of prostate, unspecified"
+781,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,386103008,Renal stone (substance),Calculus of kidney
+782,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,386103008,Renal stone (substance),Calculus of ureter
+783,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,386103008,Renal stone (substance),Calculus of kidney with calculus of ureter
+784,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,386103008,Renal stone (substance),"Urinary calculus, unspecified"
+785,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,386103008,Renal stone (substance),Calculus in bladder
+786,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,386103008,Renal stone (substance),Calculus in urethra
+787,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,386103008,Renal stone (substance),Other lower urinary tract calculus
+788,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,386103008,Renal stone (substance),"Calculus of lower urinary tract, unspecified"
+789,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,386103008,Renal stone (substance),Unspecified renal colic
+790,,,,,Dysuria
+791,,,,,"Painful micturition, unspecified"
+792,,,,,Unspecified haematuria
+793,,,,,Mechanical complication of urinary (indwelling) catheter
+794,,,,,Mechanical complication of other urinary devices and implants
+795,,,,,"Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system"
+796,,,,,"Infection and inflammatory reaction due to prosthetic device, implant and graft in genital tract"
+797,,,,,"Other complications of genitourinary prosthetic devices, implants and grafts"
+798,,,,,"Unspecified complication of genitourinary prosthetic device, implant and graft"
+799,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,722829006,Acute pain of scrotum (finding),Encysted hydrocele
+800,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,722829006,Acute pain of scrotum (finding),Infected hydrocele
+801,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,722829006,Acute pain of scrotum (finding),Other hydrocele
+802,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,722829006,Acute pain of scrotum (finding),"Hydrocele, unspecified"
+803,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,722829006,Acute pain of scrotum (finding),Spermatocele
+804,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,722829006,Acute pain of scrotum (finding),Torsion of testis
+805,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,722829006,Acute pain of scrotum (finding),"Orchitis, epididymitis and epididymo-orchitis with abscess"
+806,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,722829006,Acute pain of scrotum (finding),"Orchitis, epididymitis and epididymo-orchitis without abscess"
+807,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,722829006,Acute pain of scrotum (finding),Inflammatory disorders of seminal vesicle
+808,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,722829006,Acute pain of scrotum (finding),"Inflammatory disorders of spermatic cord, tunica vaginalis and vas deferens"
+809,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,722829006,Acute pain of scrotum (finding),Inflammatory disorders of scrotum
+810,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,722829006,Acute pain of scrotum (finding),Inflammatory disorders of other specified male genital organs
+811,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,722829006,Acute pain of scrotum (finding),Inflammatory disorder of unspecified male genital organ
+812,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,722829006,Acute pain of scrotum (finding),Other specified disorders of male genital organs
+813,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),Blighted ovum and nonhydatidiform mole
+814,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),Missed abortion
+815,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),Other specified abnormal products of conception
+816,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Abnormal product of conception, unspecified"
+817,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Spontaneous abortion; Incomplete, complicated by delayed or excessive haemorrhage"
+818,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Spontaneous abortion; Incomplete, complicated by embolism"
+819,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Spontaneous abortion; Incomplete, with other and unspecified complications"
+820,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Spontaneous abortion; Incomplete, without complication"
+821,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Spontaneous abortion; Complete or unspecified, complicated by genital tract and pelvic infection"
+822,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Spontaneous abortion; Complete or unspecified, complicated by delayed or excessive haemorrhage"
+823,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Spontaneous abortion; Complete or unspecified, complicated by embolism"
+824,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Spontaneous abortion; Complete or unspecified, with other and unspecified complications"
+825,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Spontaneous abortion; Complete or unspecified, without complication"
+826,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Other abortion; Incomplete, without complication"
+827,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Other abortion; Complete or unspecified, without complication"
+828,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Unspecified abortion; Incomplete, without complication"
+829,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Unspecified abortion; Complete or unspecified, without complication"
+830,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),Threatened abortion
+831,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),Other haemorrhage in early pregnancy
+832,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,723665008,Vaginal bleeding complicating early pregnancy (disorder),"Haemorrhage in early pregnancy, unspecified"
+833,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,14094001,Excessive vomiting in pregnancy (disorder),Mild hyperemesis gravidarum
+834,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,14094001,Excessive vomiting in pregnancy (disorder),Hyperemesis gravidarum with metabolic disturbance
+835,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,14094001,Excessive vomiting in pregnancy (disorder),Late vomiting of pregnancy
+836,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,14094001,Excessive vomiting in pregnancy (disorder),Other vomiting complicating pregnancy
+837,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,14094001,Excessive vomiting in pregnancy (disorder),"Vomiting of pregnancy, unspecified"
+838,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,87176006,Bartholin's gland structure (body structure),Cyst of Bartholin's gland
+839,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,87176006,Bartholin's gland structure (body structure),Abscess of Bartholin's gland
+840,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,87176006,Bartholin's gland structure (body structure),Other diseases of Bartholin's gland
+841,http://snomed.info/sct,http://snomed.info/sct/83821000000107/version/20221123,87176006,Bartholin's gland structure (body structure),"Disease of Bartholin's gland, unspecified"

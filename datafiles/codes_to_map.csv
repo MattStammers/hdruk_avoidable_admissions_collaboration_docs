@@ -1,0 +1,321 @@
+,source_code,source_description,concept
+0,I89.1,Lymphangitis,Cellulitis
+1,J40.X,"Bronchitis, not specified as acute or chronic",Chronic obstructive pulmonary disease
+2,J04.0,Acute laryngitis,"Ear, nose and throat infections"
+3,I25.5,Ischaemic cardiomyopathy,Congestive heart failure
+4,R56.8,Other and unspecified convulsions,Convulsions and epilepsy
+5,K52.1,Toxic gastroenteritis and colitis,Dehydration and gastroenteritis
+6,E14.9,Unspecified diabetes mellitus; Without complications,Diabetes complications
+7,N30.9,"Cystitis, unspecified",Pyelonephritis
+8,N15.9,"Renal tubulo-interstitial disease, unspecified",Pyelonephritis
+9,I89.1,Lymphangitis,Cellulitis
+10,I11.0,Hypertensive heart disease with (congestive) heart failure,Congestive heart failure
+11,I13.0,Hypertensive heart and renal disease with (congestive) heart failure,Congestive heart failure
+12,G25.3,Myoclonus,Convulsions and epilepsy 
+13,J40.X,"Bronchitis, not specified as acute or chronic",Atrial fibrillation and flutter�
+14,A02.0,Salmonella enteritis,Dehydration and gastroenteritis
+15,K52.0,Gastroenteritis and colitis due to radiation,Dehydration and gastroenteritis
+16,A69.0,Necrotizing ulcerative stomatitis,Dental conditions
+17,E10.0,Insulin-dependent diabetes mellitus; With coma,Diabetes complications
+18,E13.9,Other specified diabetes mellitus; Without complications,Diabetes complications
+19,J04.0,Acute laryngitis,"Ear, nose and throat infections"
+20,J18.9,"Pneumonia, unspecified",Influencia and pneumonia
+21,D50.1,Sideropenic dysphagia,Iron-deficiency anaemia
+22,D46.0,"Refractory anaemia without sideroblasts, so stated",Iron-deficiency anaemia
+23,K25.0,Gastric ulcer; Acute with haemorrhage,Perforated/bleeding ulcer
+24,K92.0,Haematemesis,Perforated/bleeding ulcer
+25,N30.0,Acute cystitis,Pyelonephritis
+26,N30.8,Other cystitis,Pyelonephritis
+27,I24.0,Coronary thrombosis not resulting in myocardial infarction,angina
+28,R07.2,Precordial pain,angina
+29,L01.0,Impetigo [any organism] [any site],Cellulitis
+30,I25.5,Ischaemic cardiomyopathy,Congestive heart failure
+31,R56.8,Other and unspecified convulsions,Convulsions and epilepsy
+32,K52.2,Allergic and dietetic gastroenteritis and colitis,Dehydration and gastroenteritis
+33,K52.1,Toxic gastroenteritis and colitis,Dehydration and gastroenteritis
+34,E10.8,Insulin-dependent diabetes mellitus; With unspecified complications,Diabetes complications
+35,E14.9,Unspecified diabetes mellitus; Without complications,Diabetes complications
+36,I11.9,Hypertensive heart disease without (congestive) heart failure,Hypertension
+37,J12.0,Adenoviral pneumonia,Influencia and pneumonia
+38,D50.8,Other iron deficiency anaemias,Iron-deficiency anaemia
+39,D46.1,Refractory anaemia with sideroblasts,Iron-deficiency anaemia
+40,K25.2,Gastric ulcer; Acute with both haemorrhage and perforation,Perforated/bleeding ulcer
+41,K92.1,Melaena,Perforated/bleeding ulcer
+42,N39.0,"Urinary tract infection, site not specified",Pyelonephritis
+43,N30.9,"Cystitis, unspecified",Pyelonephritis
+44,I24.8,Other forms of acute ischaemic heart disease,angina
+45,R07.3,Other chest pain,angina
+46,L08.0,Pyoderma,Cellulitis
+47,L01.1,Impetiginization of other dermatoses,Cellulitis
+48,K52.8,Other specified noninfective gastroenteritis and colitis,Dehydration and gastroenteritis
+49,A05.9,"Bacterial foodborne intoxication, unspecified",Dehydration and gastroenteritis
+50,E11.0,Non-insulin-dependent diabetes mellitus; With coma,Diabetes complications
+51,J12.1,Respiratory syncytial virus pneumonia,Influencia and pneumonia
+52,D50.9,"Iron deficiency anaemia, unspecified",Iron-deficiency anaemia
+53,D46.3,Refractory anaemia with excess of blasts with transformation,Iron-deficiency anaemia
+54,K25.4,Gastric ulcer; Chronic or unspecified with haemorrhage,Perforated/bleeding ulcer
+55,K92.2,"Gastrointestinal haemorrhage, unspecified",Perforated/bleeding ulcer
+56,N15.9,"Renal tubulo-interstitial disease, unspecified",Pyelonephritis
+57,I24.9,"Acute ischaemic heart disease, unspecified",angina
+58,R07.4,"Chest pain, unspecified",angina
+59,L08.8,Other specified local infections of skin and subcutaneous tissue,Cellulitis
+60,L02.0,"Cutaneous abscess, furuncle and carbuncle of face",Cellulitis
+61,K52.9,"Noninfective gastroenteritis and colitis, unspecified",Dehydration and gastroenteritis
+62,A07.2,Cryptosporidiosis,Dehydration and gastroenteritis
+63,E11.8,Non-insulin-dependent diabetes mellitus; With unspecified complications,Diabetes complications
+64,J12.2,Parainfluenza virus pneumonia,Influencia and pneumonia
+65,D46.4,"Refractory anaemia, unspecified",Iron-deficiency anaemia
+66,K25.6,Gastric ulcer; Chronic or unspecified with both haemorrhage and perforation,Perforated/bleeding ulcer
+67,K20.x,Oesophagitis,Perforated/bleeding ulcer
+68,N13.6,Pyonephrosis,Pyelonephritis
+69,Z03.4,Observation for suspected myocardial infarction,angina
+70,L08.9,"Local infection of skin and subcutaneous tissue, unspecified",Cellulitis
+71,A08.0,Rotaviral enteritis,Dehydration and gastroenteritis
+72,E12.0,Malnutrition-related diabetes mellitus; With coma,Diabetes complications
+73,J15.3,"Pneumonia due to streptococcus, group B",Influencia and pneumonia
+74,J12.8,Other viral pneumonia,Influencia and pneumonia
+75,D51. 0,Vitamin B12‚‚ deficiency anaemia due to intrinsic factor deficiency,Iron-deficiency anaemia
+76,E55.0,"Rickets, active",Nutritional deficiency
+77,K26.0,Duodenal ulcer; Acute with haemorrhage,Perforated/bleeding ulcer
+78,K21.0,Gastro-oesophageal reflux disease with oesophagitis,Perforated/bleeding ulcer
+79,Z03.5,Observation for other suspected cardiovascular diseases,angina
+80,L02.4,"Cutaneous abscess, furuncle and carbuncle of limb",Cellulitis
+81,A08.1,Acute gastroenteropathy due to Norwalk agent,Dehydration and gastroenteritis
+82,E12.8,Malnutrition-related diabetes mellitus; With unspecified complications,Diabetes complications
+83,J31.2,Chronic pharyngitis,"Ear, nose and throat infections"
+84,J15.4,Pneumonia due to other streptococci,Influencia and pneumonia
+85,J12.9,"Viral pneumonia, unspecified",Influencia and pneumonia
+86,D51.8,Other vitamin Bâ‚?â‚‚ deficiency anaemias,Iron-deficiency anaemia
+87,E64.3,Sequelae of rickets,Nutritional deficiency
+88,K26.2,Duodenal ulcer; Acute with both haemorrhage and perforation,Perforated/bleeding ulcer
+89,K21.9,Gastro-oesophageal reflux disease without oesophagitis,Perforated/bleeding ulcer
+90,L98.0,Pyogenic granuloma,Cellulitis
+91,L02.8,"Cutaneous abscess, furuncle and carbuncle of other sites",Cellulitis
+92,A08.3,Other viral enteritis,Dehydration and gastroenteritis
+93,E13.0,Other specified diabetes mellitus; With coma,Diabetes complications
+94,J15.7,Pneumonia due to Mycoplasma pneumoniae,Influencia and pneumonia
+95,J16.0,Chlamydial pneumonia,Influencia and pneumonia
+96,D52.0,Dietary folate deficiency anaemia,Iron-deficiency anaemia
+97,B16.1,Acute hepatitis B with delta-agent (coinfection) without hepatic coma,Other vaccinepreventable diseases
+98,K26.4,Duodenal ulcer; Chronic or unspecified with haemorrhage,Perforated/bleeding ulcer
+99,K22.1,Ulcer of oesophagus,Perforated/bleeding ulcer
+100,L02.9,"Cutaneous abscess, furuncle and carbuncle, unspecified",Cellulitis
+101,A08.4,"Viral intestinal infection, unspecified",Dehydration and gastroenteritis
+102,K09.8,"Other cysts of oral region, not elsewhere classified",Dental conditions
+103,E13.8,Other specified diabetes mellitus; With unspecified complications,Diabetes complications
+104,J15.9,"Bacterial pneumonia, unspecified",Influencia and pneumonia
+105,A48.1,Legionnaires' disease,Influencia and pneumonia
+106,D52.1,Drug-induced folate deficiency anaemia,Iron-deficiency anaemia
+107,B16.9,Acute hepatitis B without delta-agent and without hepatic coma,Other vaccinepreventable diseases
+108,K26.6,Duodenal ulcer; Chronic or unspecified with both haemorrhage and perforation,Perforated/bleeding ulcer
+109,K22.6,Gastro-oesophageal laceration-haemorrhage syndrome,Perforated/bleeding ulcer
+110,A08.5,Other specified intestinal infections,Dehydration and gastroenteritis
+111,K09.9,"Cyst of oral region, unspecified",Dental conditions
+112,E14.0,Unspecified diabetes mellitus; With coma,Diabetes complications
+113,J16.8,Pneumonia due to other specified infectious organisms,Influencia and pneumonia
+114,A70.x,Chlamydia psittaci infection,Influencia and pneumonia
+115,D52.8,Other folate deficiency anaemias,Iron-deficiency anaemia
+116,B18.0,Chronic viral hepatitis B with delta-agent,Other vaccinepreventable diseases
+117,K27.0,"Peptic ulcer, site unspecified; Acute with haemorrhage",Perforated/bleeding ulcer
+118,E14.8,Unspecified diabetes mellitus; With unspecified complications,Diabetes complications
+119,J18.1,"Lobar pneumonia, unspecified",Influencia and pneumonia
+120,D52.9,"Folate deficiency anaemia, unspecified",Iron-deficiency anaemia
+121,B18.1,Chronic viral hepatitis B without delta-agent,Other vaccinepreventable diseases
+122,K27.2,"Peptic ulcer, site unspecified; Acute with both haemorrhage and perforation",Perforated/bleeding ulcer
+123,D53.1,"Other megaloblastic anaemias, not elsewhere classified",Iron-deficiency anaemia
+124,K27.4,"Peptic ulcer, site unspecified; Chronic or unspecified with haemorrhage",Perforated/bleeding ulcer
+125,D57.1,Sickle-cell anaemia without crisis,Iron-deficiency anaemia
+126,G00.0,Haemophilus meningitis,Other vaccinepreventable diseases
+127,K27.6,"Peptic ulcer, site unspecified; Chronic or unspecified with both haemorrhage and perforation",Perforated/bleeding ulcer
+128,D58.0,Hereditary spherocytosis,Iron-deficiency anaemia
+129,M01.4,Rubella arthritis,Other vaccinepreventable diseases
+130,K28.0,Gastrojejunal ulcer; Acute with haemorrhage,Perforated/bleeding ulcer
+131,D58.1,Hereditary elliptocytosis,Iron-deficiency anaemia
+132,K28.2,Gastrojejunal ulcer; Acute with both haemorrhage and perforation,Perforated/bleeding ulcer
+133,D59.0,Drug-induced autoimmune haemolytic anaemia,Iron-deficiency anaemia
+134,K28.4,Gastrojejunal ulcer; Chronic or unspecified with haemorrhage,Perforated/bleeding ulcer
+135,D59.9,"Acquired haemolytic anaemia, unspecified",Iron-deficiency anaemia
+136,D60.1,Transient acquired pure red cell aplasia,Iron-deficiency anaemia
+137,D60.8,Other acquired pure red cell aplasias,Iron-deficiency anaemia
+138,D60.9,"Acquired pure red cell aplasia, unspecified",Iron-deficiency anaemia
+139,D61.0,Constitutional aplastic anaemia,Iron-deficiency anaemia
+140,D61.1,Drug-induced aplastic anaemia,Iron-deficiency anaemia
+141,D64.0,Hereditary sideroblastic anaemia,Iron-deficiency anaemia
+142,D64.1,Secondary sideroblastic anaemia due to disease,Iron-deficiency anaemia
+143,D64.4,Congenital dyserythropoietic anaemia,Iron-deficiency anaemia
+144,D64.8,Other specified anaemias,Iron-deficiency anaemia
+145,D51.3,Other dietary vitamin Bâ‚?â‚‚ deficiency anaemia,Iron-deficiency anaemia
+146,D64.2,Secondary sideroblastic anaemia due to drugs and toxins,Iron-deficiency anaemia
+147,K28.4,Gastrojejunal ulcer; Chronic or unspecified with haemorrhage,Perforated/bleeding ulcer
+148,D64.6,Other specified anaemias,Iron-deficiency anaemia
+149,D59.2,Drug-induced nonautoimmune haemolytic anaemia,Iron-deficiency anaemia
+150,D59.1,Other autoimmune haemolytic anaemias,Iron-deficiency anaemia
+151,L02.1,"Cutaneous abscess, furuncle and carbuncle of neck",Cellulitis
+152,L02.2,"Cutaneous abscess, furuncle and carbuncle of trunk",Cellulitis
+153,L02.3,"Cutaneous abscess, furuncle and carbuncle of buttock",Cellulitis
+154,D51.1,Vitamin Bâ‚?â‚‚ deficiency anaemia due to selective vitamin Bâ‚?â‚‚ malabsorption with proteinuria,Iron-deficiency anaemia
+155,D51.2,Transcobalamin II deficiency,Iron-deficiency anaemia
+156,E10.1,Insulin-dependent diabetes mellitus; With ketoacidosis,Diabetes complications
+157,E10.2,Insulin-dependent diabetes mellitus; With renal complications,Diabetes complications
+158,E10.3,Insulin-dependent diabetes mellitus; With ophthalmic complications,Diabetes complications
+159,E10.4,Insulin-dependent diabetes mellitus; With neurological complications,Diabetes complications
+160,E10.5,Insulin-dependent diabetes mellitus; With peripheral circulatory complications,Diabetes complications
+161,E10.6,Insulin-dependent diabetes mellitus; With other specified complications,Diabetes complications
+162,E10.7,Insulin-dependent diabetes mellitus; With multiple complications,Diabetes complications
+163,E11.1,Non-insulin-dependent diabetes mellitus; With ketoacidosis,Diabetes complications
+164,E11.2,Non-insulin-dependent diabetes mellitus; With renal complications,Diabetes complications
+165,E11.3,Non-insulin-dependent diabetes mellitus; With ophthalmic complications,Diabetes complications
+166,E11.4,Non-insulin-dependent diabetes mellitus; With neurological complications,Diabetes complications
+167,E11.5,Non-insulin-dependent diabetes mellitus; With peripheral circulatory complications,Diabetes complications
+168,E11.6,Non-insulin-dependent diabetes mellitus; With other specified complications,Diabetes complications
+169,E11.7,Non-insulin-dependent diabetes mellitus; With multiple complications,Diabetes complications
+170,E12.1,Malnutrition-related diabetes mellitus; With ketoacidosis,Diabetes complications
+171,E12.2,Malnutrition-related diabetes mellitus; With renal complications,Diabetes complications
+172,E12.3,Malnutrition-related diabetes mellitus; With ophthalmic complications,Diabetes complications
+173,E12.4,Malnutrition-related diabetes mellitus; With neurological complications,Diabetes complications
+174,E12.5,Malnutrition-related diabetes mellitus; With peripheral circulatory complications,Diabetes complications
+175,E12.6,Malnutrition-related diabetes mellitus; With other specified complications,Diabetes complications
+176,E12.7,Malnutrition-related diabetes mellitus; With multiple complications,Diabetes complications
+177,E13.1,Other specified diabetes mellitus; With ketoacidosis,Diabetes complications
+178,E13.2,Other specified diabetes mellitus; With renal complications,Diabetes complications
+179,E13.3,Other specified diabetes mellitus; With ophthalmic complications,Diabetes complications
+180,E13.4,Other specified diabetes mellitus; With neurological complications,Diabetes complications
+181,E13.5,Other specified diabetes mellitus; With peripheral circulatory complications,Diabetes complications
+182,E13.6,Other specified diabetes mellitus; With other specified complications,Diabetes complications
+183,E13.7,Other specified diabetes mellitus; With multiple complications,Diabetes complications
+184,E14.1,Unspecified diabetes mellitus; With ketoacidosis,Diabetes complications
+185,E14.2,Unspecified diabetes mellitus; With renal complications,Diabetes complications
+186,E14.3,Unspecified diabetes mellitus; With ophthalmic complications,Diabetes complications
+187,E14.4,Unspecified diabetes mellitus; With neurological complications,Diabetes complications
+188,E14.5,Unspecified diabetes mellitus; With peripheral circulatory complications,Diabetes complications
+189,E14.6,Unspecified diabetes mellitus; With other specified complications,Diabetes complications
+190,E14.7,Unspecified diabetes mellitus; With multiple complications,Diabetes complications
+191,K25.1,Gastric ulcer; Acute with perforation,Perforated/bleeding ulcer
+192,K26.1,Duodenal ulcer; Acute with perforation,Perforated/bleeding ulcer
+193,K27.1,"Peptic ulcer, site unspecified; Acute with perforation",Perforated/bleeding ulcer
+194,K28.1,Gastrojejunal ulcer; Acute with perforation,Perforated/bleeding ulcer
+195,K25.5,Gastric ulcer; Chronic or unspecified with perforation,Perforated/bleeding ulcer
+196,K26.5,Duodenal ulcer; Chronic or unspecified with perforation,Perforated/bleeding ulcer
+197,K27.5,"Peptic ulcer, site unspecified; Chronic or unspecified with perforation",Perforated/bleeding ulcer
+198,K28.5,Gastrojejunal ulcer; Chronic or unspecified with perforation,Perforated/bleeding ulcer
+199,I47.1,Supraventricular tachycardia,Atrial fibrillation and flutter�
+200,K59.0,Constipation,Constipation
+201,R62.9,"Lack of expected normal physiological development, unspecified",Failure to thrive
+202,S72.0,Fracture of neck of femur,Fractured proximal femur
+203,E87.6,Hypokalaemia,Hypokalaemia
+204,P05.0,Light for gestational age,Low birth weight
+205,K35.0,Acute appendicitis with generalized peritonitis,Ruptured appendix
+206,I47.9,"Paroxysmal tachycardia, unspecified",Atrial fibrillation and flutter�
+207,S72.1,Pertrochanteric fracture,Fractured proximal femur
+208,P05.2,Fetal malnutrition without mention of light or small for gestational age,Low birth weight
+209,G44.0,Cluster headache syndrome,Migraine/acute headache
+210,E13.6,Other specified diabetes mellitus; With other specified complications,Diabetes complications
+211,I73.8,Other specified peripheral vascular diseases,Peripheral vascular disease
+212,K35.1,Acute appendicitis with peritoneal abscess,Ruptured appendix
+213,I49.5,Sick sinus syndrome,Atrial fibrillation and flutter�
+214,S72.2,Subtrochanteric fracture,Fractured proximal femur
+215,P05.9,"Slow fetal growth, unspecified",Low birth weight
+216,G44.1,"Vascular headache, not elsewhere classified",Migraine/acute headache
+217,E13.7,Other specified diabetes mellitus; With multiple complications,Diabetes complications
+218,I73.9,"Peripheral vascular disease, unspecified",Peripheral vascular disease
+219,F23.2,Acute schizophrenia-like psychotic disorder,Schizophrenia
+220,I49.8,Other specified cardiac arrhythmias,Atrial fibrillation and flutter 
+221,P07.2,Extreme immaturity,Low birth weight
+222,G44.3,Chronic post-traumatic headache,Migraine/acute headache
+223,E13.8,Other specified diabetes mellitus; With unspecified complications,Diabetes complications
+224,I49.9,"Cardiac arrhythmia, unspecified",Atrial fibrillation and flutter�
+225,P07.3,Other preterm infants,Low birth weight
+226,G44.4,"Drug-induced headache, not elsewhere classified",Migraine/acute headache
+227,E13.9,Other specified diabetes mellitus; Without complications,Diabetes complications
+228,R00.0,"Tachycardia, unspecified",Atrial fibrillation and flutter�
+229,G44.8,Other specified headache syndromes,Migraine/acute headache
+230,E14.9,Unspecified diabetes mellitus; Without complications,Diabetes complications
+231,I67.2,Cerebral atherosclerosis,Stroke
+232,R00.2,Palpitations,Atrial fibrillation and flutter�
+233,R51.x,Headache,Migraine/acute headache
+234,I69.8,Sequelae of other and unspecified cerebrovascular diseases,Stroke
+235,I20,Angina pectoris,angina
+236,I25,Chronic ischaemic heart disease,angina
+237,J45,Asthma,asthma
+238,L03,Cellulitis,Cellulitis
+239,G40,Epilepsy,Convulsions and epilepsy
+240,J20,Acute bronchitis,Chronic obstructive pulmonary disease
+241,E86,Volume depletion,Dehydration and gastroenteritis
+242,H66,Suppurative and unspecified otitis media,"Ear, nose and throat infections"
+243,R02,"Gangrene, not elsewhere classified",Gangrene
+244,I10,Essential (primary) hypertension,Hypertension
+245,J10,Influenza due to identified influenza virus,Influencia and pneumonia
+246,E40,Kwashiorkor,Nutritional deficiency
+247,A35,Other tetanus,Other vaccinepreventable diseases
+248,N70,Salpingitis and oophoritis,Pelvic inflammatory disease
+249,N10,Acute tubulo-interstitial nephritis,Pyelonephritis
+250,J46,Status asthmaticus,asthma
+251,L04,Acute lymphadenitis,Cellulitis
+252,I50,Heart failure,Congestive heart failure
+253,G41,Status epilepticus,Convulsions and epilepsy
+254,J41,Simple and mucopurulent chronic bronchitis,Chronic obstructive pulmonary disease
+255,A04,Other bacterial intestinal infections,Dehydration and gastroenteritis
+256,K02,Dental caries,Dental conditions
+257,H67,Otitis media in diseases classified elsewhere,"Ear, nose and throat infections"
+258,J11,"Influenza, virus not identified",Influencia and pneumonia
+259,E41,Nutritional marasmus,Nutritional deficiency
+260,A36,Diphtheria,Other vaccinepreventable diseases
+261,N73,Other female pelvic inflammatory diseases,Pelvic inflammatory disease
+262,N11,Chronic tubulo-interstitial nephritis,Pyelonephritis
+263,J81,Pulmonary oedema,Congestive heart failure
+264,R56,"Convulsions, not elsewhere classified",Convulsions and epilepsy
+265,J42,Unspecified chronic bronchitis,Chronic obstructive pulmonary disease
+266,K03,Other diseases of hard tissues of teeth,Dental conditions
+267,J02,Acute pharyngitis,"Ear, nose and throat infections"
+268,J13,Pneumonia due to Streptococcus pneumoniae,Influencia and pneumonia
+269,E42,Marasmic kwashiorkor,Nutritional deficiency
+270,A37,Whooping cough,Other vaccinepreventable diseases
+271,N74,Female pelvic inflammatory disorders in diseases classified elsewhere,Pelvic inflammatory disease
+272,N12,"Tubulo-interstitial nephritis, not specified as acute or chronic",Pyelonephritis
+273,O15,Eclampsia,Convulsions and epilepsy
+274,J43,Emphysema,Chronic obstructive pulmonary disease
+275,K04,Diseases of pulp and periapical tissues,Dental conditions
+276,J03,Acute tonsillitis,"Ear, nose and throat infections"
+277,J14,Pneumonia due to Haemophilus influenzae,Influencia and pneumonia
+278,E43,Unspecified severe protein-energy malnutrition,Nutritional deficiency
+279,A80,Acute poliomyelitis,Other vaccinepreventable diseases
+280,J47,Bronchiectasis,Chronic obstructive pulmonary disease
+281,K05,Gingivitis and periodontal diseases,Dental conditions
+282,J06,Acute upper respiratory infections of multiple and unspecified sites,"Ear, nose and throat infections"
+283,B05,Measles,Other vaccinepreventable diseases
+284,L88,Pyoderma gangrenosum,Cellulitis
+285,K06,Other disorders of gingiva and edentulous alveolar ridge,Dental conditions
+286,B06,Rubella [German measles],Other vaccinepreventable diseases
+287,K08,Other disorders of teeth and supporting structures,Dental conditions
+288,A09,Diarrhoea and gastroenteritis of presumed infectious origin,Dehydration and gastroenteritis
+289,K12,Stomatitis and related lesions,Dental conditions
+290,K13,Other diseases of lip and oral mucosa,Dental conditions
+291,J18,"Pneumonia, organism unspecified",Influencia and pneumonia
+292,B26,Mumps,Other vaccinepreventable diseases
+293,K30,Dyspepsia,Dyspepsia and other stomach function disorders
+294,G43,Migraine,Migraine/acute headache
+295,I73,Other peripheral vascular diseases,Peripheral vascular disease
+296,A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed",Tuberculosis
+297,F20,Schizophrenia,Schizophrenia
+298,F00,Dementia in Alzheimer's disease,Sensility/dementia
+299,I61,Intracerebral haemorrhage,Stroke
+300,A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",Tuberculosis
+301,F21,Schizotypal disorder,Schizophrenia
+302,F01,Vascular dementia,Sensility/dementia
+303,I62,Other nontraumatic intracranial haemorrhage,Stroke
+304,F02,Dementia in other diseases classified elsewhere,Sensility/dementia
+305,I63,Cerebral infarction,Stroke
+306,F03,Unspecified dementia,Sensility/dementia
+307,I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",Stroke
+308,J44,Other chronic obstructive pulmonary disease,Chronic obstructive pulmonary disease
+309,R54,Senility,Sensility/dementia
+310,I64,"Stroke, not specified as haemorrhage or infarction",Stroke
+311,F25,Schizoaffective disorders,Schizophrenia
+312,A19,Miliary tuberculosis,Tuberculosis
+313,K21,Gastro-oesophageal reflux disease,Dyspepsia and other stomach function disorders
+314,E10,Insulin-dependent diabetes mellitus,Atrial fibrillation and flutter�
+315,S16,Injury of muscle and tendon at neck level,Deliberate self-harm
+316,F10,Mental and behavioural disorders due to use of alcohol,Alcohol-related diseases
+317,A17,Tuberculosis of nervous system,Tuberculosis
+318,A18,Tuberculosis of other organs,Tuberculosis
+319,R00.8,Other and unspecified abnormalities of heart beat,Atrial fibrillation and flutter�
