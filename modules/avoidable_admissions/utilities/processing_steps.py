@@ -1,4 +1,4 @@
-from pandas import DataFrame, concat, Series, read_csv
+from pandas import DataFrame, concat, Series
 from urllib.request import urlopen
 from json import loads, dumps
 from params import credentials
@@ -67,7 +67,7 @@ def query_snomed_ICD10_mapping(concept_id: int) -> str:
     else:
       return False
 
-def split_array(df) -> DataFrame:
+def split_array(df: DataFrame) -> DataFrame:
   """
   Function to format dataframe 
 
@@ -100,6 +100,18 @@ def split_array(df) -> DataFrame:
 aux = DataFrame()
 
 def ts_req(row) -> Series:
+    
+
+    """
+    Function to query nhs mapper API returning dataframe with icd10 code and  map to SNOMED
+
+    Args: 
+      row: row
+
+    Returns:
+      A pandas Dataframe
+
+  """
 
     url = "https://ontology.nhs.uk/production1/fhir/ConceptMap/$translate?_format=json"
     description_code = row.source_description
@@ -142,11 +154,12 @@ def ts_req(row) -> Series:
         target_version = ""
         target_code = ""
         target_description = ""
+
     source_code = row.source_code
     return Series([target_system, target_version, target_code, target_description, concept,source_code,description_code], index=["target_system", "target_version", "target_code", "target_description", "concept","source_code", "source_description"])
 
 
-def obtain_snomed_concepts(concepts, path):
+def obtain_snomed_concepts(concepts: list, path: str) -> bool:
     aux = DataFrame()
 
     for concept in concepts:
@@ -170,10 +183,15 @@ def obtain_snomed_concepts(concepts, path):
     return True
 
 
-def obtain_ECDS_snomed_members(path):
+def obtain_ECDS_snomed_members(path: str) -> DataFrame:
 
   """
   Function to obtain .csv file with  Emergency care diagnosis simple reference set (foundation metadata concept)
+
+   Args: 
+    path: string path for saving out df
+
+
 
   Returns:
     A pandas Dataframe with the member codes of the mentioned reference set
@@ -195,7 +213,7 @@ def obtain_ECDS_snomed_members(path):
   df.to_csv(path)
   return df
   
-def obtain_previous_snomed_codes(df, path):
+def obtain_previous_snomed_codes(df: DataFrame, path: str) -> DataFrame:
 
   """
   Function to obtain .csv file with  Emergency care diagnosis simple reference set (foundation metadata concept) including previous diagnosis codes
@@ -236,9 +254,9 @@ def obtain_previous_snomed_codes(df, path):
   return df_out
 
 
-def merge_data_sets(df_list, ecds):
+def merge_data_sets(df_list, ecds = None):
   """
-    Function to obtain merged df out of different sources that were analyzed to obtain the ACSCs snomed codes.
+    Function to obtain merged df out of different sources that were analyzed to obtain the ACSCs snomed codes, and to optionally obtain subset that is present at ECDS dataset
     
   """
 
@@ -249,7 +267,8 @@ def merge_data_sets(df_list, ecds):
   df_out = df_out.drop_duplicates(
   subset = ['target_code', 'target_description'],
   keep = 'last').reset_index(drop = True)
-  df_out = df_out[df_out.target_code.isin(ecds.conceptId.astype(float64).values)]
+  if(ecds):
+    df_out = df_out[df_out.target_code.isin(ecds.conceptId.astype(float64).values)]
   return df_out
   
 

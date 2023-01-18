@@ -33,6 +33,7 @@ def main():
     concepts_snapper = read_csv('hdruk_avoidable_admissions_collaboration_docs/datafiles/out_df_snapper_snomed_browser.csv', index_col = 0)
     ecds = read_csv('hdruk_avoidable_admissions_collaboration_docs/datafiles/ECDS_codes.csv', index_col = 0)
     df_2 = merge_data_sets([snapper,concepts_snapper,concepts],ecds)
+    df_2 = df_2.drop_duplicates()
     obtain_previous_snomed_codes(df_2, "hdruk_avoidable_admissions_collaboration_docs/datafiles/ECDS_codes_mapping.csv")
 
 if __name__ == "__main__":
