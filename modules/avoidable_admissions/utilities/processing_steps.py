@@ -239,15 +239,22 @@ def obtain_previous_snomed_codes(df: DataFrame, path: str) -> DataFrame:
     }
 
   for i in range(len(df.target_code.values)):
-    url = "https://ontology.nhs.uk/production1/fhir/ValueSet/$expand?count=100&offset=0&url=http:%2F%2Fsnomed.info%2Fsct%3Ffhir_vs%3Decl%2F(" + str(df.target_code.astype(int).values[i]) + "%2520%257B%257B%2520%252BHISTORY-MAX%2520%257D%257D)"
+    val = str(df.target_code.astype(int).values[i])
+    val = val.replace("-","")
+    url = "https://ontology.nhs.uk/production1/fhir/ValueSet/$expand?count=100&offset=0&url=http:%2F%2Fsnomed.info%2Fsct%3Ffhir_vs%3Decl%2F(" + val + "%2520%257B%257B%2520%252BHISTORY-MAX%2520%257D%257D)"
     response = request("GET", url, headers=headers, data=payload)
-    arr = response.json()["expansion"]["contains"]
-    concept = df[df.target_code == df.target_code.values[i]].concept.values[0]
+    try:
+      arr = response.json()["expansion"]["contains"]
+      concept = df[df.target_code == df.target_code.values[i]].concept.values[0]
 
-    for j in range(len(arr)):
-      aux_code.append(arr[j]["code"])
-      aux_description.append(arr[j]["display"])
-      aux_concept.append(concept)
+      for j in range(len(arr)):
+        aux_code.append(arr[j]["code"])
+        aux_description.append(arr[j]["display"])
+        aux_concept.append(concept)
+    except:
+       aux_code.append(df.target_code.values[i])
+       aux_description.append(df.target_description.values[i])
+       aux_concept.append(df.concept.values[i])
 
   df_out = DataFrame({"target_code":aux_code, "target_description":aux_description, "concept":aux_concept})
   df_out.to_csv(path)
@@ -260,13 +267,15 @@ def merge_data_sets(df_list, ecds = None):
     
   """
 
-  df_out = []
+  df_out = DataFrame()
   for i in range(len(df_list)):
     df = df_list[i]
-    df_out = concat([df["target_code", "target_description", "concept","source_code","source_description"],df_out])
+    df_out = concat([df,df_out])
   df_out = df_out.drop_duplicates(
   subset = ['target_code', 'target_description'],
   keep = 'last').reset_index(drop = True)
+  df_out = df_out[["target_code", "target_description", "concept","source_code","source_description"]]
+  df_out =  df_out[~df_out.target_code.isna()]
   if(ecds):
     df_out = df_out[df_out.target_code.isin(ecds.conceptId.astype(float64).values)]
   return df_out
