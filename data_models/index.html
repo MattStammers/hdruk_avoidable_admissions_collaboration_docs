@@ -522,7 +522,7 @@
 <td align="left">admisorc</td>
 <td align="left">Identifies where the patient was immediately prior to admission</td>
 <td align="left">Used to identify possible care home admissions. No filtering</td>
-<td align="left"><a href="https://www.datadictionary.nhs.uk/data_elements/admission_method_code__hospital_provider_spell_.html">NHS Data Model SOURCE OF ADMISSION CODE (HOSPITAL PROVIDER SPELL)</a></td>
+<td align="left"><a href="https://www.datadictionary.nhs.uk/data_elements/admission_source__hospital_provider_spell_.html">NHS Data Model SOURCE OF ADMISSION CODE (HOSPITAL PROVIDER SPELL)</a></td>
 </tr>
 <tr>
 <td align="left">admidate</td>
@@ -534,7 +534,7 @@
 <td align="left">admitime</td>
 <td align="left">The time the patient was admitted to hospital at the start of a hospital spell. hh:mm:ss format</td>
 <td align="left">Start time of hospital spell. No filtering</td>
-<td align="left"><a href="https://www.datadictionary.nhs.uk/data_elements/start_date__hospital_provider_spell_.html">NHS Data Model START TIME (HOSPITAL PROVIDER SPELL)</a></td>
+<td align="left"><a href="https://www.datadictionary.nhs.uk/data_elements/start_time__hospital_provider_spell_.html">NHS Data Model START TIME (HOSPITAL PROVIDER SPELL)</a></td>
 </tr>
 <tr>
 <td align="left">disdest</td>
@@ -645,7 +645,7 @@
 <td align="left"><a href="https://www.datadictionary.nhs.uk/data_elements/ethnic_category.html">NHS Data Model ETHNIC CATEGORY</a></td>
 </tr>
 <tr>
-<td align="left">AccommodationStatus_SnomedCt</td>
+<td align="left">accommodationstatus</td>
 <td align="left">Accommodation Status. SNOMED code</td>
 <td align="left">Can be used to identify patient who live in residential or nursing homes. No filtering</td>
 <td align="left"><a href="https://www.datadictionary.nhs.uk/data_elements/accommodation_status__snomed_ct_.html">NHS Data Model ACCOMMODATION STATUS (SNOMED CT)</a></td>
@@ -689,7 +689,7 @@
 <tr>
 <td align="left">edarrivaldatetime</td>
 <td align="left">Emergency Care Arrival DateTime. Format YYYY/MM/DD hh:mm:ss TMZ</td>
-<td align="left">Arrival datetime at the emergency department. EmergencyCareArrivalDate on or after 2021-10-01 00:00:00 and also on or before 2022-1009-3101 00:00:00. Timezone will be required to derive time in ED correctly.</td>
+<td align="left">Arrival datetime at the emergency department. EmergencyCareArrivalDate &gt;=2021-10-01T00:00:00 and &lt;2022-10-01T00:00:00. Timezone will be required to derive time in ED correctly.</td>
 <td align="left"><a href="https://www.datadictionary.nhs.uk/data_elements/emergency_care_arrival_date.html">Derived from NHS Data Model EMERGENCY CARE ARRIVAL DATE</a> and <a href="https://www.datadictionary.nhs.uk/data_elements/emergency_care_arrival_time.html">NHS Data Model EMERGENCY CARE ARRIVAL TIME</a></td>
 </tr>
 <tr>
@@ -705,7 +705,7 @@
 <td align="left"><a href="https://www.datadictionary.nhs.uk/data_elements/emergency_care_acuity__snomed_ct_.html">NHS Data Model EMERGENCY CARE ACUITY (SNOMED CT)</a></td>
 </tr>
 <tr>
-<td align="left">edcheifcomplaint</td>
+<td align="left">edchiefcomplaint</td>
 <td align="left">Chief complaint as assessed by the care professional first assessing the patient.</td>
 <td align="left">SNOMED code. No filtering</td>
 <td align="left"><a href="https://www.datadictionary.nhs.uk/data_elements/emergency_care_chief_complaint__snomed_ct_.html">NHS Data Model EMERGENCY CARE CHIEF COMPLAINT (SNOMED CT)</a></td>
@@ -717,19 +717,19 @@
 <td align="left"><a href="https://www.datadictionary.nhs.uk/data_elements/comorbidity__snomed_ct_.html">NHS Data Model COMORBIDITY (SNOMED CT)</a></td>
 </tr>
 <tr>
-<td align="left">eddiag_NNEmergencyCareDiagnosis_SnomedCt</td>
+<td align="left">eddiag_NN</td>
 <td align="left">Diagnosis codes recorded for the attendance</td>
 <td align="left">Used to identify Ambulatory Care Sensitive Conditions. May include up to 12 fields, from 01-12</td>
 <td align="left"><a href="https://www.datadictionary.nhs.uk/data_elements/emergency_care_diagnosis__snomed_ct_.html">NHS Data Model EMERGENCY CARE DIAGNOSIS (SNOMED CT)</a></td>
 </tr>
 <tr>
-<td align="left">edentryseq_NNCodedClinicalEntrySequenceNumber</td>
+<td align="left">edentryseq_NN</td>
 <td align="left">Sequence number associated with the diagnosis, giving the position it was recorded by the clinician</td>
 <td align="left">Used to tie diagnosis to the position they were recorded. May include up to 2 fields, from 01-12</td>
 <td align="left"><a href="https://www.datadictionary.nhs.uk/data_elements/coded_clinical_entry_sequence_number.html">NHS Data Model CODED CLINICAL ENTRY SEQUENCE NUMBER</a></td>
 </tr>
 <tr>
-<td align="left">eddiagqual_NNEmergencyCareDiagnosisQualifier_SnomedCt</td>
+<td align="left">eddiagqual_NN</td>
 <td align="left">Level of certainty of a patient diagnosis.</td>
 <td align="left">SNOMED code. Used to identify the level of certainty of a diagnosis. May include up to 12 fields, from 01-12</td>
 <td align="left"><a href="https://www.datadictionary.nhs.uk/data_elements/emergency_care_diagnosis_qualifier__snomed_ct_.html">NHS Data Model EMERGENCY CARE DIAGNOSIS QUALIFIER (SNOMED CT)</a></td>
