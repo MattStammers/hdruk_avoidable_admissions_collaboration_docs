@@ -31,7 +31,10 @@ Emergency Care for Adults](https://www.ambulatoryemergencycare.org.uk/uploads/fi
 
 ### Population of Interest
 
-* Time period: 01/08/21 to 31/08/22, all patients attending the ED during the defined period of time.
+- Study period: `>=2021-10-01T00:00:00` and `<2022-10-01T00:00:00` (or `<=2022-09-30T23:59:59`)
+- Patients:
+    - Admitted Patient Care Dataset: All acute emergency admissions for adults (18 years + on day of admission) that had an admission date within the study period
+    - Emergency Care Dataset: All patients attending ED during the study period.
 
 ## Analysis Plan
 
