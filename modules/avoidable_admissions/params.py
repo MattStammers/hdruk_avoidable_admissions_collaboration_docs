@@ -1,3 +1,3 @@
 credentials = {
-  "bearer_token":INSERT BEARER TOKEN HERE
+  "bearer_token":"""INSERT BEARER TOKEN HERE"""
 }
