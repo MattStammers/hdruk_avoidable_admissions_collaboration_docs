@@ -1,6 +1,6 @@
 # Welcome to the HDRUK Avoidable Admissions Collaboration Docs
 
-This is a the web-guide to help facilitate federated data engineering across each site. 
+This is a the web-guide to help facilitate federated data engineering across each site.
 
 - CI Site: Sheffield
 
@@ -10,13 +10,13 @@ This is a the web-guide to help facilitate federated data engineering across eac
 * `documentation`  - Partial documentation for the project. Please see the main Sheffield protocol for further details. The aim of this documentation is to encourage co-development
 * `data_models`    - Contains the core data model for the project
 * `guides`         - How to guides taking beginners through the process of setting up and running the pipeline.
-* `code`           - Explains the code modules for the project for those who want more details. 
+* `code`           - Explains the code modules for the project for those who want more details.
 
 ## Common Analytic Approach
 
 To facilitate successful working across all involved sites a common approach needs to be taken. This has been well described as below in the following diagram:
 
-![Pipeline Structure](pipeline.jpg)
+![Pipeline Structure](/pipeline.jpg)
 
 As you can see in the diagram there are 3 major steps to the process which are:
 
@@ -24,11 +24,11 @@ As you can see in the diagram there are 3 major steps to the process which are:
 2. Data Harmonization
 3. Data Analysis
 
-This repository is therefore laid out in those three steps to keep things simple and easy to follow. 
+This repository is therefore laid out in those three steps to keep things simple and easy to follow.
 
 ## How to Use
 
-We have used python to build this however we have designed it so that you can start with zero knowledge of python and still have it work for you. 
+We have used python to build this however we have designed it so that you can start with zero knowledge of python and still have it work for you.
 
 In order to reduce complexity the repository has been stripped back to bare bones essentials starting with the installation of python itself within a trust / Uni environment through to running each component. We will keep working to improve it so if something is not right let us know and we will fix it.
 
@@ -44,6 +44,7 @@ The code and documentation in this repository is laid out in three sections corr
     ├── .pre-commit-config.yaml  <- Pre-commit hooks to prevent metadata retention inside notebooks during commits
     ├── environment.yml          <- Environment setup file
     ├── init.sh and bat          <- Setup scripts for windows and linux shells / command line
+    ├── setup.py                 <- Sets up the python packages
     ├── README.md                <- Taken from https://github.com/LTHTR-DST/hdruk_avoidable_admissions/blob/dev/README.md and simplified. Thanks to vvcb and the LTHRT team for all their work on this!
     │
     ├── docs/
@@ -53,7 +54,7 @@ The code and documentation in this repository is laid out in three sections corr
     │   ├── how-to-guides        <- How to Guides including starting from scratch
     │   ├── code.md              <- Codeshares and docstrings
     │
-    ├── data_exraction/ 
+    ├── data_exraction/
     │   ├── synthetic_data       <- Dummy data for testing (please note the dataset provided is incomplete and provided for demonstation of only a part of the process to get started)
     │   ├── modules/             <- Modules for data extraction
     │   ├── extraction.ipynb     <- Simple example of extraction process and cleaning with python

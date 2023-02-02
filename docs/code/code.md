@@ -6,10 +6,10 @@ reference for the technical implementation of the
 
 ## Pseudocode placeholder demo modules
 
-::: modules.avoidable_admissions.mapper
+<!-- ::: modules.api.mapper
     custom_templates: templates
     default_handler: python
     handlers:
       python:
         options:
-          show_source: true
+          show_source: true -->

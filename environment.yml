@@ -17,7 +17,7 @@ dependencies:
   - lxml
   - nbstripout
   - pandas
-  - pandas-profiling # Does not work with Python 3.11. See Readme.md
+  - pandas-profiling
   - pandera
   - pip
   - pre-commit

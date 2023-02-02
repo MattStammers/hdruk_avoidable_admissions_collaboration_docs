@@ -12,7 +12,7 @@ The setup has only been tested on Windows 10 but should work in linux/mac if a c
 
 # New to Python?
 
-If you are new to python we recommend you go to https://mattstammers.github.io/hdruk_avoidable_admissions_collaboration_docs/how_to_guides/ and don't worry too much about the rest of this readme. If you just want to get cracking then follow the below instructions:
+If you are new to python we recommend you go to [how to guides](https://mattstammers.github.io/hdruk_avoidable_admissions_collaboration_docs/how_to_guides/) and don't worry too much about the rest of this readme. If you just want to get cracking then follow the below instructions:
 
 ### Requirements
 
@@ -22,7 +22,7 @@ Before setting this project up, the following requirements need to be met:
 - Mamba (`conda install mamba -n base`)
 - Git
 
-How to do all of the above is covered in the how-to-guides. Please go to https://mattstammers.github.io/hdruk_avoidable_admissions_collaboration_docs/how_to_guides/ for details on how to do the above because setting up such things in the NHS and elsewhere is not always straightforward due to permissions etc.
+How to do all of the above is covered in the how-to-guides. Please go to [how to guides](https://mattstammers.github.io/hdruk_avoidable_admissions_collaboration_docs/how_to_guides/) for details on how to do the above because setting up such things in the NHS and elsewhere is not always straightforward due to permissions etc.
 
 ### Quick Start Steps
 
@@ -84,7 +84,7 @@ Important: :no_entry: Patient level data must not be uploaded into a codepace ev
     │   ├── how-to-guides        <- How to Guides including starting from scratch
     │   ├── code.md              <- Codeshares and docstrings
     │
-    ├── data_exraction/ 
+    ├── data_exraction/
     │   ├── synthetic_data       <- Dummy data for testing (please note the dataset provided is incomplete and provided for demonstation of only a part of the process to get started)
     │   ├── modules/             <- Modules for data extraction
     │   ├── extraction.ipynb     <- Simple example of extraction process and cleaning with python
@@ -99,4 +99,3 @@ Important: :no_entry: Patient level data must not be uploaded into a codepace ev
     │   ├── modules/             <- Modules for data analysis
     │   ├── harmonization.ipynb  <- Simple example of data harmonization with python
     │   ├── outputs/             <- Output folder for final aggregated results
-    
