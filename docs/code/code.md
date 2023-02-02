@@ -1,10 +1,6 @@
 ## Code
 
-This part of the documentation contains the code-snippets and functions used for data preparation and analysis. It focuses on using as structured an approach as possible using an **information-oriented** approach. Use it as a
-reference for the technical implementation of the
-`admission_mapper` object code.
-
-## Pseudocode placeholder demo modules
+We will embellish this part when everyone is up and running. For now the priority is to get the how-to guides operational and working for sites.
 
 <!-- ::: modules.api.mapper
     custom_templates: templates

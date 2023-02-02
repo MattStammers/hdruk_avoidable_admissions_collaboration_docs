@@ -21,7 +21,8 @@ nav:
   - How To Guides:
     - Step 1) New to Python?: how_to_guides/new_to_python.md
     - Step 2) From Terminal to Notebook/Lab: how_to_guides/from_terminal_to_notebook.md
-    - Step 3) From Notebook/Lab to Extract Complete: how_to_guides/from_notebook_to_data_extract.md
+    - Step 3) From Notebook/Lab to Extraction and First Validation: how_to_guides/from_notebook_to_data_extract.md
+    - Step 4) From Extraction to Feature Engineering (Part1 Harmonization): how_to_guides/from_extraction_to_feature_engineering.md
   - Code: code/code.md
 
 markdown_extensions:

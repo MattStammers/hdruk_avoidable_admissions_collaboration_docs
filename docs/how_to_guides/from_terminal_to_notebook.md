@@ -14,7 +14,17 @@ You now need to navigate to the root folder where the collaboration repository i
 
 This should work in both Windows and Linux.
 
-## Creating Virtual Environment
+## Installing Mamba
+
+To install mamba you need to call:
+
+`conda install mamba -n base -c conda-forge`
+
+In the base directory of your minicondas installation. This is the best and most reliable way to install it. Seems like extra work installing all these things (and it is) but the end result will be worthwhile in terms of having a robust environment to work in. You can install it with pip but conda-forge is a better option if available to you.
+
+Important: :no_entry: This has typically been the slowest step when I have run it so be patient while it is running. It only needs to be done once.
+
+## Creating The Virtual Environment
 
 Now you are in the root folder with minicondas activated you are ready to create the virtual environment. A virtual environment is just a seperate computing environment which is controlled and won't interfere with the base or other environments. They are disposable and indispensible when programming as they allow you to customise things for particular projects and avoid dependencies conflits.
 

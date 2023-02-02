@@ -32,3 +32,41 @@ import avoidable_admissions as aa
 if this doesn't work it is because python can't find the avoidable admissions package inside the repository. A quick way to fix this is to copy this into the data_extraction folder but if you ran through the previous steps in order it should work as the setup.py file looks for this at install and logs its location so python can find it.
 
 The other way to solve the problem is too complicated for the scope of this guide so I recommend copying needed modules into the same root folder as the notebook for now. The priority here is to get going not have a perfect folder structure.
+
+NB. The data used in this repository is entirely artificatial and was generated using [NHSx Synthic VAE Data](https://github.com/nhsx/SynthVAE) - it is intentially of low quality to illustrate the validator failing.
+
+## Loading in dataset
+
+In this tutorial we are going to use a synthetic dataset we generated specifically for this project. Thanks to Vishnu for creating this.
+
+We load in the dataset as follows:
+
+```python
+df = pd.read_csv("synthetic_data/sdv_hdruk_admitted_care_synthetic_data.csv", dtype=str)
+```
+
+Pandas is a python package for handling data. You will need to load your data in via whatever means relevant. You can use pd.read_csv(), pd.read_excel(), pd.read_sql() or any other pandas method to load the data in.
+
+The aim is not to be too prescriptive here but if you would like more info on how to load data into a notebook using pure SQL please check out [NHS SQL Querying in a Notebook Examples](https://github.com/MattStammers/Life_Death_Python) which explains all the steps needed to do this with a couple of examples. We now use neither of these methods but they are good stepping stones to learning how to do this.
+
+## Manipulating the Data
+
+You can use the python notebook to manipulate the data as demonstrated here. The first step is to re-format the data correctly. A simple re-mapping technique is demonstrated here.
+
+This process is best done with SQL if possible upon extract but not everyone has that luxury
+
+## First Validation
+
+Oh dear that didn't go very well and we get a horrible stack trace as below:
+
+![Validation Failure Case](/how_to_guides/data_error.jpg)
+
+This means we need to do more work on our dataset before it will pass validation. Presently we have
+
+```python
+Total number of rows in input data   : 20000
+Number of rows that passed validation: 0
+Number of rows that failed validation: 40014
+```
+
+but at least we have some data which is a good start.
