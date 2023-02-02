@@ -22,7 +22,6 @@ var/
 data/
 processed/
 analytics/
-synthetic_data/
 wheels/
 avoidable_admissions/
 pip-wheel-metadata/
