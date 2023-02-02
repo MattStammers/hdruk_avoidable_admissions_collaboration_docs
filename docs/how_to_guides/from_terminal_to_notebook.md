@@ -2,7 +2,7 @@
 
 By this point in the tutorial you should have a terminal up on your screen which looks something like this:
 
-![Terminal](/how_to_guides/terminal.jpg)
+![Terminal](https://github.com/MattStammers/hdruk_avoidable_admissions_collaboration_docs/blob/southampton/docs/images/terminal.JPG?raw=true)
 
 If so you are good to move to the next stage.
 

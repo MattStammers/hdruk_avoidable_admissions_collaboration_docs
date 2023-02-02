@@ -16,7 +16,7 @@ This is a the web-guide to help facilitate federated data engineering across eac
 
 To facilitate successful working across all involved sites a common approach needs to be taken. This has been well described as below in the following diagram:
 
-![Pipeline Structure](/pipeline.jpg)
+![Pipeline Structure](https://github.com/MattStammers/hdruk_avoidable_admissions_collaboration_docs/blob/southampton/docs/images/pipeline.JPG?raw=true)
 
 As you can see in the diagram there are 3 major steps to the process which are:
 
@@ -54,7 +54,7 @@ The code and documentation in this repository is laid out in three sections corr
     │   ├── how-to-guides        <- How to Guides including starting from scratch
     │   ├── code.md              <- Codeshares and docstrings
     │
-    ├── data_exraction/
+    ├── data_extraction/
     │   ├── synthetic_data       <- Dummy data for testing (please note the dataset provided is incomplete and provided for demonstation of only a part of the process to get started)
     │   ├── extraction.ipynb     <- Simple example of extraction process and cleaning with python
     │

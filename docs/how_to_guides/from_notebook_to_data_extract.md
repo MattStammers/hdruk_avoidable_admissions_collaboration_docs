@@ -2,7 +2,7 @@
 
 Once you have the notebook or lab working your view should look something like this (lab displayed below). You need nothing else to run the pipeline.
 
-![Jupyter Lab](/how_to_guides/notebook.jpg)
+![Jupyter Lab](https://github.com/MattStammers/hdruk_avoidable_admissions_collaboration_docs/blob/southampton/docs/images/notebook.JPG?raw=true)
 
 If you don't have a strong preference I recommend using the lab as it has more features and provides a very satisfactory browser based programming environment completely for free on almost any machine.
 
@@ -16,7 +16,7 @@ First navigate to the data extraction folder. Then open the data extraction note
 
 It should look something like this:
 
-![Extraction](/how_to_guides/extraction.jpg)
+![Extraction](https://github.com/MattStammers/hdruk_avoidable_admissions_collaboration_docs/blob/southampton/docs/images/extraction.JPG?raw=true)
 
 ## Importing packages
 
@@ -59,7 +59,7 @@ This process is best done with SQL if possible upon extract but not everyone has
 
 Oh dear that didn't go very well and we get a horrible stack trace as below:
 
-![Validation Failure Case](/how_to_guides/data_error.jpg)
+![Validation Failure Case](https://github.com/MattStammers/hdruk_avoidable_admissions_collaboration_docs/blob/southampton/docs/images/failure_cases.JPG?raw=true)
 
 This means we need to do more work on our dataset before it will pass validation. Presently we have
 

@@ -1,6 +1,6 @@
 ### Population of Interest
 
-- Study period: `>=2021-10-01T00:00:00` to `<2022-10-01T00:00:00` (or `<=2022-10-31T23:59:59`)
+- Study period: `>=2021-10-01T00:00:00` to `<=2022-09-30T23:59:59`
 - Patients:
     - Admitted Patient Care Dataset: All acute emergency admissions for adults (18 years + on day of admission) that had an admission date within the study period
     - Emergency Care Dataset: All patients attending ED during the study period.
@@ -75,5 +75,5 @@ Alternative source of ICD10 codes:
 Emergency Care for Adults](https://www.ambulatoryemergencycare.org.uk/uploads/files/1/AEC-Directory%206th%20edition%20February%202018.pdf)
 
 
-[^1]: 
+[^1]:
     Purdy S, Griffin T, Salisbury C, Sharp D. Ambulatory care sensitive conditions: terminology and disease coding need to be more specific to aid policy makers and clinicians. Public health. 2009 Feb 1;123(2):169-73. [DOI](https://doi.org/10.1016/j.puhe.2008.11.001)
