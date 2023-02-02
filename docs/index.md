@@ -1,68 +1,72 @@
 # Welcome to the HDRUK Avoidable Admissions Collaboration Docs
 
-This is a collection of the docs for the project and code snippets to help us all collaborate and share tools. 
+This is a the web-guide to help facilitate federated data engineering across each site. 
+
+- CI Site: Sheffield
 
 ## Site Main Sections
 
 * `index`          - This navigation page
-* `documentation`  - Documentation for the project which can be published open source to encourage sharing
-* `data_models`    - Contains the Details of the Data Models for the project
-* `code`           - Share repository for code snippets and explanation of how various parts of the code work
-* `guides`         - Guides for how to set things up for the project
+* `documentation`  - Partial documentation for the project. Please see the main Sheffield protocol for further details. The aim of this documentation is to encourage co-development
+* `data_models`    - Contains the core data model for the project
+* `guides`         - How to guides taking beginners through the process of setting up and running the pipeline.
+* `code`           - Explains the code modules for the project for those who want more details. 
 
-### Aim
+## Common Analytic Approach
 
-To understand variation across the country in acute hospital admissions and explore methods for identifying an avoidable acute admission
+To facilitate successful working across all involved sites a common approach needs to be taken. This has been well described as below in the following diagram:
 
-### Objectives
+![Pipeline Structure](pipeline.jpg)
 
-1.       Take a multi-regional approach to linking routine data to describe patterns of acute admission and regional variation in admissions over a defined period of time
-2.       Analyse admission variation by factors including deprivation (measured by LSOA), time of day, day of week, waiting times
-3.       Describe outcomes following acute admission including Length of stay, repeat hospital attendance or admission within 7 days of index attendance, death in hospital.
-4.       Where possible explore linkage with primary care data to identify patients with long term conditions who have an avoidable admission
-5.       Develop methods for identifying patients at high risk of an avoidable admission using 
+As you can see in the diagram there are 3 major steps to the process which are:
 
-The criteria for those at high risk of avoidable admission are considered to be:
+1. Data Extraction
+2. Data Harmonization
+3. Data Analysis
 
-* 36 ambulatory care sensitive conditions[^1]. Alternatively this resource can be accessed in the [Directory of Ambulatory
-Emergency Care for Adults](https://www.ambulatoryemergencycare.org.uk/uploads/files/1/AEC-Directory%206th%20edition%20February%202018.pdf)
-* Length of stay in hospital
-* Where possible, investigation and treatment received
+This repository is therefore laid out in those three steps to keep things simple and easy to follow. 
 
-### Population of Interest
+## How to Use
 
-- Study period: `>=2021-10-01T00:00:00` and `<2022-10-01T00:00:00` (or `<=2022-09-30T23:59:59`)
-- Patients:
-    - Admitted Patient Care Dataset: All acute emergency admissions for adults (18 years + on day of admission) that had an admission date within the study period
-    - Emergency Care Dataset: All patients attending ED during the study period.
+We have used python to build this however we have designed it so that you can start with zero knowledge of python and still have it work for you. 
 
-## Analysis Plan
+In order to reduce complexity the repository has been stripped back to bare bones essentials starting with the installation of python itself within a trust / Uni environment through to running each component. We will keep working to improve it so if something is not right let us know and we will fix it.
 
-- Describe acute admissions by demographics inc deprivation, type, time of day, day of week
-Describe outcomes - length of stay, death in hospital, attendance at ED and re admission within 7 and 30 days
-- Establish the admission pattern using the ACSC codes
-- Where possible identify what investigations and treatments were administered in hospital - consider whether hospital admission was necessary for these
-- Where possible link to primary care records TBC and discussed added value
-- Model which factors have a higher likelihood of avoidable admission - possible algorithm development for a predictive tool
+The intent is to provide a supportive structure for newcomers while also providing enough flexibility for experienced hands. Each site can embellish the base template as they wish - as long as the core data model and validation, analytics steps are used the output should be at least somewhat standardised.
 
-### Reporting and Outputs
-Outputs will be in many formats including:
-1. peer reviewed publication, 
-2. using social media e.g. blog posts, 
-3. conference presentations and through workshops. 4. In addition, we anticipate providing bespoke reports for each region that reflects their acute admissions profile.
+## Repository Layout
 
+The code and documentation in this repository is laid out in three sections corresponding to the three steps laid out as above:
 
-## Reference Website layout
+    ├── mkdocs.yml               <- The configuration file for these docs (only necessary for docs development)
+    ├── pipefile and lock        <- alternative environment setup (only necessary for docs development)
+    ├── licence                  <- Project Licence - MIT (Permissive)
+    ├── .pre-commit-config.yaml  <- Pre-commit hooks to prevent metadata retention inside notebooks during commits
+    ├── environment.yml          <- Environment setup file
+    ├── init.sh and bat          <- Setup scripts for windows and linux shells / command line
+    ├── README.md                <- Taken from https://github.com/LTHTR-DST/hdruk_avoidable_admissions/blob/dev/README.md and simplified. Thanks to vvcb and the LTHRT team for all their work on this!
+    │
+    ├── docs/
+    │   ├── index.md             <- The index page
+    │   ├── documentation        <- A brief explanation of the project - consult the main protocol for more details
+    │   ├── data_models          <- The data model specs for the project
+    │   ├── how-to-guides        <- How to Guides including starting from scratch
+    │   ├── code.md              <- Codeshares and docstrings
+    │
+    ├── data_exraction/ 
+    │   ├── synthetic_data       <- Dummy data for testing (please note the dataset provided is incomplete and provided for demonstation of only a part of the process to get started)
+    │   ├── modules/             <- Modules for data extraction
+    │   ├── extraction.ipynb     <- Simple example of extraction process and cleaning with python
+    │
+    ├── data_harmonization/
+    │   ├── synthetic_data       <- Dummy data for testing - will be generated by data_extraction phase (please note the dataset provided is incomplete and provided for demotion of only a part of the process to get you started)
+    │   ├── modules/             <- Modules for data harmonization
+    │   ├── harmonization.ipynb  <- Simple example of data harmonization with python
+    │
+    ├── data_analysis/
+    │   ├── synthetic_data       <- Dummy data for testing - will be generated by data_harmonization phase (please note the dataset provided is incomplete and provided for onstation of only a part of the process to get you started)
+    │   ├── modules/             <- Modules for data analysis
+    │   ├── harmonization.ipynb  <- Simple example of data harmonization with python
+    │   ├── outputs/             <- Output folder for final aggregated results
 
-    mkdocs.yml               # The configuration file.
-    docs/
-        index.md             # The index page
-        documentation.md     # An explanation of the project documentation
-        data_models.md       # The data model specs for the project
-        code.md              # Codeshares and docstrings
-        guides.md            # Guides
-    modules/
-        {to be added}
-
-[^1]: 
-    Purdy S, Griffin T, Salisbury C, Sharp D. Ambulatory care sensitive conditions: terminology and disease coding need to be more specific to aid policy makers and clinicians. Public health. 2009 Feb 1;123(2):169-73. [DOI](https://doi.org/10.1016/j.puhe.2008.11.001)
+Please get in contact if you are struggling with anything as you are likely not on your own and will help others by raising any issues.

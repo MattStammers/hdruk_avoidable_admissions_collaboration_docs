@@ -21,7 +21,9 @@ sdist/
 var/
 data/
 processed/
+analytics/
 wheels/
+avoidable_admissions/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/

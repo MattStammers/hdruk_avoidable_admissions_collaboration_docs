@@ -1,6 +1,19 @@
-## Documentation
+### Population of Interest
 
-This area contains the key documentation elements to aid in the completion of the project.
+- Study period: `>=2021-10-01T00:00:00` to `<2022-10-01T00:00:00` (or `<=2022-10-31T23:59:59`)
+- Patients:
+    - Admitted Patient Care Dataset: All acute emergency admissions for adults (18 years + on day of admission) that had an admission date within the study period
+    - Emergency Care Dataset: All patients attending ED during the study period.
+
+### Criteria for those at high risk of avoidable admission:
+
+The criteria for those at high risk of avoidable admission are considered to be:
+
+* 36 ambulatory care sensitive conditions[^1]. Alternatively this resource can be accessed in the [Directory of Ambulatory
+Emergency Care for Adults](https://www.ambulatoryemergencycare.org.uk/uploads/files/1/AEC-Directory%206th%20edition%20February%202018.pdf)
+* Length of stay in hospital
+* Where possible, investigation and treatment received
+
 
 ### Disease codes associated with ambulatory care sensitive conditions (ACSCs) in common use in the National Health Service (NHS) (n = 19):
 
