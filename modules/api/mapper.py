@@ -1,5 +1,5 @@
 """
-We need to use the ECDS module to map the terms. 
+We need to use the ECDS module to map the terms.
 
 See below pseudocode example:
 
@@ -21,4 +21,3 @@ def Mapper(icd10, snomed) -> str:
     """
     snomed_mapping = icd10.map(mapper)
     return snomed_mapping
-

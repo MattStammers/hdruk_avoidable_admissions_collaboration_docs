@@ -11,10 +11,19 @@ plugins:
 
 nav:
   - Index: index.md
-  - Documentation: documentation.md
-  - Data Models: data_models.md
-  - Guides: guides.md
-  - Code: code.md
+  - Study Documentation:
+    # - Avoidable Admissions: documentation/avoidable_admissions_sap.md
+    # - Winter Pressures Statistical Analysis Plan: documentation/winter_pressures_sap.md
+    - Global Variables Statistical Analysis Plan: documentation/global_variables.md
+  - Data Models:
+    - Admitted Patient Care: data_models/admitted_patient_care_data_model.md
+    - Emergency Care: data_models/emergency_care_data_model.md
+  - How To Guides:
+    - Step 1) New to Python?: how_to_guides/new_to_python.md
+    - Step 2) From Terminal to Notebook/Lab: how_to_guides/from_terminal_to_notebook.md
+    - Step 3) From Notebook/Lab to Extraction and First Validation: how_to_guides/from_notebook_to_data_extract.md
+    - Step 4) From Extraction to Feature Engineering (Part1 Harmonization): how_to_guides/from_extraction_to_feature_engineering.md
+  - Code: code/code.md
 
 markdown_extensions:
   - footnotes
