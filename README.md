@@ -2,17 +2,17 @@
 
 HDRUK Data Science Collaboration on Avoidable Admissions in the NHS.
 
-Please see <https://mattstammers.github.io/hdruk_avoidable_admissions_collaboration_docs/> for an explanation of how to use this repository.
+Please see <https://mattstammers.github.io/hdruk_avoidable_admissions_collaboration_docs/> for an explanation of how to use this repository. Please see [LTHTR-DST Repo](https://github.com/LTHTR-DST/hdruk_avoidable_admissions) for the original codebase used to develop this beginners version. Major credit needs to be given to @vvcb and his team without whom this would not have been possible.
 
 ## Project Setup
 
-The project setup is based on an opinionated [cookiecutter datascience project](https://drivendata.github.io/cookiecutter-data-science/) template but has been significantly simplified to soften the learning curve and help newcomers. If you are new to python we recommend you use this template.
+The project setup is based on an opinionated [cookiecutter datascience project](https://drivendata.github.io/cookiecutter-data-science/) adapted template by the LTHTR team [LTHTR-DST Repo](https://github.com/LTHTR-DST/hdruk_avoidable_admissions) but has been significantly simplified to soften the learning curve and help newcomers. If you are new to python we recommend you use this template but if you are an expert you would be better off with the original as it retains more complex features. 
 
 The setup has only been tested on Windows 10 but should work in linux/mac if a conda environment is used. We recommend using local version control within your trust / Uni environment for all development work. Please also psuedonymise all data you are using according to local standard operating procedures prior to using this template. Never work with non-psuedonymised research data.
 
 # New to Python?
 
-If you are new to python we recommend you go to [how to guides](https://mattstammers.github.io/hdruk_avoidable_admissions_collaboration_docs/how_to_guides/) and don't worry too much about the rest of this readme. If you just want to get cracking then follow the below instructions:
+If you are new to python we recommend you go to [how to guides](https://mattstammers.github.io/hdruk_avoidable_admissions_collaboration_docs/how_to_guides/new_to_python/) and don't worry too much about the rest of this readme. If you just want to get cracking then follow the below instructions:
 
 ### Requirements
 
@@ -22,7 +22,7 @@ Before setting this project up, the following requirements need to be met:
 - Mamba (`conda install mamba -n base -c conda-forge`)
 - Git
 
-How to do all of the above is covered in the how-to-guides. Please go to [how to guides](https://mattstammers.github.io/hdruk_avoidable_admissions_collaboration_docs/how_to_guides/) for details on how to do the above because setting up such things in the NHS and elsewhere is not always straightforward due to permissions etc.
+How to do all of the above is covered in the how-to-guides. Please go to [how to guides](https://mattstammers.github.io/hdruk_avoidable_admissions_collaboration_docs/how_to_guides/new_to_python/) for details on how to do the above because setting up such things in the NHS and elsewhere is not always straightforward due to permissions etc.
 
 ### Quick Start Steps
 
@@ -45,7 +45,7 @@ See `.pre-commit-config.yaml` for what features are enabled by default.
 ### Development Containers
 
 This repo allows the usage of containers for full-featured development using [development containers](https://containers.dev/).
-This can be done either locally using [Visual Studio Code](https://code.visualstudio.com/docs/devcontainers/containers)  or remotely using [GitHub Codespaces](https://github.com/features/codespaces).
+This can be done either locally using [Visual Studio Code](https://code.visualstudio.com/docs/devcontainers/containers) or remotely using [GitHub Codespaces](https://github.com/features/codespaces).
 
 **Local Development:**
 To enable containerised development locally, clone the repositiory and open in VS Code.
