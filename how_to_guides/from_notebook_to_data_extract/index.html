@@ -578,14 +578,14 @@
 
 <h2 id="using-a-notebook-jupyter-lab">Using a notebook / jupyter lab</h2>
 <p>Once you have the notebook or lab working your view should look something like this (lab displayed below). You need nothing else to run the pipeline.</p>
-<p><img alt="Jupyter Lab" src="https://github.com/MattStammers/hdruk_avoidable_admissions_collaboration_docs/blob/southampton/docs/images/notebook.JPG?raw=true" /></p>
+<p><img alt="Jupyter Lab" src="https://github.com/MattStammers/hdruk_avoidable_admissions_collaboration_docs/blob/main/docs/images/notebook.JPG?raw=true" /></p>
 <p>If you don't have a strong preference I recommend using the lab as it has more features and provides a very satisfactory browser based programming environment completely for free on almost any machine.</p>
 <h2 id="why-a-notebook">Why a notebook?</h2>
 <p>Data based projects tend to be very iterative. Notebooks although terrible for production allow a lot of experimentation and testing which is what is needed while learning. They allow us here to strike an optimal balance between all the sites as they minimise the need for software engineering skill while maximising results and visibility for the analyst.</p>
 <h2 id="opening-a-notebook">Opening a notebook</h2>
 <p>First navigate to the data extraction folder. Then open the data extraction notebook - <code>data_extraction.ipynb</code></p>
 <p>It should look something like this:</p>
-<p><img alt="Extraction" src="https://github.com/MattStammers/hdruk_avoidable_admissions_collaboration_docs/blob/southampton/docs/images/extraction.JPG?raw=true" /></p>
+<p><img alt="Extraction" src="https://github.com/MattStammers/hdruk_avoidable_admissions_collaboration_docs/blob/main/docs/images/extraction.JPG?raw=true" /></p>
 <h2 id="importing-packages">Importing packages</h2>
 <p>In order to use the notebook you need to first import the packages. This is done in the first line of the notebook with the lines:</p>
 <pre><code class="language-python">import numpy as np
@@ -608,7 +608,7 @@ import avoidable_admissions as aa
 <p>This process is best done with SQL if possible upon extract but not everyone has that luxury</p>
 <h2 id="first-validation">First Validation</h2>
 <p>Oh dear that didn't go very well and we get a horrible stack trace as below:</p>
-<p><img alt="Validation Failure Case" src="https://github.com/MattStammers/hdruk_avoidable_admissions_collaboration_docs/blob/southampton/docs/images/failure_cases.JPG?raw=true" /></p>
+<p><img alt="Validation Failure Case" src="https://github.com/MattStammers/hdruk_avoidable_admissions_collaboration_docs/blob/main/docs/images/data_error.JPG?raw=true" /></p>
 <p>This means we need to do more work on our dataset before it will pass validation. Presently we have</p>
 <pre><code class="language-python">Total number of rows in input data   : 20000
 Number of rows that passed validation: 0
