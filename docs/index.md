@@ -16,7 +16,7 @@ This is a the web-guide to help facilitate federated data engineering across eac
 
 To facilitate successful working across all involved sites a common approach needs to be taken. This has been well described as below in the following diagram:
 
-![Pipeline Structure](https://github.com/MattStammers/hdruk_avoidable_admissions_collaboration_docs/blob/southampton/docs/images/pipeline.JPG?raw=true)
+![Pipeline Structure](https://github.com/MattStammers/hdruk_avoidable_admissions_collaboration_docs/blob/main/docs/images/pipeline.JPG?raw=true)
 
 As you can see in the diagram there are 3 major steps to the process which are:
 
