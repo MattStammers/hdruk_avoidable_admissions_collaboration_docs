@@ -18,6 +18,12 @@ It should look something like this:
 
 ![Extraction](https://github.com/MattStammers/hdruk_avoidable_admissions_collaboration_docs/blob/main/docs/images/extraction.JPG?raw=true)
 
+### Selecting a Kernel
+
+Before you execute any code make sure you select the hdruk_aa kernel. You can do this by going to 'Kernel' -> 'Change Kernel...'
+
+Select the hdruk_aa kernel.
+
 ## Importing packages
 
 In order to use the notebook you need to first import the packages. This is done in the first line of the notebook with the lines:
