@@ -42,4 +42,8 @@ We need to perform feature engineering as per the protocol to check our work and
 
 `dfa_features = aa.features.build_features.build_admitted_care_features(good.copy())`
 
-[TBC]
+## Pandas Profiling
+
+We are now in a position to try and visualise our synthetic admissions data to see visually how high quality the data is. We can do this with the pandas profiling package which we have loaded into the ipython notebook. We can see that because this data is synthetic most of the variables cluster around a normal distribution - some of this is legitimate but some of it is not.
+
+It gives us a good idea therefore how high quality the data will be going into the next stage. We will next need to harmonize the ED data however.
