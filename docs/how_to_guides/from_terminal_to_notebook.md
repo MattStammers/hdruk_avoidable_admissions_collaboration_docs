@@ -42,6 +42,15 @@ When I was experimenting with this I tried various different environments and py
 
 Activate the environment with `conda activate hdruk_aa` or whatever you have called it. As long as you are in base this should work.
 
+### Adding the condas environment to Jupyter
+
+Just before we open up a Jupyter notebook we first need to make sure that it can see our hdruk_aa condas environment. To this this you will need to run the following in terminal:
+
+```console
+conda install ipykernel
+ipython kernel install --user --name=hdruk_aa
+```
+
 ## Launching the Notebook
 
 You are now ready to launch the notebook or lab. Notebooks are simpler but juptyer-lab has more functionality. Feel free to experiment with whatever you prefer.
