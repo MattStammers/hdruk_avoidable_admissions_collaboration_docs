@@ -42,6 +42,7 @@ When I was experimenting with this I tried various different environments and py
 
 Activate the environment with `conda activate hdruk_aa` or whatever you have called it. As long as you are in base this should work.
 
+
 ### Adding the condas environment to Jupyter
 
 Just before we open up a Jupyter notebook we first need to make sure that it can see our hdruk_aa condas environment. To this this you will need to run the following in terminal:
@@ -50,6 +51,23 @@ Just before we open up a Jupyter notebook we first need to make sure that it can
 conda install ipykernel
 ipython kernel install --user --name=hdruk_aa
 ```
+
+=====optional
+## Installing the avoidable admissions module
+
+There is another module you need to successfully install to be able to use the packages. This is the data validation module developed by LTHTR. To install it you need to call the following in the terminal:
+
+```bat
+pip install "avoidable_admissions[eda] @ git+https://github.com/LTHTR-DST/hdruk_avoidable_admissions.git@{choose_release version}"
+```
+
+So if I wanted to install a production version I could call (fictional call):
+
+```bat
+pip install "avoidable_admissions[eda] @ git+https://github.com/LTHTR-DST/hdruk_avoidable_admissions.git@v1-beta"
+```
+
+You will need to check the repository here to see which production version is currently the most up to date: [Latest_Releases](https://github.com/LTHTR-DST/hdruk_avoidable_admissions/tags)
 
 ## Launching the Notebook
 

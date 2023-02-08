@@ -35,9 +35,7 @@ import pandas as pd
 import avoidable_admissions as aa
 ```
 
-if this doesn't work it is because python can't find the avoidable admissions package inside the repository. A quick way to fix this is to copy this into the data_extraction folder but if you ran through the previous steps in order it should work as the setup.py file looks for this at install and logs its location so python can find it.
-
-The other way to solve the problem is too complicated for the scope of this guide so I recommend copying needed modules into the same root folder as the notebook for now. The priority here is to get going not have a perfect folder structure.
+if this doesn't work it is because python can't find the avoidable admissions package. This is probably because it was installed properly in the earlier steps. A quick way to fix this is to copy this into the data_extraction folder but if you ran through the previous steps in order it should work and copying in the module is not recommended.
 
 NB. The data used in this repository is entirely artificatial and was generated using [NHSx Synthic VAE Data](https://github.com/nhsx/SynthVAE) - it is intentially of low quality to illustrate the validator failing.
 
