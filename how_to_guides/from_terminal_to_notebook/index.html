@@ -443,6 +443,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#installing-the-avoidable-admissions-module" class="md-nav__link">
+    Installing the avoidable admissions module
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#launching-the-notebook" class="md-nav__link">
     Launching the Notebook
   </a>
@@ -567,6 +574,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#installing-the-avoidable-admissions-module" class="md-nav__link">
+    Installing the avoidable admissions module
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#launching-the-notebook" class="md-nav__link">
     Launching the Notebook
   </a>
@@ -614,6 +628,14 @@
 <p>When I was experimenting with this I tried various different environments and python versions tagging '_py3_11' etc onto the end to try them out. At the end you can delete all the ones you don't want. However, if you are new try to just create one and work with that to reduce complexity.</p>
 <h2 id="activating-the-environment">Activating the environment</h2>
 <p>Activate the environment with <code>conda activate hdruk_aa</code> or whatever you have called it. As long as you are in base this should work.</p>
+<h2 id="installing-the-avoidable-admissions-module">Installing the avoidable admissions module</h2>
+<p>There is another module you need to successfully install to be able to use the packages. This is the data validation module developed by LTHTR. To install it you need to call the following in the terminal:</p>
+<pre><code class="language-bat">pip install &quot;avoidable_admissions[eda] @ git+https://github.com/LTHTR-DST/hdruk_avoidable_admissions.git@{choose_release version}&quot;
+</code></pre>
+<p>So if I wanted to install a production version I could call (fictional call):</p>
+<pre><code class="language-bat">pip install &quot;avoidable_admissions[eda] @ git+https://github.com/LTHTR-DST/hdruk_avoidable_admissions.git@v1-beta&quot;
+</code></pre>
+<p>You will need to check the repository here to see which production version is currently the most up to date: <a href="https://github.com/LTHTR-DST/hdruk_avoidable_admissions/tags">Latest_Releases</a></p>
 <h2 id="launching-the-notebook">Launching the Notebook</h2>
 <p>You are now ready to launch the notebook or lab. Notebooks are simpler but juptyer-lab has more functionality. Feel free to experiment with whatever you prefer.</p>
 <ul>
