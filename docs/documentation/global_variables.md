@@ -1,6 +1,6 @@
 ### Population of Interest
 
-- Study period: `>=2021-10-01T00:00:00` to `<=2022-09-30T23:59:59`
+- Study period: `>=2021-11-01T00:00:00` to `<=2022-10-31T23:59:59`
 - Patients:
     - Admitted Patient Care Dataset: All acute emergency admissions for adults (18 years + on day of admission) that had an admission date within the study period
     - Emergency Care Dataset: All patients attending ED during the study period.

@@ -42,6 +42,22 @@ When I was experimenting with this I tried various different environments and py
 
 Activate the environment with `conda activate hdruk_aa` or whatever you have called it. As long as you are in base this should work.
 
+## Installing the avoidable admissions module
+
+There is another module you need to successfully install to be able to use the packages. This is the data validation module developed by LTHTR. To install it you need to call the following in the terminal:
+
+```bat
+pip install "avoidable_admissions[eda] @ git+https://github.com/LTHTR-DST/hdruk_avoidable_admissions.git@{choose_release version}"
+```
+
+So if I wanted to install a production version I could call (fictional call):
+
+```bat
+pip install "avoidable_admissions[eda] @ git+https://github.com/LTHTR-DST/hdruk_avoidable_admissions.git@v1-beta"
+```
+
+You will need to check the repository here to see which production version is currently the most up to date: [Latest_Releases](https://github.com/LTHTR-DST/hdruk_avoidable_admissions/tags)
+
 ## Launching the Notebook
 
 You are now ready to launch the notebook or lab. Notebooks are simpler but juptyer-lab has more functionality. Feel free to experiment with whatever you prefer.
