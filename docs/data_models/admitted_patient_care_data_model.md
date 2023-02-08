@@ -30,6 +30,7 @@ gender|Defines the sex of the patient|To report on patient demographics. No filt
 |opdate_01|The date the primary operative procedure took place.| See epiorder. No filtering|[NHS Data Model PROCEDURE DATE](https://www.datadictionary.nhs.uk/data_elements/procedure_date.html)|
 |opertn_NN|Secondary procedure code| See epiorder. No filtering. May include up to 23 secondary procedure fields, from 02-24.|[NHS Data Model PROCEDURE (OPCS)](https://www.datadictionary.nhs.uk/data_elements/procedure__opcs_.html). Codes required to be in contemporary OPCS-4 coding standard|
 |opdate_NN|Secondary procedure date| See epiorder. No filtering|[NHS Data Model PROCEDURE DATE](https://www.datadictionary.nhs.uk/data_elements/procedure_date.html)|
+|disreadydays|Discharge Ready Days - The difference between the discharge ready date and discharge date (in days) | No filtering |[NHS Data Model DISCHARGE READY DATE](https://www.datadictionary.nhs.uk/data_elements/discharge_ready_date__hospital_provider_spell_.html) to the [NHS Data Model DISCHARGE DATE](https://www.datadictionary.nhs.uk/data_elements/discharge_date__hospital_provider_spell_.html)|
 
 
 Note: We are aware that the CDS allows for unlimited secondary diagnoses and procedures to be recorded. The first recorded 19 such secondary diagnoses and first 23 such secondary procedures are sufficient for our purposes.
